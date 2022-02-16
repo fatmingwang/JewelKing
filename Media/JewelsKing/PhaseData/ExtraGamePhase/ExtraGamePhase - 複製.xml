@@ -1,0 +1,16 @@
+<FreeGamePhase>
+	<JPGame    KeyWord="5" ToNextFreeGameCount="15"/>
+	<FreeGame1 KeyWord="0" ToNextFreeGameCount="0" FallDownSpeed="800"/>
+	<FreeGame2 KeyWord="6" ToNextFreeGameCount="3" />
+	<FreeGame3 KeyWord="15" ToNextFreeGameCount="3" FallDownSpeed="800" TrainMovingTime="1"/>
+	<BonusGame KeyWord="9" ToNextFreeGameCount="3" RockShowRowIndex="1" RockImageName="11" />
+
+
+	<PickGemsForFreeGameAndBonus KeyWord="9" ToNextFreeGameCount="6">
+		<GemsData FreeTimes="25" BonusRate="1,2,3,5"/>
+		<GemsData FreeTimes="20" BonusRate="1,3,5,8"/>
+		<GemsData FreeTimes="15" BonusRate="1,5,8,10"/>
+		<GemsData FreeTimes="13" BonusRate="1,8,10,15"/>
+		<GemsData FreeTimes="10" BonusRate="1,10,15,30"/>
+	</PickGemsForFreeGameAndBonus>
+</FreeGamePhase>

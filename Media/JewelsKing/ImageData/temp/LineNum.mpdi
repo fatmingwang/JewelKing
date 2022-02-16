@@ -1,0 +1,274 @@
+<MPDIList Name="LineNum_mpdi" Count="1" MPDIVersion="1.1" PICount="1" ImageName="Num.pi">
+    <MultiPathDynamicImage Name="LineNum" PathCount="90" PlayCount="-1" TotalPlayTime="0.500000">
+        <CueToStartCurvesWithTime Name="line_1" StartTime="0.100000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="9.00,1012.00,0.00" Time="0.100000" Size="21.00,24.00" PIName="Num" ImageName="line_1" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_1-2" StartTime="0.100000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="733.00,1012.00,0.00" Time="0.100000" Size="21.00,24.00" PIName="Num" ImageName="line_1" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_2" StartTime="0.100000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="9.00,851.00,0.00" Time="0.100000" Size="21.00,24.00" PIName="Num" ImageName="line_1" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_2-2" StartTime="0.100000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="733.00,851.00,0.00" Time="0.100000" Size="21.00,24.00" PIName="Num" ImageName="line_1" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_3" StartTime="0.100000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="9.00,1170.00,0.00" Time="0.100000" Size="21.00,24.00" PIName="Num" ImageName="line_1" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_3-2" StartTime="0.100000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="733.00,1170.00,0.00" Time="0.100000" Size="21.00,24.00" PIName="Num" ImageName="line_1" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_4" StartTime="0.100000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="9.00,891.00,0.00" Time="0.100000" Size="21.00,24.00" PIName="Num" ImageName="line_1" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_4a" StartTime="0.100000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="733.00,891.00,0.00" Time="0.100000" Size="21.00,24.00" PIName="Num" ImageName="line_1" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_5" StartTime="0.100000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="9.00,1134.00,0.00" Time="0.100000" Size="21.00,24.00" PIName="Num" ImageName="line_1" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_5a" StartTime="0.100000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="733.00,1134.00,0.00" Time="0.100000" Size="21.00,24.00" PIName="Num" ImageName="line_1" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_6" StartTime="0.100000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="9.00,972.00,0.00" Time="0.100000" Size="21.00,24.00" PIName="Num" ImageName="line_1" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_6a" StartTime="0.100000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="733.00,972.00,0.00" Time="0.100000" Size="21.00,24.00" PIName="Num" ImageName="line_1" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_7" StartTime="0.100000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="9.00,1053.00,0.00" Time="0.100000" Size="21.00,24.00" PIName="Num" ImageName="line_1" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_7a" StartTime="0.100000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="733.00,1053.00,0.00" Time="0.100000" Size="21.00,24.00" PIName="Num" ImageName="line_1" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_8" StartTime="0.100000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="9.00,930.00,0.00" Time="0.100000" Size="21.00,24.00" PIName="Num" ImageName="line_1" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_8a" StartTime="0.100000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="733.00,930.00,0.00" Time="0.100000" Size="21.00,24.00" PIName="Num" ImageName="line_1" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_9" StartTime="0.100000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="9.00,1092.00,0.00" Time="0.100000" Size="21.00,24.00" PIName="Num" ImageName="line_1" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line9a" StartTime="0.100000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="733.00,1092.00,0.00" Time="0.100000" Size="21.00,24.00" PIName="Num" ImageName="line_1" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_19" StartTime="0.200000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="9.00,1012.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_2" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_1-210" StartTime="0.200000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="733.00,1012.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_2" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_211" StartTime="0.200000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="9.00,851.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_2" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_2-212" StartTime="0.200000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="733.00,851.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_2" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_313" StartTime="0.200000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="9.00,1170.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_2" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_3-214" StartTime="0.200000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="733.00,1170.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_2" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_415" StartTime="0.200000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="9.00,891.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_2" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_4a16" StartTime="0.200000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="733.00,891.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_2" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_517" StartTime="0.200000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="9.00,1134.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_2" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_5a18" StartTime="0.200000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="733.00,1134.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_2" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_619" StartTime="0.200000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="9.00,972.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_2" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_6a20" StartTime="0.200000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="733.00,972.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_2" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_721" StartTime="0.200000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="9.00,1053.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_2" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_7a22" StartTime="0.200000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="733.00,1053.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_2" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_823" StartTime="0.200000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="9.00,930.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_2" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_8a24" StartTime="0.200000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="733.00,930.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_2" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_925" StartTime="0.200000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="9.00,1092.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_2" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line9a26" StartTime="0.200000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="733.00,1092.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_2" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_127" StartTime="0.300000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="9.00,1012.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_3" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_1-228" StartTime="0.300000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="733.00,1012.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_3" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_229" StartTime="0.300000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="9.00,851.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_3" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_2-230" StartTime="0.300000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="733.00,851.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_3" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_331" StartTime="0.300000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="9.00,1170.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_3" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_3-232" StartTime="0.300000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="733.00,1170.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_3" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_433" StartTime="0.300000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="9.00,891.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_3" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_4a34" StartTime="0.300000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="733.00,891.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_3" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_535" StartTime="0.300000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="9.00,1134.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_3" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_5a36" StartTime="0.300000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="733.00,1134.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_3" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_637" StartTime="0.300000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="9.00,972.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_3" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_6a38" StartTime="0.300000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="733.00,972.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_2" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_739" StartTime="0.300000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="9.00,1053.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_3" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_7a40" StartTime="0.300000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="733.00,1053.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_3" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_841" StartTime="0.300000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="9.00,930.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_3" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_8a42" StartTime="0.300000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="733.00,930.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_3" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_943" StartTime="0.300000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="9.00,1092.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_3" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line9a44" StartTime="0.300000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="733.00,1092.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_3" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_145" StartTime="0.400000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="9.00,1012.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_4" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_1-246" StartTime="0.400000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="733.00,1012.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_4" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_247" StartTime="0.400000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="9.00,851.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_4" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_2-248" StartTime="0.400000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="733.00,851.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_4" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_349" StartTime="0.400000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="9.00,1170.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_4" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_3-250" StartTime="0.400000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="733.00,1170.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_4" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_451" StartTime="0.400000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="9.00,891.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_4" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_4a52" StartTime="0.400000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="733.00,891.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_4" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_553" StartTime="0.400000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="9.00,1134.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_4" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_5a54" StartTime="0.400000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="733.00,1134.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_4" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_655" StartTime="0.400000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="9.00,972.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_4" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_6a56" StartTime="0.400000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="733.00,972.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_4" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_757" StartTime="0.400000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="9.00,1053.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_4" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_7a58" StartTime="0.400000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="733.00,1053.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_4" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_859" StartTime="0.400000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="9.00,930.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_4" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_8a60" StartTime="0.400000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="733.00,930.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_4" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_961" StartTime="0.400000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="9.00,1092.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_4" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line9a62" StartTime="0.400000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="733.00,1092.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_4" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_163" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="9.00,1012.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_5" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_1-264" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="733.00,1012.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_5" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_265" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="9.00,851.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_5" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_2-266" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="733.00,851.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_5" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_367" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="9.00,1170.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_5" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_3-268" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="733.00,1170.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_5" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_469" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="9.00,891.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_5" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_4a70" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="733.00,891.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_5" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_571" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="9.00,1134.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_5" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_5a72" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="733.00,1134.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_5" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_673" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="9.00,972.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_5" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_6a74" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="733.00,972.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_5" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_775" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="9.00,1053.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_5" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_7a76" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="733.00,1053.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_5" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_877" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="9.00,930.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_5" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_8a78" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="733.00,930.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_5" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line_979" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="9.00,1092.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_5" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line9a80" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="733.00,1092.00,0.00" Time="0.100000" Size="23.00,24.00" PIName="Num" ImageName="line_5" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+</MPDIList>

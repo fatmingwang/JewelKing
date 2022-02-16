@@ -1,0 +1,248 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="EventManager">
+      <UniqueIdentifier>{39da83ba-0ad8-4849-ba9a-a468079b2a95}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="EventManager\EventParser">
+      <UniqueIdentifier>{5f7b8512-c095-4d12-b106-50d72b58c67b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="EventManager\EventPackageRunner">
+      <UniqueIdentifier>{46091ec6-8cde-4542-8edd-4a337771f339}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Event">
+      <UniqueIdentifier>{b2e42468-f4fc-4a15-bd9d-1aae6351a692}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Event\EventObjectInstance">
+      <UniqueIdentifier>{fb165fea-f90d-4aae-9820-e0397b26b850}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Event\EventInstance">
+      <UniqueIdentifier>{2212dbb5-05d6-422a-9b66-d0bb9afa7b64}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Event\EventObjectStatus">
+      <UniqueIdentifier>{3a464f80-cb56-4b43-a83f-f8eb899eefc8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Event\EventObjectStatus\Base">
+      <UniqueIdentifier>{c21f1d67-fee4-4312-bf35-c57476f876d4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Event\EventObjectStatus\Image">
+      <UniqueIdentifier>{6d5024f1-e866-4d5e-b2a4-7a365c5e36ab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Event\EventObjectStatus\Sound">
+      <UniqueIdentifier>{6e75d6c2-b87c-45c6-a045-c2ee6070f156}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Event\EventObjectStatus\Particle">
+      <UniqueIdentifier>{121b8406-f005-4323-bd58-a49ca96e1796}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Event\EventObjectStatus\Text">
+      <UniqueIdentifier>{a1a11471-dbe9-4d1c-a99e-a0b8801ba588}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Event\Type">
+      <UniqueIdentifier>{8d183fd6-6ead-4e81-83bb-f1fbbf41eba2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Event\Type\Trigger">
+      <UniqueIdentifier>{f481740e-36b6-4fec-9a4c-7885c2146540}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Event\Type\Activer">
+      <UniqueIdentifier>{9c15ca49-9ab3-4104-82d2-866c14720e79}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="EventVariable">
+      <UniqueIdentifier>{7f9be913-ff03-4422-871f-6f4e5e0a1f20}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\stdafx.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="EventManager.cpp">
+      <Filter>EventManager</Filter>
+    </ClCompile>
+    <ClCompile Include="EventActiverParser.cpp">
+      <Filter>EventManager\EventParser</Filter>
+    </ClCompile>
+    <ClCompile Include="EventManagerParser.cpp">
+      <Filter>EventManager\EventParser</Filter>
+    </ClCompile>
+    <ClCompile Include="EventObjectParser.cpp">
+      <Filter>EventManager\EventParser</Filter>
+    </ClCompile>
+    <ClCompile Include="EventToTiXmlElement.cpp">
+      <Filter>EventManager\EventParser</Filter>
+    </ClCompile>
+    <ClCompile Include="EventTriggerParser.cpp">
+      <Filter>EventManager\EventParser</Filter>
+    </ClCompile>
+    <ClCompile Include="EventPackageRunner.cpp">
+      <Filter>EventManager\EventPackageRunner</Filter>
+    </ClCompile>
+    <ClCompile Include="EventBase.cpp">
+      <Filter>Event</Filter>
+    </ClCompile>
+    <ClCompile Include="EventObjectInstance.cpp">
+      <Filter>Event\EventObjectInstance</Filter>
+    </ClCompile>
+    <ClCompile Include="EventInstance.cpp">
+      <Filter>Event\EventInstance</Filter>
+    </ClCompile>
+    <ClCompile Include="EventVariableDataRender.cpp">
+      <Filter>Event\EventObjectStatus</Filter>
+    </ClCompile>
+    <ClCompile Include="EventObject.cpp">
+      <Filter>Event\EventObjectStatus\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="EventImage.cpp">
+      <Filter>Event\EventObjectStatus\Image</Filter>
+    </ClCompile>
+    <ClCompile Include="EventMPDI.cpp">
+      <Filter>Event\EventObjectStatus\Image</Filter>
+    </ClCompile>
+    <ClCompile Include="EventSound.cpp">
+      <Filter>Event\EventObjectStatus\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="EventParticle.cpp">
+      <Filter>Event\EventObjectStatus\Particle</Filter>
+    </ClCompile>
+    <ClCompile Include="EventText.cpp">
+      <Filter>Event\EventObjectStatus\Text</Filter>
+    </ClCompile>
+    <ClCompile Include="EventXMLNodeText.cpp">
+      <Filter>Event\EventObjectStatus\Text</Filter>
+    </ClCompile>
+    <ClCompile Include="EventButtonTrigger.cpp">
+      <Filter>Event\Type\Trigger</Filter>
+    </ClCompile>
+    <ClCompile Include="EventMouseTrigger.cpp">
+      <Filter>Event\Type\Trigger</Filter>
+    </ClCompile>
+    <ClCompile Include="EventObjectStatusCheckrTrigger.cpp">
+      <Filter>Event\Type\Trigger</Filter>
+    </ClCompile>
+    <ClCompile Include="EventSelectionCheckerTrigger.cpp">
+      <Filter>Event\Type\Trigger</Filter>
+    </ClCompile>
+    <ClCompile Include="EventValueCheckerTrigger.cpp">
+      <Filter>Event\Type\Trigger</Filter>
+    </ClCompile>
+    <ClCompile Include="EventActiverByEventVariableValue.cpp">
+      <Filter>Event\Type\Activer</Filter>
+    </ClCompile>
+    <ClCompile Include="EventAddEventObjectInstace.cpp">
+      <Filter>Event\Type\Activer</Filter>
+    </ClCompile>
+    <ClCompile Include="EventButtonSelectedActiver.cpp">
+      <Filter>Event\Type\Activer</Filter>
+    </ClCompile>
+    <ClCompile Include="EventExternalFunctionCallActiver.cpp">
+      <Filter>Event\Type\Activer</Filter>
+    </ClCompile>
+    <ClCompile Include="EventObjecInstanceStatusChangeActiver.cpp">
+      <Filter>Event\Type\Activer</Filter>
+    </ClCompile>
+    <ClCompile Include="EventValueChangerActiver.cpp">
+      <Filter>Event\Type\Activer</Filter>
+    </ClCompile>
+    <ClCompile Include="EventVariable.cpp">
+      <Filter>EventVariable</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AllEventInclude.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="EventHeaderDefine.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\stdafx.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="EventManager.h">
+      <Filter>EventManager</Filter>
+    </ClInclude>
+    <ClInclude Include="EventPackageRunner.h">
+      <Filter>EventManager\EventPackageRunner</Filter>
+    </ClInclude>
+    <ClInclude Include="AllEventTypeInclude.h">
+      <Filter>Event</Filter>
+    </ClInclude>
+    <ClInclude Include="EventBase.h">
+      <Filter>Event</Filter>
+    </ClInclude>
+    <ClInclude Include="EventObjectInstance.h">
+      <Filter>Event\EventObjectInstance</Filter>
+    </ClInclude>
+    <ClInclude Include="EventInstance.h">
+      <Filter>Event\EventInstance</Filter>
+    </ClInclude>
+    <ClInclude Include="EventVariableDataRender.h">
+      <Filter>Event\EventObjectStatus</Filter>
+    </ClInclude>
+    <ClInclude Include="EventObject.h">
+      <Filter>Event\EventObjectStatus\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="EventImage.h">
+      <Filter>Event\EventObjectStatus\Image</Filter>
+    </ClInclude>
+    <ClInclude Include="EventMPDI.h">
+      <Filter>Event\EventObjectStatus\Image</Filter>
+    </ClInclude>
+    <ClInclude Include="EventSound.h">
+      <Filter>Event\EventObjectStatus\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="EventParticle.h">
+      <Filter>Event\EventObjectStatus\Particle</Filter>
+    </ClInclude>
+    <ClInclude Include="EventText.h">
+      <Filter>Event\EventObjectStatus\Text</Filter>
+    </ClInclude>
+    <ClInclude Include="EventXMLNodeText.h">
+      <Filter>Event\EventObjectStatus\Text</Filter>
+    </ClInclude>
+    <ClInclude Include="EventButtonTrigger.h">
+      <Filter>Event\Type\Trigger</Filter>
+    </ClInclude>
+    <ClInclude Include="EventMouseTrigger.h">
+      <Filter>Event\Type\Trigger</Filter>
+    </ClInclude>
+    <ClInclude Include="EventObjectStatusCheckrTrigger.h">
+      <Filter>Event\Type\Trigger</Filter>
+    </ClInclude>
+    <ClInclude Include="EventSelectionCheckerTrigger.h">
+      <Filter>Event\Type\Trigger</Filter>
+    </ClInclude>
+    <ClInclude Include="EventValueCheckerTrigger.h">
+      <Filter>Event\Type\Trigger</Filter>
+    </ClInclude>
+    <ClInclude Include="EventActiverByEventVariableValue.h">
+      <Filter>Event\Type\Activer</Filter>
+    </ClInclude>
+    <ClInclude Include="EventAddEventObjectInstace.h">
+      <Filter>Event\Type\Activer</Filter>
+    </ClInclude>
+    <ClInclude Include="EventButtonSelectedActiver.h">
+      <Filter>Event\Type\Activer</Filter>
+    </ClInclude>
+    <ClInclude Include="EventExternalFunctionCallActiver.h">
+      <Filter>Event\Type\Activer</Filter>
+    </ClInclude>
+    <ClInclude Include="EventObjecInstanceStatusChangeActiver.h">
+      <Filter>Event\Type\Activer</Filter>
+    </ClInclude>
+    <ClInclude Include="EventValueChangerActiver.h">
+      <Filter>Event\Type\Activer</Filter>
+    </ClInclude>
+    <ClInclude Include="EventVariable.h">
+      <Filter>EventVariable</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Readme.txt" />
+  </ItemGroup>
+</Project>

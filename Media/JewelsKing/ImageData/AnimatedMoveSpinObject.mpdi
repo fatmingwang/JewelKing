@@ -1,0 +1,9 @@
+<MPDIList Name="AnimatedMoveSpinObject_mpdi" Count="1" MPDIVersion="1.0" PICount="1" ImageName="SpinObject.pi">
+    <MultiPathDynamicImage Name="AnimatedMoveSpinObject" PathCount="1" PlayCount="-1" TotalPlayTime="1.000000">
+        <CueToStartCurvesWithTime Name="AnimatedMoveSpinObject" StartTime="0.000000" Count="3" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="64.00,64.00" PIName="SpinObject" ImageName="10" />
+            <PointDataList Index="1" Position="0.00,200.13,0.00" Time="0.800000" Size="64.00,64.00" PIName="SpinObject" ImageName="10" />
+            <PointDataList Index="2" Position="0.00,192.00,0.00" Time="1.000000" Size="64.00,64.00" PIName="SpinObject" ImageName="10" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+</MPDIList>

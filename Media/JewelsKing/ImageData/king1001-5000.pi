@@ -1,0 +1,35 @@
+<!-- Author:User,Time:2012/5/15 ¤U¤È 04:54:30 -->
+<PuzzleImage OriginalNameSort="king_1001-5000_00,king_1001-5000_01,king_1001-5000_02,king_1001-5000_03,king_1001-5000_04,king_1001-5000_05,king_1001-5000_06,king_1001-5000_07,king_1001-5000_08,king_1001-5000_09,king_1001-5000_10,king_1001-5000_11,king_1001-5000_15,king_1001-5000_16,king_1001-5000_17,king_1001-5000_18,king_1001-5000_19,king_1001-5000_20,king_1001-5000_21,diamainrainparticle_01,diamainrainparticle_02,diamainrainparticle_03,diamainrainparticle_04,diamainrainparticle_05,diamainrainparticle_06,diamainrainparticle_07,diamainrainparticle_08,diamainrainparticle_09,diamainrainparticle_10,diamainrainparticle_11,diamainrainparticle_12,diamainrainparticle_13" ImageName="king1001-5000.png" Count="32" GeneratePuzzleimageUnit="0">
+    <PuzzleUnit Name="diamainrainparticle_01" UV="0.6705,0.5745454,0.7125,0.6272727" OffsetPos="92,250" Size="168,116" OriginalSize="390,366" ShowPosInPI="2682,1264" />
+    <PuzzleUnit Name="diamainrainparticle_02" UV="0.71275,0.5745454,0.761,0.6445454" OffsetPos="105,212" Size="193,154" OriginalSize="390,366" ShowPosInPI="2851,1264" />
+    <PuzzleUnit Name="diamainrainparticle_03" UV="0.76125,0.5745454,0.81225,0.6631818" OffsetPos="103,171" Size="204,195" OriginalSize="390,366" ShowPosInPI="3045,1264" />
+    <PuzzleUnit Name="diamainrainparticle_04" UV="0.8125,0.5745454,0.872,0.6727273" OffsetPos="92,150" Size="238,216" OriginalSize="390,366" ShowPosInPI="3250,1264" />
+    <PuzzleUnit Name="diamainrainparticle_05" UV="0.87225,0.5745454,0.934,0.6790909" OffsetPos="85,136" Size="247,230" OriginalSize="390,366" ShowPosInPI="3489,1264" />
+    <PuzzleUnit Name="diamainrainparticle_06" UV="0,0.8609091,0.067,0.9695455" OffsetPos="79,127" Size="268,239" OriginalSize="390,366" ShowPosInPI="0,1894" />
+    <PuzzleUnit Name="diamainrainparticle_07" UV="0.06725,0.8609091,0.14,0.9704546" OffsetPos="76,125" Size="291,241" OriginalSize="390,366" ShowPosInPI="269,1894" />
+    <PuzzleUnit Name="diamainrainparticle_08" UV="0.14025,0.8609091,0.219,0.9627272" OffsetPos="67,142" Size="315,224" OriginalSize="390,366" ShowPosInPI="561,1894" />
+    <PuzzleUnit Name="diamainrainparticle_09" UV="0.21925,0.8609091,0.30425,0.9468182" OffsetPos="50,175" Size="340,189" OriginalSize="390,366" ShowPosInPI="877,1894" />
+    <PuzzleUnit Name="diamainrainparticle_10" UV="0.3045,0.8609091,0.379,0.9404545" OffsetPos="92,191" Size="298,175" OriginalSize="390,366" ShowPosInPI="1218,1894" />
+    <PuzzleUnit Name="diamainrainparticle_11" UV="0.37925,0.8609091,0.4165,0.9190909" OffsetPos="181,238" Size="149,128" OriginalSize="390,366" ShowPosInPI="1517,1894" />
+    <PuzzleUnit Name="diamainrainparticle_12" UV="0.41675,0.8609091,0.443,0.9081818" OffsetPos="440,563" Size="105,104" OriginalSize="779,732" ShowPosInPI="1667,1894" />
+    <PuzzleUnit Name="diamainrainparticle_13" UV="0.44325,0.8609091,0.45675,0.8777273" OffsetPos="218,329" Size="54,37" OriginalSize="390,366" ShowPosInPI="1773,1894" />
+    <PuzzleUnit Name="king_1001-5000_00" UV="0,0,0.12225,0.2863636" OffsetPos="165,125" Size="489,630" OriginalSize="760,755" ShowPosInPI="0,0" />
+    <PuzzleUnit Name="king_1001-5000_01" UV="0.1225,0,0.25175,0.2872727" OffsetPos="149,123" Size="517,632" OriginalSize="760,755" ShowPosInPI="490,0" />
+    <PuzzleUnit Name="king_1001-5000_02" UV="0.252,0,0.39125,0.2836364" OffsetPos="132,131" Size="557,624" OriginalSize="760,755" ShowPosInPI="1008,0" />
+    <PuzzleUnit Name="king_1001-5000_03" UV="0.3915,0,0.54525,0.2745455" OffsetPos="119,151" Size="615,604" OriginalSize="760,755" ShowPosInPI="1566,0" />
+    <PuzzleUnit Name="king_1001-5000_04" UV="0.5455,0,0.69875,0.2668182" OffsetPos="109,168" Size="613,587" OriginalSize="760,755" ShowPosInPI="2182,0" />
+    <PuzzleUnit Name="king_1001-5000_05" UV="0.699,0,0.84925,0.2631818" OffsetPos="109,176" Size="601,579" OriginalSize="760,755" ShowPosInPI="2796,0" />
+    <PuzzleUnit Name="king_1001-5000_06" UV="0.8495,0,0.9985,0.2672727" OffsetPos="104,167" Size="596,588" OriginalSize="760,755" ShowPosInPI="3398,0" />
+    <PuzzleUnit Name="king_1001-5000_07" UV="0,0.2872727,0.15125,0.565" OffsetPos="92,144" Size="605,611" OriginalSize="760,755" ShowPosInPI="0,632" />
+    <PuzzleUnit Name="king_1001-5000_08" UV="0.1515,0.2872727,0.309,0.5727273" OffsetPos="80,127" Size="630,628" OriginalSize="760,755" ShowPosInPI="606,632" />
+    <PuzzleUnit Name="king_1001-5000_09" UV="0.30925,0.2872727,0.453,0.5745454" OffsetPos="114,123" Size="575,632" OriginalSize="760,755" ShowPosInPI="1237,632" />
+    <PuzzleUnit Name="king_1001-5000_10" UV="0.45325,0.2872727,0.58775,0.5718182" OffsetPos="125,129" Size="538,626" OriginalSize="760,755" ShowPosInPI="1813,632" />
+    <PuzzleUnit Name="king_1001-5000_11" UV="0.588,0.2872727,0.71825,0.5681818" OffsetPos="131,137" Size="521,618" OriginalSize="760,755" ShowPosInPI="2352,632" />
+    <PuzzleUnit Name="king_1001-5000_15" UV="0.7185,0.2872727,0.85025,0.5686364" OffsetPos="124,136" Size="527,619" OriginalSize="760,755" ShowPosInPI="2874,632" />
+    <PuzzleUnit Name="king_1001-5000_16" UV="0.8505,0.2872727,0.98375,0.57" OffsetPos="104,133" Size="533,622" OriginalSize="760,755" ShowPosInPI="3402,632" />
+    <PuzzleUnit Name="king_1001-5000_17" UV="0,0.5745454,0.1385,0.8581818" OffsetPos="87,131" Size="554,624" OriginalSize="760,755" ShowPosInPI="0,1264" />
+    <PuzzleUnit Name="king_1001-5000_18" UV="0.13875,0.5745454,0.279,0.8590909" OffsetPos="84,129" Size="561,626" OriginalSize="760,755" ShowPosInPI="555,1264" />
+    <PuzzleUnit Name="king_1001-5000_19" UV="0.27925,0.5745454,0.41675,0.86" OffsetPos="98,127" Size="550,628" OriginalSize="760,755" ShowPosInPI="1117,1264" />
+    <PuzzleUnit Name="king_1001-5000_20" UV="0.417,0.5745454,0.54775,0.8604546" OffsetPos="129,126" Size="523,629" OriginalSize="760,755" ShowPosInPI="1668,1264" />
+    <PuzzleUnit Name="king_1001-5000_21" UV="0.548,0.5745454,0.67025,0.8609091" OffsetPos="165,125" Size="489,630" OriginalSize="760,755" ShowPosInPI="2192,1264" />
+</PuzzleImage>

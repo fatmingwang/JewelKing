@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Ogg">
+</Property><Property Name="Solution File" Value="C:\Users\user\Desktop\FM79979\Ogg\Ogg.sln">
+</Property><Property Name="User Options File" Value="C:\Users\user\Desktop\FM79979\Ogg\Ogg.suo">
+</Property><Property Name="Date" Value="2012年3月2日">
+</Property><Property Name="Time" Value="上午 10:36">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Ogg.sln" Description="File successfully backed up as C:\Users\user\Desktop\FM79979\Ogg\Ogg.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="Ogg.suo" Description="File successfully backed up as C:\Users\user\Desktop\FM79979\Ogg\Ogg.suo.old">
+</Event><Event ErrorLevel="0" Project="Ogg" Source="Ogg.vcproj" Description="Converting project file 'C:\Users\user\Desktop\FM79979\Ogg\Ogg.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Ogg" Source="Ogg.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="Ogg" Source="Ogg.vcproj" Description="MSB8012: $(TargetPath) ('C:\Users\user\Desktop\FM79979\Ogg\..\lib\Ogg.lib') does not match the Librarian's OutputFile property value '..\lib\Ogg.lib' ('C:\Users\user\Desktop\FM79979\lib\Ogg.lib') in project configuration 'Debug|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Lib.OutputFile).">
+</Event><Event ErrorLevel="1" Project="Ogg" Source="Ogg.vcproj" Description="MSB8012: $(TargetPath) ('C:\Users\user\Desktop\FM79979\Ogg\..\lib\Ogg.lib') does not match the Librarian's OutputFile property value '..\lib\Ogg.lib' ('C:\Users\user\Desktop\FM79979\lib\Ogg.lib') in project configuration 'Release|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Lib.OutputFile).">
+</Event><Event ErrorLevel="0" Project="Ogg" Source="Ogg.vcproj" Description="Done converting to new project file 'C:\Users\user\Desktop\FM79979\Ogg\Ogg.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Ogg" Source="Ogg.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Ogg.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Ogg.sln" Description="Converted">
+</Event></UpgradeLog>

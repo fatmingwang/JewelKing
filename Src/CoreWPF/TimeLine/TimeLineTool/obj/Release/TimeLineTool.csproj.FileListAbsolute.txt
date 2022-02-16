@@ -1,0 +1,9 @@
+H:\FM79979\Src\CoreWPF\TimeLine\TimeLineTool\bin\Release\TimeLineTool.dll
+H:\FM79979\Src\CoreWPF\TimeLine\TimeLineTool\bin\Release\TimeLineTool.pdb
+H:\FM79979\Src\CoreWPF\TimeLine\TimeLineTool\bin\Release\GongSolutions.Wpf.DragDrop.dll
+H:\FM79979\Src\CoreWPF\TimeLine\TimeLineTool\bin\Release\GongSolutions.Wpf.DragDrop.pdb
+H:\FM79979\Src\CoreWPF\TimeLine\TimeLineTool\obj\Release\ResolveAssemblyReference.cache
+H:\FM79979\Src\CoreWPF\TimeLine\TimeLineTool\obj\Release\TimeLineTool.dll
+H:\FM79979\Src\CoreWPF\TimeLine\TimeLineTool\obj\Release\TimeLineTool.pdb
+H:\FM79979\Media\TimeLineTool.dll
+H:\FM79979\Media\TimeLineTool.pdb

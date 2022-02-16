@@ -1,0 +1,29 @@
+<IODataInfoList Count="2">
+    <IOData Name="BetMax" 	KeyData="G" IOType="Input" SetStartSingnal="0" StartSingnal="0" MemoryAddress="6" BitAdress="0" HighCircle="0.000000" LowCircle="0.000000" ActiveDelay="0.000000" InactiveDelay="0.000000" WorkingSingnal="0" Enable="1" />
+    <IOData Name="Spin" 	KeyData="S" IOType="Input" SetStartSingnal="0" StartSingnal="0" MemoryAddress="5" BitAdress="0" HighCircle="0.000000" LowCircle="0.000000" ActiveDelay="0.000000" InactiveDelay="0.000000" WorkingSingnal="0" Enable="1" />
+
+
+    <IOData Name="AddBetMoney" 	KeyData="L" IOType="Input" SetStartSingnal="0" StartSingnal="0" MemoryAddress="7" BitAdress="0" HighCircle="0.000000" LowCircle="0.000000" ActiveDelay="0.000000" InactiveDelay="0.000000" WorkingSingnal="0" Enable="1" />
+    <IOData Name="AddBetLine" 	KeyData="I" IOType="Input" SetStartSingnal="0" StartSingnal="0" MemoryAddress="9" BitAdress="0" HighCircle="0.000000" LowCircle="0.000000" ActiveDelay="0.000000" InactiveDelay="0.000000" WorkingSingnal="0" Enable="1" />
+
+    <IOData Name="AutoSpin" 	KeyData="A" IOType="Input" SetStartSingnal="0" StartSingnal="0" MemoryAddress="8" BitAdress="0" HighCircle="0.000000" LowCircle="0.000000" ActiveDelay="0.000000" InactiveDelay="0.000000" WorkingSingnal="0" Enable="1" />
+
+
+    <IOData Name="Select1" 	KeyData="C" IOType="Input" SetStartSingnal="0" StartSingnal="0" MemoryAddress="0" BitAdress="0" HighCircle="0.000000" LowCircle="0.000000" ActiveDelay="0.000000" InactiveDelay="0.000000" WorkingSingnal="0" Enable="1" />
+    <IOData Name="Select2" 	KeyData="V" IOType="Input" SetStartSingnal="0" StartSingnal="0" MemoryAddress="1" BitAdress="0" HighCircle="0.000000" LowCircle="0.000000" ActiveDelay="0.000000" InactiveDelay="0.000000" WorkingSingnal="0" Enable="1" />
+    <IOData Name="Select3" 	KeyData="B" IOType="Input" SetStartSingnal="0" StartSingnal="0" MemoryAddress="2" BitAdress="0" HighCircle="0.000000" LowCircle="0.000000" ActiveDelay="0.000000" InactiveDelay="0.000000" WorkingSingnal="0" Enable="1" />
+    <IOData Name="Select4" 	KeyData="N" IOType="Input" SetStartSingnal="0" StartSingnal="0" MemoryAddress="3" BitAdress="0" HighCircle="0.000000" LowCircle="0.000000" ActiveDelay="0.000000" InactiveDelay="0.000000" WorkingSingnal="0" Enable="1" />
+    <IOData Name="Select5" 	KeyData="M" IOType="Input" SetStartSingnal="0" StartSingnal="0" MemoryAddress="6" BitAdress="0" HighCircle="0.000000" LowCircle="0.000000" ActiveDelay="0.000000" InactiveDelay="0.000000" WorkingSingnal="0" Enable="1" />
+
+    <IOData Name="Refound" 	KeyData="O" IOType="Input" SetStartSingnal="0" StartSingnal="0" MemoryAddress="13" BitAdress="0" HighCircle="0.000000" LowCircle="0.000000" ActiveDelay="0.000000" InactiveDelay="0.000000" WorkingSingnal="0" Enable="1" />
+
+    <IOData Name="CoinToast" 	KeyData="U" IOType="Input" SetStartSingnal="0" StartSingnal="0" MemoryAddress="21" BitAdress="0" HighCircle="0.000000" LowCircle="0.000000" ActiveDelay="0.000000" InactiveDelay="0.000000" WorkingSingnal="0" Enable="1" />
+    <IOData Name="CoinRefound" 	KeyData="Z" IOType="Input" SetStartSingnal="0" StartSingnal="0" MemoryAddress="4" BitAdress="0" HighCircle="0.000000" LowCircle="0.000000" ActiveDelay="0.000000" InactiveDelay="0.000000" WorkingSingnal="0" Enable="1" />
+    <IOData Name="ReadMe" 	KeyData="R" IOType="Input" SetStartSingnal="0" StartSingnal="0" MemoryAddress="0" BitAdress="0" HighCircle="0.000000" LowCircle="0.000000" ActiveDelay="0.000000" InactiveDelay="0.000000" WorkingSingnal="0" Enable="1" />
+    <IOData Name="ExchangeIn" 	KeyData="T" IOType="Input" SetStartSingnal="0" StartSingnal="0" MemoryAddress="11" BitAdress="0" HighCircle="0.000000" LowCircle="0.000000" ActiveDelay="0.000000" InactiveDelay="0.000000" WorkingSingnal="0" Enable="1" />
+    <IOData Name="ExchangeOut" 	KeyData="Y" IOType="Input" SetStartSingnal="0" StartSingnal="0" MemoryAddress="12" BitAdress="0" HighCircle="0.000000" LowCircle="0.000000" ActiveDelay="0.000000" InactiveDelay="0.000000" WorkingSingnal="0" Enable="1" />
+    <IOData Name="VendorMenu" 	KeyData="Q" IOType="Input" SetStartSingnal="0" StartSingnal="0" MemoryAddress="20" BitAdress="0" HighCircle="0.000000" LowCircle="0.000000" ActiveDelay="0.000000" InactiveDelay="0.000000" WorkingSingnal="0" Enable="1" />
+    <IOData Name="AdmitMenu" 	KeyData="W" IOType="Input" SetStartSingnal="0" StartSingnal="0" MemoryAddress="19" BitAdress="0" HighCircle="0.000000" LowCircle="0.000000" ActiveDelay="0.000000" InactiveDelay="0.000000" WorkingSingnal="0" Enable="1" />
+
+    <IOData Name="Motor" IOType="Output" SetStartSingnal="0" StartSingnal="0" MemoryAddress="5" BitAdress="0" HighCircle="0.000000" LowCircle="0.000000" ActiveDelay="0.000000" InactiveDelay="0.000000" WorkingSingnal="0" Enable="1" />
+</IODataInfoList>

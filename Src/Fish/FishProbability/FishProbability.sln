@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FishProbability", "FishProbability.vcproj", "{EE85B901-4FF3-430F-9F83-8631B27095A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE85B901-4FF3-430F-9F83-8631B27095A9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EE85B901-4FF3-430F-9F83-8631B27095A9}.Debug|Win32.Build.0 = Debug|Win32
+		{EE85B901-4FF3-430F-9F83-8631B27095A9}.Release|Win32.ActiveCfg = Release|Win32
+		{EE85B901-4FF3-430F-9F83-8631B27095A9}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

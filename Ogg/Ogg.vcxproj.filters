@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
+    </Filter>
+    <Filter Include="Sound">
+      <UniqueIdentifier>{d9e16fa6-d05e-41b6-9496-25d229e24a2b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Ogg">
+      <UniqueIdentifier>{b290151d-c289-40dd-a943-ee3c27b565e3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Myogg.cpp">
+      <Filter>Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="analysis.c">
+      <Filter>Ogg</Filter>
+    </ClCompile>
+    <ClCompile Include="barkmel.c">
+      <Filter>Ogg</Filter>
+    </ClCompile>
+    <ClCompile Include="bitrate.c">
+      <Filter>Ogg</Filter>
+    </ClCompile>
+    <ClCompile Include="bitwise.c">
+      <Filter>Ogg</Filter>
+    </ClCompile>
+    <ClCompile Include="block.c">
+      <Filter>Ogg</Filter>
+    </ClCompile>
+    <ClCompile Include="codebook.c">
+      <Filter>Ogg</Filter>
+    </ClCompile>
+    <ClCompile Include="envelope.c">
+      <Filter>Ogg</Filter>
+    </ClCompile>
+    <ClCompile Include="floor0.c">
+      <Filter>Ogg</Filter>
+    </ClCompile>
+    <ClCompile Include="floor1.c">
+      <Filter>Ogg</Filter>
+    </ClCompile>
+    <ClCompile Include="framing.c">
+      <Filter>Ogg</Filter>
+    </ClCompile>
+    <ClCompile Include="info.c">
+      <Filter>Ogg</Filter>
+    </ClCompile>
+    <ClCompile Include="lookup.c">
+      <Filter>Ogg</Filter>
+    </ClCompile>
+    <ClCompile Include="lpc.c">
+      <Filter>Ogg</Filter>
+    </ClCompile>
+    <ClCompile Include="lsp.c">
+      <Filter>Ogg</Filter>
+    </ClCompile>
+    <ClCompile Include="mapping0.c">
+      <Filter>Ogg</Filter>
+    </ClCompile>
+    <ClCompile Include="mdct.c">
+      <Filter>Ogg</Filter>
+    </ClCompile>
+    <ClCompile Include="psy.c">
+      <Filter>Ogg</Filter>
+    </ClCompile>
+    <ClCompile Include="registry.c">
+      <Filter>Ogg</Filter>
+    </ClCompile>
+    <ClCompile Include="res0.c">
+      <Filter>Ogg</Filter>
+    </ClCompile>
+    <ClCompile Include="sharedbook.c">
+      <Filter>Ogg</Filter>
+    </ClCompile>
+    <ClCompile Include="smallft.c">
+      <Filter>Ogg</Filter>
+    </ClCompile>
+    <ClCompile Include="synthesis.c">
+      <Filter>Ogg</Filter>
+    </ClCompile>
+    <ClCompile Include="vorbisenc.c">
+      <Filter>Ogg</Filter>
+    </ClCompile>
+    <ClCompile Include="vorbisfile.c">
+      <Filter>Ogg</Filter>
+    </ClCompile>
+    <ClCompile Include="window.c">
+      <Filter>Ogg</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Myogg.h">
+      <Filter>Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="backends.h">
+      <Filter>Ogg</Filter>
+    </ClInclude>
+    <ClInclude Include="bitrate.h">
+      <Filter>Ogg</Filter>
+    </ClInclude>
+    <ClInclude Include="codebook.h">
+      <Filter>Ogg</Filter>
+    </ClInclude>
+    <ClInclude Include="vorbis\codec.h">
+      <Filter>Ogg</Filter>
+    </ClInclude>
+    <ClInclude Include="codec_internal.h">
+      <Filter>Ogg</Filter>
+    </ClInclude>
+    <ClInclude Include="envelope.h">
+      <Filter>Ogg</Filter>
+    </ClInclude>
+    <ClInclude Include="highlevel.h">
+      <Filter>Ogg</Filter>
+    </ClInclude>
+    <ClInclude Include="lookup.h">
+      <Filter>Ogg</Filter>
+    </ClInclude>
+    <ClInclude Include="lookup_data.h">
+      <Filter>Ogg</Filter>
+    </ClInclude>
+    <ClInclude Include="lpc.h">
+      <Filter>Ogg</Filter>
+    </ClInclude>
+    <ClInclude Include="lsp.h">
+      <Filter>Ogg</Filter>
+    </ClInclude>
+    <ClInclude Include="masking.h">
+      <Filter>Ogg</Filter>
+    </ClInclude>
+    <ClInclude Include="mdct.h">
+      <Filter>Ogg</Filter>
+    </ClInclude>
+    <ClInclude Include="misc.h">
+      <Filter>Ogg</Filter>
+    </ClInclude>
+    <ClInclude Include="Ogg\ogg.h">
+      <Filter>Ogg</Filter>
+    </ClInclude>
+    <ClInclude Include="os.h">
+      <Filter>Ogg</Filter>
+    </ClInclude>
+    <ClInclude Include="Ogg\os_types.h">
+      <Filter>Ogg</Filter>
+    </ClInclude>
+    <ClInclude Include="psy.h">
+      <Filter>Ogg</Filter>
+    </ClInclude>
+    <ClInclude Include="registry.h">
+      <Filter>Ogg</Filter>
+    </ClInclude>
+    <ClInclude Include="scales.h">
+      <Filter>Ogg</Filter>
+    </ClInclude>
+    <ClInclude Include="smallft.h">
+      <Filter>Ogg</Filter>
+    </ClInclude>
+    <ClInclude Include="vorbis\vorbisenc.h">
+      <Filter>Ogg</Filter>
+    </ClInclude>
+    <ClInclude Include="vorbis\vorbisfile.h">
+      <Filter>Ogg</Filter>
+    </ClInclude>
+    <ClInclude Include="window.h">
+      <Filter>Ogg</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

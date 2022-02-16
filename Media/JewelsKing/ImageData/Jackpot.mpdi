@@ -1,0 +1,103 @@
+<MPDIList Name="Jackpot_mpdi" Count="5" MPDIVersion="1.1" PICount="1" ImageName="Jackpot.pi">
+    <MultiPathDynamicImage Name="Jackpot1In" PathCount="2" PlayCount="1" TotalPlayTime="1.400000">
+        <CueToStartCurvesWithTime Name="black " BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="1">
+            <PointDataList Index="0" Position="277.00,982.00,0.00" Time="0.000000" Size="800.00,572.00" Color="1.00,1.00,1.00,0.00" PIName="Jackpot" ImageName="black " />
+            <PointDataList Index="1" Position="277.00,982.00,0.00" Time="0.100000" Size="800.00,572.00" Color="1.00,1.00,1.00,0.26" PIName="Jackpot" ImageName="black " />
+            <PointDataList Index="2" Position="277.00,982.00,0.00" Time="0.200000" Size="800.00,572.00" Color="1.00,1.00,1.00,0.52" PIName="Jackpot" ImageName="black " />
+            <PointDataList Index="3" Position="277.00,982.00,0.00" Time="0.300000" Size="800.00,572.00" Color="1.00,1.00,1.00,0.78" PIName="Jackpot" ImageName="black " />
+            <PointDataList Index="4" Position="277.00,982.00,0.00" Time="1.400000" Size="800.00,572.00" Color="1.00,1.00,1.00,0.78" PIName="Jackpot" ImageName="black " />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="JP" StartTime="0.000000" AnchorType="CenterCenter" Count="15" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="286.00,273.00" PIName="Jackpot" ImageName="JP_01" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.100000" Size="230.00,236.00" PIName="Jackpot" ImageName="JP_02" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.200000" Size="228.00,237.00" PIName="Jackpot" ImageName="JP_03" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.300000" Size="248.00,196.00" PIName="Jackpot" ImageName="JP_04" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.400000" Size="251.00,235.00" PIName="Jackpot" ImageName="JP_05" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.500000" Size="441.00,400.00" PIName="Jackpot" ImageName="JP_06" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.600000" Size="629.00,402.00" PIName="Jackpot" ImageName="JP_07" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="0.700000" Size="597.00,412.00" PIName="Jackpot" ImageName="JP_08" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="0.800000" Size="629.00,410.00" PIName="Jackpot" ImageName="JP_09" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="0.900000" Size="629.00,452.00" PIName="Jackpot" ImageName="JP_10" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="1.000000" Size="629.00,574.00" PIName="Jackpot" ImageName="JP_11" />
+            <PointDataList Index="11" Position="0.00,0.00,0.00" Time="1.100000" Size="629.00,574.00" PIName="Jackpot" ImageName="JP_12" />
+            <PointDataList Index="12" Position="0.00,0.00,0.00" Time="1.200000" Size="629.00,574.00" PIName="Jackpot" ImageName="JP_13" />
+            <PointDataList Index="13" Position="0.00,0.00,0.00" Time="1.300000" Size="629.00,387.00" PIName="Jackpot" ImageName="JP_14" />
+            <PointDataList Index="14" Position="0.00,0.00,0.00" Time="1.400000" Size="629.00,387.00" PIName="Jackpot" ImageName="JP_15" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="Jackpot1Idle" PathCount="2" PlayCount="1" TotalPlayTime="11.600000">
+        <CueToStartCurvesWithTime Name="black " StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="1">
+            <PointDataList Index="0" Position="277.00,982.00,0.00" Time="0.000000" Size="800.00,572.00" Color="1.00,1.00,1.00,0.78" PIName="Jackpot" ImageName="black " />
+            <PointDataList Index="1" Position="277.00,982.00,0.00" Time="2.900000" Size="800.00,572.00" Color="1.00,1.00,1.00,0.78" PIName="Jackpot" ImageName="black " />
+            <PointDataList Index="2" Position="277.00,982.00,0.00" Time="5.800000" Size="800.00,572.00" Color="1.00,1.00,1.00,0.78" PIName="Jackpot" ImageName="black " />
+            <PointDataList Index="3" Position="277.00,982.00,0.00" Time="8.700001" Size="800.00,572.00" Color="1.00,1.00,1.00,0.78" PIName="Jackpot" ImageName="black " />
+            <PointDataList Index="4" Position="277.00,982.00,0.00" Time="11.600000" Size="800.00,572.00" Color="1.00,1.00,1.00,0.78" PIName="Jackpot" ImageName="black " />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="JP" StartTime="0.000000" AnchorType="CenterCenter" Count="11" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="629.00,387.00" PIName="Jackpot" ImageName="JP_15" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.100000" Size="629.00,400.00" PIName="Jackpot" ImageName="JP_16" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.200000" Size="629.00,402.00" PIName="Jackpot" ImageName="JP_17" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.300000" Size="629.00,397.00" PIName="Jackpot" ImageName="JP_18" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.400000" Size="629.00,389.00" PIName="Jackpot" ImageName="JP_19" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.500000" Size="629.00,387.00" PIName="Jackpot" ImageName="JP_20" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.600000" Size="629.00,387.00" PIName="Jackpot" ImageName="JP_21" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="0.700000" Size="629.00,387.00" PIName="Jackpot" ImageName="JP_22" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="0.800000" Size="629.00,387.00" PIName="Jackpot" ImageName="JP_23" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="0.900000" Size="629.00,387.00" PIName="Jackpot" ImageName="JP_24" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="1.000000" Size="629.00,387.00" PIName="Jackpot" ImageName="JP_25" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="Jackpot2In" PathCount="2" PlayCount="1" TotalPlayTime="1.400000">
+        <CueToStartCurvesWithTime Name="black " BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="1">
+            <PointDataList Index="0" Position="277.00,982.00,0.00" Time="0.000000" Size="800.00,572.00" Color="1.00,1.00,1.00,0.00" PIName="Jackpot" ImageName="black " />
+            <PointDataList Index="1" Position="277.00,982.00,0.00" Time="0.100000" Size="800.00,572.00" Color="1.00,1.00,1.00,0.26" PIName="Jackpot" ImageName="black " />
+            <PointDataList Index="2" Position="277.00,982.00,0.00" Time="0.200000" Size="800.00,572.00" Color="1.00,1.00,1.00,0.52" PIName="Jackpot" ImageName="black " />
+            <PointDataList Index="3" Position="277.00,982.00,0.00" Time="0.300000" Size="800.00,572.00" Color="1.00,1.00,1.00,0.78" PIName="Jackpot" ImageName="black " />
+            <PointDataList Index="4" Position="277.00,982.00,0.00" Time="1.400000" Size="800.00,572.00" Color="1.00,1.00,1.00,0.78" PIName="Jackpot" ImageName="black " />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="JP" StartTime="0.000000" AnchorType="CenterCenter" Count="15" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="286.00,273.00" PIName="Jackpot" ImageName="JP_01" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.100000" Size="230.00,236.00" PIName="Jackpot" ImageName="JP_02" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.200000" Size="228.00,237.00" PIName="Jackpot" ImageName="JP_03" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.300000" Size="248.00,196.00" PIName="Jackpot" ImageName="JP_04" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.400000" Size="252.00,235.00" PIName="Jackpot" ImageName="JP2_05" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.500000" Size="445.00,400.00" PIName="Jackpot" ImageName="JP2_06" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.600000" Size="635.00,402.00" PIName="Jackpot" ImageName="JP2_07" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="0.700000" Size="603.00,412.00" PIName="Jackpot" ImageName="JP2_08" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="0.800000" Size="635.00,410.00" PIName="Jackpot" ImageName="JP2_09" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="0.900000" Size="635.00,452.00" PIName="Jackpot" ImageName="JP2_10" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="1.000000" Size="635.00,574.00" PIName="Jackpot" ImageName="JP2_11" />
+            <PointDataList Index="11" Position="0.00,0.00,0.00" Time="1.100000" Size="635.00,574.00" PIName="Jackpot" ImageName="JP2_12" />
+            <PointDataList Index="12" Position="0.00,0.00,0.00" Time="1.200000" Size="635.00,574.00" PIName="Jackpot" ImageName="JP2_13" />
+            <PointDataList Index="13" Position="0.00,0.00,0.00" Time="1.300000" Size="635.00,387.00" PIName="Jackpot" ImageName="JP2_14" />
+            <PointDataList Index="14" Position="0.00,0.00,0.00" Time="1.400000" Size="635.00,387.00" PIName="Jackpot" ImageName="JP2_15" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="Jackpot2Idle" PathCount="2" PlayCount="1" TotalPlayTime="11.600000">
+        <CueToStartCurvesWithTime Name="black " StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="1">
+            <PointDataList Index="0" Position="277.00,982.00,0.00" Time="0.000000" Size="800.00,572.00" Color="1.00,1.00,1.00,0.78" PIName="Jackpot" ImageName="black " />
+            <PointDataList Index="1" Position="277.00,982.00,0.00" Time="2.900000" Size="800.00,572.00" Color="1.00,1.00,1.00,0.78" PIName="Jackpot" ImageName="black " />
+            <PointDataList Index="2" Position="277.00,982.00,0.00" Time="5.800000" Size="800.00,572.00" Color="1.00,1.00,1.00,0.78" PIName="Jackpot" ImageName="black " />
+            <PointDataList Index="3" Position="277.00,982.00,0.00" Time="8.700001" Size="800.00,572.00" Color="1.00,1.00,1.00,0.78" PIName="Jackpot" ImageName="black " />
+            <PointDataList Index="4" Position="277.00,982.00,0.00" Time="11.600000" Size="800.00,572.00" Color="1.00,1.00,1.00,0.78" PIName="Jackpot" ImageName="black " />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="JP" StartTime="0.000000" AnchorType="CenterCenter" Count="11" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="635.00,387.00" PIName="Jackpot" ImageName="JP2_15" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.100000" Size="635.00,400.00" PIName="Jackpot" ImageName="JP2_16" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.200000" Size="635.00,402.00" PIName="Jackpot" ImageName="JP2_17" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.300000" Size="635.00,397.00" PIName="Jackpot" ImageName="JP2_18" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.400000" Size="635.00,389.00" PIName="Jackpot" ImageName="JP2_19" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.500000" Size="635.00,387.00" PIName="Jackpot" ImageName="JP2_20" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.600000" Size="635.00,387.00" PIName="Jackpot" ImageName="JP2_21" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="0.700000" Size="635.00,387.00" PIName="Jackpot" ImageName="JP2_22" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="0.800000" Size="635.00,387.00" PIName="Jackpot" ImageName="JP2_23" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="0.900000" Size="635.00,387.00" PIName="Jackpot" ImageName="JP2_24" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="1.000000" Size="635.00,387.00" PIName="Jackpot" ImageName="JP2_25" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="JackpotNum" PathCount="1" PlayCount="1" TotalPlayTime="0.400000">
+        <CueToStartCurvesWithTime Name="JPNum1" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="364.00,995.00,0.00" Time="0.400000" Size="68.00,98.00" PIName="Jackpot" ImageName="BG_00" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+</MPDIList>

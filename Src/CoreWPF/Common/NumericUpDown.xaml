@@ -1,0 +1,17 @@
+﻿<UserControl x:Class="CoreWPF.Common.NumericUpDown"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" >
+    <Grid Height="30" MinWidth="60" >
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition MinWidth="40"/>
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <TextBox Grid.Column="0" Name="m_Value_TextBox" MouseWheel="ValueWithMouseWhell" Text="0" MinWidth="40" TextChanged="txtNum_TextChanged" KeyUp="m_Value_TextBox_KeyUp" x:FieldModifier="public" />
+        <StackPanel Grid.Column="1">
+            <Button Name="m_Increase_Button" Background="Transparent" Foreground="Gray" FontFamily="Wingdings 3" FontSize="8" BorderBrush="Transparent" Content="5" MouseUp="ValueAdd_Click"  FontWeight="Bold" />
+            <Button Name="m_Decrease_Button" Background="Transparent" Foreground="Gray" FontFamily="Wingdings 3" FontSize="8" BorderBrush="Transparent" Content="6" MouseUp="ValueMinusd_Click"  FontWeight="Bold" />
+        </StackPanel>
+    </Grid>
+</UserControl>

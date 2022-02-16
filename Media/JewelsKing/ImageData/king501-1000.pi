@@ -1,0 +1,11 @@
+<!-- Author:User,Time:2012/5/15 ¤W¤È 11:27:38 -->
+<PuzzleImage OriginalNameSort="kin_501-1000_00,kin_501-1000_01,kin_501-1000_02,kin_501-1000_03,kin_501-1000_04,kin_501-1000_05,kin_501-1000_06,kin_501-1000_07" ImageName="king501-1000.png" Count="8" GeneratePuzzleimageUnit="0">
+    <PuzzleUnit Name="kin_501-1000_00" UV="0,0,0.2196,0.42" OffsetPos="105,125" Size="549,630" OriginalSize="760,755" ShowPosInPI="0,0" />
+    <PuzzleUnit Name="kin_501-1000_01" UV="0.22,0,0.45,0.4193333" OffsetPos="79,126" Size="575,629" OriginalSize="760,755" ShowPosInPI="550,0" />
+    <PuzzleUnit Name="kin_501-1000_02" UV="0.4504,0,0.6872,0.4186667" OffsetPos="63,127" Size="592,628" OriginalSize="760,755" ShowPosInPI="1126,0" />
+    <PuzzleUnit Name="kin_501-1000_03" UV="0.6876,0,0.9264,0.4166667" OffsetPos="58,130" Size="597,625" OriginalSize="760,755" ShowPosInPI="1719,0" />
+    <PuzzleUnit Name="kin_501-1000_04" UV="0,0.4206667,0.2396,0.834" OffsetPos="55,135" Size="599,620" OriginalSize="760,755" ShowPosInPI="0,631" />
+    <PuzzleUnit Name="kin_501-1000_05" UV="0.24,0.4206667,0.4864,0.83" OffsetPos="35,141" Size="616,614" OriginalSize="760,755" ShowPosInPI="600,631" />
+    <PuzzleUnit Name="kin_501-1000_06" UV="0.4868,0.4206667,0.744,0.8226666" OffsetPos="16,152" Size="643,603" OriginalSize="760,755" ShowPosInPI="1217,631" />
+    <PuzzleUnit Name="kin_501-1000_07" UV="0.7444,0.4206667,0.9952,0.822" OffsetPos="30,153" Size="627,602" OriginalSize="760,755" ShowPosInPI="1861,631" />
+</PuzzleImage>

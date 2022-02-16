@@ -1,0 +1,15 @@
+<!-- Author:User,Time:2012/8/14 ¤U¤È 01:25:41 -->
+<PuzzleImage OriginalNameSort="9,10,A,J,K,Q,Free,Wild,Gem,Crown,Scepter,Mirror" ImageName="SpinObject.png" Count="12" GeneratePuzzleimageUnit="0">
+    <PuzzleUnit Name="10" UV="0.25,0,0.4960938,0.2285156" OffsetPos="0,0" Size="126,117" OriginalSize="126,117" ShowPosInPI="128,0" />
+    <PuzzleUnit Name="9" UV="0,0,0.2460938,0.2285156" OffsetPos="0,0" Size="126,117" OriginalSize="126,117" ShowPosInPI="0,0" />
+    <PuzzleUnit Name="A" UV="0.5,0,0.7460938,0.2285156" OffsetPos="0,0" Size="126,117" OriginalSize="126,117" ShowPosInPI="256,0" />
+    <PuzzleUnit Name="Crown" UV="0.25,0.4648438,0.4960938,0.6933594" OffsetPos="0,0" Size="126,117" OriginalSize="126,117" ShowPosInPI="128,238" />
+    <PuzzleUnit Name="Free" UV="0.5,0.2324219,0.7460938,0.4609375" OffsetPos="0,0" Size="126,117" OriginalSize="126,117" ShowPosInPI="256,119" />
+    <PuzzleUnit Name="Gem" UV="0,0.4648438,0.2460938,0.6933594" OffsetPos="0,0" Size="126,117" OriginalSize="126,117" ShowPosInPI="0,238" />
+    <PuzzleUnit Name="J" UV="0.75,0,0.9960938,0.2285156" OffsetPos="0,0" Size="126,117" OriginalSize="126,117" ShowPosInPI="384,0" />
+    <PuzzleUnit Name="K" UV="0,0.2324219,0.2460938,0.4609375" OffsetPos="0,0" Size="126,117" OriginalSize="126,117" ShowPosInPI="0,119" />
+    <PuzzleUnit Name="Mirror" UV="0.75,0.4648438,0.9960938,0.6933594" OffsetPos="0,0" Size="126,117" OriginalSize="126,117" ShowPosInPI="384,238" />
+    <PuzzleUnit Name="Q" UV="0.25,0.2324219,0.4960938,0.4609375" OffsetPos="0,0" Size="126,117" OriginalSize="126,117" ShowPosInPI="128,119" />
+    <PuzzleUnit Name="Scepter" UV="0.5,0.4648438,0.7460938,0.6933594" OffsetPos="0,0" Size="126,117" OriginalSize="126,117" ShowPosInPI="256,238" />
+    <PuzzleUnit Name="Wild" UV="0.75,0.2324219,0.9960938,0.4609375" OffsetPos="0,0" Size="126,117" OriginalSize="126,117" ShowPosInPI="384,119" />
+</PuzzleImage>

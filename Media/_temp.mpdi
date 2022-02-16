@@ -1,0 +1,63 @@
+<MPDIList Name="_temp.mpdi_mpdi" Count="3" MPDIVersion="1.1" PICount="1" ImageName="PlayerUI.pi">
+    <MultiPathDynamicImage Name="PlayerUI2" PathCount="4" PlayCount="-1" TotalPlayTime="1.000000">
+        <CueToStartCurvesWithTime Name="Fort" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-94.50,-55.50,0.00" Time="1.000000" Size="143.00,56.00" PIName="PlayerUI" ImageName="Fort" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="PlayerUI" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="74.00,-110.00,0.00" Time="1.000000" Size="38.00,185.00" Angles="0.00,0.00,-90.00" PIName="PlayerUI" ImageName="PlayerUI1" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="TubePos" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="2" LOD="1">
+            <PointDataList Index="0" Position="-120.00,-80.00,0.00" Time="0.000000" Size="196.00,120.00" Angles="0.00,0.00,-180.00" PIName="PlayerUI" ImageName="TubePos1" />
+            <PointDataList Index="1" Position="-120.00,-80.00,0.00" Time="1.000000" Size="196.00,120.00" PIName="PlayerUI" ImageName="TubePos1" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="LvPos" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-47.50,-39.50,0.00" Time="1.000000" Size="49.00,40.00" PIName="PlayerUI" ImageName="LvPos" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="PlayerUI1" PathCount="12" PlayCount="1" TotalPlayTime="0.000000">
+        <CueToStartCurvesWithTime Name="CoinStack1" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-95.00,-35.00,0.00" Time="0.000000" Size="18.00,92.00" PIName="PlayerUI" ImageName="CoinStack4" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="CoinStack2" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-95.00,-55.00,0.00" Time="0.000000" Size="18.00,92.00" PIName="PlayerUI" ImageName="CoinStack4" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="CoinStack3" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-95.00,-75.00,0.00" Time="0.000000" Size="18.00,92.00" PIName="PlayerUI" ImageName="CoinStack4" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="CoinStack4" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-95.00,-95.00,0.00" Time="0.000000" Size="18.00,92.00" PIName="PlayerUI" ImageName="CoinStack4" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="TubeLVNumerial1" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-22.50,-11.00,0.00" Time="0.000000" Size="15.00,18.00" PIName="PlayerUI" ImageName="TubeLVNumerial0" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="PlayerScoreNumerial1" StartTime="0.000000" AnchorType="CenterCenter" Count="8" LOD="1">
+            <PointDataList Index="0" Position="165.00,-24.00,0.00" Time="0.000000" Size="14.00,18.00" PIName="PlayerUI" ImageName="PlayerScoreNumerial0" />
+            <PointDataList Index="1" Position="151.00,-24.00,0.00" Time="0.000000" Size="14.00,18.00" PIName="PlayerUI" ImageName="PlayerScoreNumerial0" />
+            <PointDataList Index="2" Position="137.00,-24.00,0.00" Time="0.000000" Size="14.00,18.00" PIName="PlayerUI" ImageName="PlayerScoreNumerial0" />
+            <PointDataList Index="3" Position="123.00,-24.00,0.00" Time="0.000000" Size="14.00,18.00" PIName="PlayerUI" ImageName="PlayerScoreNumerial0" />
+            <PointDataList Index="4" Position="109.00,-24.00,0.00" Time="0.000000" Size="14.00,18.00" PIName="PlayerUI" ImageName="PlayerScoreNumerial0" />
+            <PointDataList Index="5" Position="95.00,-24.00,0.00" Time="0.000000" Size="14.00,18.00" PIName="PlayerUI" ImageName="PlayerScoreNumerial0" />
+            <PointDataList Index="6" Position="81.00,-24.00,0.00" Time="0.000000" Size="14.00,18.00" PIName="PlayerUI" ImageName="PlayerScoreNumerial0" />
+            <PointDataList Index="7" Position="67.00,-24.00,0.00" Time="0.000000" Size="14.00,18.00" PIName="PlayerUI" ImageName="PlayerScoreNumerial0" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BonusHint1" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="4.00,-88.00,0.00" Time="0.000000" Size="36.00,34.00" PIName="PlayerUI" ImageName="CoinStack4" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BonusHint2" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="55.00,-82.50,0.00" Time="0.000000" Size="36.00,34.00" PIName="PlayerUI" ImageName="CoinStack4" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BonusHint3" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="94.00,-82.50,0.00" Time="0.000000" Size="36.00,34.00" PIName="PlayerUI" ImageName="CoinStack4" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BonusHint4" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="132.00,-82.00,0.00" Time="0.000000" Size="36.00,34.00" PIName="PlayerUI" ImageName="CoinStack4" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="CoinStackNumerial1" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-78.00,-91.50,0.00" Time="0.000000" Size="8.00,11.00" PIName="PlayerUI" ImageName="CoinStackNumerial0" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MessagePos" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-22.00,-100.00,0.00" Time="0.000000" Size="18.00,92.00" PIName="PlayerUI" ImageName="CoinStack4" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="_temp" PathCount="0" PlayCount="1" TotalPlayTime="0.000000" />
+</MPDIList>

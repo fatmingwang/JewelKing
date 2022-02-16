@@ -1,0 +1,13 @@
+<!-- Author:User,Time:2012/8/16 ¤U¤È 05:59:14 -->
+<PuzzleImage OriginalNameSort="1X,2X,3X,4X,5X,6X,7X,8X,9X,10X" ImageName="NG.png" Count="10" GeneratePuzzleimageUnit="0">
+    <PuzzleUnit Name="10X" UV="0.6184615,0,0.6738461,0.72" OffsetPos="0,0" Size="36,36" OriginalSize="36,36" ShowPosInPI="402,0" />
+    <PuzzleUnit Name="1X" UV="0,0,0.05846154,0.72" OffsetPos="0,0" Size="38,36" OriginalSize="38,36" ShowPosInPI="0,0" />
+    <PuzzleUnit Name="2X" UV="0.06153846,0,0.1169231,0.66" OffsetPos="0,0" Size="36,33" OriginalSize="36,33" ShowPosInPI="40,0" />
+    <PuzzleUnit Name="3X" UV="0.12,0,0.1784615,0.62" OffsetPos="0,0" Size="38,31" OriginalSize="38,31" ShowPosInPI="78,0" />
+    <PuzzleUnit Name="4X" UV="0.1815385,0,0.2492308,0.62" OffsetPos="0,0" Size="44,31" OriginalSize="44,31" ShowPosInPI="118,0" />
+    <PuzzleUnit Name="5X" UV="0.2523077,0,0.3369231,0.56" OffsetPos="0,0" Size="55,28" OriginalSize="55,28" ShowPosInPI="164,0" />
+    <PuzzleUnit Name="6X" UV="0.34,0,0.4246154,0.58" OffsetPos="0,0" Size="55,29" OriginalSize="55,29" ShowPosInPI="221,0" />
+    <PuzzleUnit Name="7X" UV="0.4276923,0,0.4953846,0.62" OffsetPos="0,0" Size="44,31" OriginalSize="44,31" ShowPosInPI="278,0" />
+    <PuzzleUnit Name="8X" UV="0.4984615,0,0.5569231,0.62" OffsetPos="0,0" Size="38,31" OriginalSize="38,31" ShowPosInPI="324,0" />
+    <PuzzleUnit Name="9X" UV="0.56,0,0.6153846,0.66" OffsetPos="0,0" Size="36,33" OriginalSize="36,33" ShowPosInPI="364,0" />
+</PuzzleImage>

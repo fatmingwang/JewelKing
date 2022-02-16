@@ -1,0 +1,20 @@
+<Root>
+    <Time Time="8/9/2012/1/35/4" />
+    <Data Description="投幣" Value="0" />
+    <Data Description="退幣" Value="0" />
+    <Data Description="洗分" Value="3100000" />
+    <Data Description="開分" Value="0" />
+    <Data Description="收益" Value="0" />
+    <Time Time="8/9/2012/1/35/7" />
+    <Data Description="投幣" Value="0" />
+    <Data Description="退幣" Value="0" />
+    <Data Description="洗分" Value="0" />
+    <Data Description="開分" Value="0" />
+    <Data Description="收益" Value="0" />
+    <Time Time="8/9/2012/1/35/8" />
+    <Data Description="投幣" Value="0" />
+    <Data Description="退幣" Value="0" />
+    <Data Description="洗分" Value="0" />
+    <Data Description="開分" Value="0" />
+    <Data Description="收益" Value="0" />
+</Root>

@@ -1,0 +1,91 @@
+<BetRule TableCount="5,3" ShowRect="80,825,715,1200">
+  <SpineObjectPrizeTable SpecialeSpinObject="Wild" qoo="?????????O?????S?O???????????H???L?????s?u" FreeGameImage="Free">
+    <SpinObjectData Name="9" Probability="50" index="0">
+      <Prize Count="3" Odds="3" />
+      <Prize Count="4" Odds="10" />
+      <Prize Count="5" Odds="50" />
+    </SpinObjectData>
+    <SpinObjectData Name="10" Probability="50" index="1">
+      <Prize Count="3" Odds="4" />
+      <Prize Count="4" Odds="15" />
+      <Prize Count="5" Odds="75" />
+    </SpinObjectData>
+    <SpinObjectData Name="J" Probability="12" index="2">
+      <Prize Count="3" Odds="5" />
+      <Prize Count="4" Odds="20" />
+      <Prize Count="5" Odds="100" />
+    </SpinObjectData>
+    <SpinObjectData Name="Q" Probability="10" index="3">
+      <Prize Count="3" Odds="10" />
+      <Prize Count="4" Odds="25" />
+      <Prize Count="5" Odds="150" />
+    </SpinObjectData>
+    <SpinObjectData Name="K" Probability="10" index="4">
+      <Prize Count="3" Odds="15" />
+      <Prize Count="4" Odds="50" />
+      <Prize Count="5" Odds="200" />
+    </SpinObjectData>
+    <SpinObjectData Name="A" Probability="10" index="5">
+      <Prize Count="3" Odds="20" />
+      <Prize Count="4" Odds="75" />
+      <Prize Count="5" Odds="250" />
+    </SpinObjectData>
+    <SpinObjectData Name="Mirror" Probability="10" index="6">
+      <Prize Count="3" Odds="25" />
+      <Prize Count="4" Odds="100" />
+      <Prize Count="5" Odds="300" />
+    </SpinObjectData>
+    <SpinObjectData Name="Scepter" Probability="100" index="7">
+      <Prize Count="3" Odds="30" />
+      <Prize Count="4" Odds="150" />
+      <Prize Count="5" Odds="500" />
+    </SpinObjectData>
+    <SpinObjectData Name="Crown" Probability="10" index="8">
+      <Prize Count="3" Odds="50" />
+      <Prize Count="4" Odds="200" />
+      <Prize Count="5" Odds="700" />
+    </SpinObjectData>
+    <SpinObjectData Name="Gem" Probability="10" index="9">
+      <Prize Count="3" Odds="100" />
+      <Prize Count="4" Odds="300" />
+      <Prize Count="5" Odds="1000" />
+    </SpinObjectData>
+    <SpinObjectData Name="Wild" Probability="2" />
+    <SpinObjectData Name="Free" Probability="2" />
+  </SpineObjectPrizeTable>
+  <SlotLineObjectData Comment="?o???O???T?w?Oslot????">
+    <SlotLineData Data="1,2,3,4,5,6,7,8,9,10" />
+    <SlotLineData Data="1,2,3,4,5,6,7,8,9,10" />
+    <SlotLineData Data="1,2,3,4,5,6,7,8,9,10" />
+    <SlotLineData Data="1,2,3,4,5,6,7,8,9,10" />
+    <SlotLineData Data="1,2,3,4,5,6,7,8,9,10" />
+  </SlotLineObjectData>
+  <LineRule>
+    <LineRule IndexForOneLine="5,6,7,8,9" />
+    <LineRule IndexForOneLine="0,1,2,3,4" />
+    <LineRule IndexForOneLine="10,11,12,13,14" />
+    <LineRule IndexForOneLine="0,6,2,8,4" />
+    <LineRule IndexForOneLine="10,6,12,8,14" />
+    <LineRule IndexForOneLine="0,1,7,8,9" />
+    <LineRule IndexForOneLine="10,11,7,8,9" />
+    <LineRule IndexForOneLine="0,11,2,13,4" />
+    <LineRule IndexForOneLine="10,1,2,3,4" />
+    <LineRule IndexForOneLine="10,6,7,8,14" />
+    <LineRule IndexForOneLine="0,6,7,8,4" />
+    <LineRule IndexForOneLine="0,1,12,3,4" />
+    <LineRule IndexForOneLine="10,6,2,8,14" />
+    <LineRule IndexForOneLine="5,11,2,13,9" />
+    <LineRule IndexForOneLine="5,1,12,3,9" />
+    <LineRule IndexForOneLine="0,11,7,13,4" />
+    <LineRule IndexForOneLine="10,1,7,3,14" />
+    <LineRule IndexForOneLine="5,6,2,8,9" />
+    <LineRule IndexForOneLine="5,6,12,8,9" />
+    <LineRule IndexForOneLine="5,11,7,13,9" />
+    <LineRule IndexForOneLine="5,1,7,3,9" />
+    <LineRule IndexForOneLine="0,11,12,13,4" />
+    <LineRule IndexForOneLine="10,1,2,3,14" />
+    <LineRule IndexForOneLine="0,6,12,8,4" />
+    <LineRule IndexForOneLine="10,11,2,13,14" />
+  </LineRule>
+  <BetMoneyRule BetPerLine="1,2,3,4,5" />
+</BetRule>

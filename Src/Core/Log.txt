@@ -1,0 +1,12 @@
+Nor/11/2012
+MPDI render by global time bug fix.
+(if current time is bigger than (start time+end time),then current -start time and get modules time shold add start time again)
+
+Jan/03/2013
+add StringID
+and NamedTypedObject.h's debug info add a new way to detect.
+
+Jan
+SwitchToThre/10/2013
+
+ad get error message FUCK

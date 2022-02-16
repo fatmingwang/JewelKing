@@ -1,0 +1,8 @@
+<Animal Name="" AnimalPartName="Humanoid monster1(Blue)" AnimalPartCount="6">
+    <AnimalPart Index="0" Name="Humanoid monster1(Blue)" MPDI="Humanoid monster1(Blue)" MPDIList="Humanoid monster_mpdi" Color="1.00,1.00,1.00,1.00" />
+    <AnimalPart Index="1" Name="Humanoid monster1(Blue)" MPDI="Humanoid monster1(Blue)" MPDIList="Humanoid monster_mpdi" Color="1.00,1.00,1.00,1.00" />
+    <AnimalPart Index="2" Name="Humanoid monster1(Blue)" MPDI="Humanoid monster1(Blue)" MPDIList="Humanoid monster_mpdi" Color="1.00,1.00,1.00,1.00" />
+    <AnimalPart Index="3" Name="Humanoid monster1(Blue)" MPDI="Humanoid monster1(Blue)" MPDIList="Humanoid monster_mpdi" Color="1.00,1.00,1.00,1.00" />
+    <AnimalPart Index="4" Name="Humanoid monster1(Blue)" MPDI="Humanoid monster1(Blue)" MPDIList="Humanoid monster_mpdi" Color="1.00,1.00,1.00,1.00" />
+    <AnimalPart Index="5" Name="Humanoid monster1(Blue)" MPDI="Humanoid monster1(Blue)" MPDIList="Humanoid monster_mpdi" Color="1.00,1.00,1.00,1.00" />
+</Animal>

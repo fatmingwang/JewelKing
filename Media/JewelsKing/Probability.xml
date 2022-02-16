@@ -1,0 +1,172 @@
+<Root MaxBetMoney="125">
+	<!-- 越黑皮越難咬錢HappyMonneyRate每一回合有多少機率讓溫度計提升 HappyMonneyMulplie每一次進去快樂時光讓溫度計上升的倍數 MoneyStrangleRate當輸贏錢太大有多少機率會進去控制要少輸或多贏 -->
+	<HappyAndUnHappyRate HappyMonneyRate="30" HappyMonneyMulplie="10" MoneyStrangleRate="2"/>
+	
+	<ScroeMultiplier BalanceMoneyStartBase="1000" NextLevelMultipler="10" ExtraPercentageBase="0.05" MaxExtractPencentage="0.5" MaxMultiplier="2" />
+	<!-- 上一回合賺錢贏錢對溫度記做的分數變更  MoneyChange = 贏的錢減掉押注 -->
+	<MoneyChangeCondition>
+		<Data MoneyChange="10" Score="-10" Description="贏10塊的時候扣10分只會使用其中一個" />
+		<Data MoneyChange="20" Score="-20"  />
+		<Data MoneyChange="30" Score="-30"  />
+		<Data MoneyChange="40" Score="-40"  />
+		<Data MoneyChange="50" Score="-50"  />
+		<Data MoneyChange="60" Score="-60"  />
+		<Data MoneyChange="70" Score="-70"  />
+		<Data MoneyChange="80" Score="-80"  />
+		<Data MoneyChange="90" Score="-90"  />
+		<Data MoneyChange="120" Score="-120"  />
+		<Data MoneyChange="150" Score="-150"  />
+		<Data MoneyChange="180" Score="-180"  />
+		<Data MoneyChange="240" Score="-300"  />
+		<Data MoneyChange="300" Score="-360"  />
+		<Data MoneyChange="360" Score="-480"  />
+		<Data MoneyChange="450" Score="-570"  />
+		<Data MoneyChange="520" Score="-680"  />
+		<Data MoneyChange="590" Score="-750"  />
+		<Data MoneyChange="700" Score="-900"  />
+		<Data MoneyChange="800" Score="-1000"  />
+		<Data MoneyChange="900" Score="-1100"  />
+		<Data MoneyChange="1000" Score="-2000"  />
+		<Data MoneyChange="1500" Score="-1700"  />
+		<Data MoneyChange="1900" Score="-2200"  />
+		<Data MoneyChange="2500" Score="-3000"  />
+		<Data MoneyChange="3500" Score="-4000"  />
+		<Data MoneyChange="4500" Score="-5000"  />
+		<Data MoneyChange="5500" Score="-7000"  />
+		<Data MoneyChange="6500" Score="-8000"  />
+		<Data MoneyChange="7500" Score="-10000"  />
+		<Data MoneyChange="8500" Score="-20000"  />
+		<Data MoneyChange="-1" Score="1"  />
+		<Data MoneyChange="-2" Score="2"  />
+		<Data MoneyChange="-3" Score="3"  />
+		<Data MoneyChange="-4" Score="4"  />
+		<Data MoneyChange="-5" Score="5"  />
+		<Data MoneyChange="-6" Score="6"  />
+		<Data MoneyChange="-7" Score="7"  />
+		<Data MoneyChange="-8" Score="8"  />
+		<Data MoneyChange="-9" Score="9"  />
+		<Data MoneyChange="-10" Score="10"  />
+		<Data MoneyChange="-15" Score="15"  />
+		<Data MoneyChange="-20" Score="20"  />
+		<Data MoneyChange="-25" Score="25"  />
+		<Data MoneyChange="-30" Score="30"  />
+		<Data MoneyChange="-40" Score="40"  />
+		<Data MoneyChange="-50" Score="50"  />
+		<Data MoneyChange="-60" Score="60"  />
+		<Data MoneyChange="-70" Score="70"  />
+		<Data MoneyChange="-80" Score="80"  />
+		<Data MoneyChange="-90" Score="90"  />
+		<Data MoneyChange="-100" Score="100"  />
+		<Data MoneyChange="-110" Score="110"  />
+		<Data MoneyChange="-110" Score="110"  />
+		<Data MoneyChange="-120" Score="120"  />
+		<Data MoneyChange="-125" Score="125"  />
+	</MoneyChangeCondition>
+
+
+	<TimeStamp ElpaseTime="經過的時間" Score="要加的分數" MaxScore="最大分數上限">
+		<!-- ToastCoin 多久沒投幣 -->
+		<ToastCoin	 ElpaseTime="300"		Score="20"	MaxScore="100"		/>
+		<!-- FreeGame 多久沒進去FreeGame -->
+		<FreeGame	 ElpaseTime="6000"		Score="200"	MaxScore="600"		/>
+		<!-- 多久檢查一次輸贏去改變溫度計分數-->
+		<MoneyChange	 Money="100" ElpaseTime="1"	Score="-100"	MaxScore="100"	RoundBalance="-10" />
+		<MoneyChange	 Money="-100" ElpaseTime="30"	Score="100"	MaxScore="100"	RoundBalance="10" />
+		<!-- 出JP的條件 -->
+		<Jackpot	Type="NetWork" ElpaseTime="36000"		Score="200" 	MaxScore="100"	TotalBalanceBiggerThanJP="9999999"	PayRate="1.1" Probability="0.01" />
+		<Jackpot	Type="Local" ElpaseTime="36000"		Score="200" 	MaxScore="100"	TotalBalanceBiggerThanJP="280000"	PayRate="1.1" Probability="0.01" />
+	</TimeStamp>
+
+
+	<InitProbability StartScore="300" NoPrizeOffset="0.05" MinPrizeOffset="0.05" BigPrizeOffset="0.05" />
+
+
+	<!-- Type有Free跟JP還有Normal -->
+	<GoodTablesList SecondFreeGameProbability="0.01">
+		<GoodTable MinMoney="0"   MaxMoney="15"  ConditionScore="10" Type="Normal" ComboCount="1" />
+		<GoodTable MinMoney="10"   MaxMoney="15"  ConditionScore="11" Type="Normal" ComboCount="1" />
+		<GoodTable MinMoney="10"   MaxMoney="20"  ConditionScore="12" Type="Normal" ComboCount="1" />
+		<GoodTable MinMoney="10"   MaxMoney="25"  ConditionScore="13" Type="Normal" ComboCount="1" />
+		<GoodTable MinMoney="10"   MaxMoney="30"  ConditionScore="14" Type="Normal" ComboCount="1" />
+		<GoodTable MinMoney="0"   MaxMoney="20"  ConditionScore="20" Type="Normal" ComboCount="1" />
+		<GoodTable MinMoney="0"   MaxMoney="25"  ConditionScore="10" Type="Normal" ComboCount="1" />
+		<GoodTable MinMoney="10"   MaxMoney="25"  ConditionScore="21" Type="Normal" ComboCount="1" />
+		<GoodTable MinMoney="10"   MaxMoney="30"  ConditionScore="22" Type="Normal" ComboCount="1" />
+		<GoodTable MinMoney="10"   MaxMoney="35"  ConditionScore="23" Type="Normal" ComboCount="1" />
+		<GoodTable MinMoney="10"   MaxMoney="40"  ConditionScore="24" Type="Normal" ComboCount="1" />
+		<GoodTable MinMoney="0"   MaxMoney="50"  ConditionScore="30" Type="Normal"  ComboCount="1" />
+		<GoodTable MinMoney="0"   MaxMoney="55"  ConditionScore="31" Type="Normal" ComboCount="1" />
+		<GoodTable MinMoney="10"   MaxMoney="60"  ConditionScore="32" Type="Normal" ComboCount="1" />
+		<GoodTable MinMoney="10"   MaxMoney="65"  ConditionScore="33" Type="Normal" ComboCount="1" />
+		<GoodTable MinMoney="15"   MaxMoney="70"  ConditionScore="34" Type="Normal" ComboCount="1" />
+		<GoodTable MinMoney="10"   MaxMoney="70"  ConditionScore="35" Type="Normal" ComboCount="1" />
+		<GoodTable MinMoney="0"   MaxMoney="75"  ConditionScore="40" Type="Normal" ComboCount="1" />
+		<GoodTable MinMoney="50"   MaxMoney="180"  ConditionScore="45" Type="FreeGame" ComboCount="2" />
+		<GoodTable MinMoney="0"   MaxMoney="100"  ConditionScore="50" Type="Normal" ComboCount="1" />
+		<GoodTable MinMoney="0"   MaxMoney="75"  ConditionScore="70" Type="Normal" ComboCount="2" />
+		<GoodTable MinMoney="50"   MaxMoney="150"  ConditionScore="75" Type="Normal" ComboCount="4" />
+		<GoodTable MinMoney="0"   MaxMoney="20"  ConditionScore="80" Type="Normal" ComboCount="1" />
+		<GoodTable MinMoney="100" MaxMoney="300" ConditionScore="95" Type="Normal" ComboCount="1" />
+		<GoodTable MinMoney="150"   MaxMoney="450"  ConditionScore="100" Type="Normal" ComboCount="4" />
+		<GoodTable MinMoney="0"   MaxMoney="30"  ConditionScore="105" Type="Normal" ComboCount="2" />
+		<GoodTable MinMoney="0"   MaxMoney="80"  ConditionScore="130" Type="Normal" ComboCount="3" />
+		<GoodTable MinMoney="0"   MaxMoney="150"  ConditionScore="140" Type="Normal" ComboCount="4" />
+		<GoodTable MinMoney="0"   MaxMoney="100"  ConditionScore="150" Type="Normal" ComboCount="1" />
+		<GoodTable MinMoney="0"   MaxMoney="80"  ConditionScore="155" Type="FreeGame" ComboCount="2" />
+		<GoodTable MinMoney="150"   MaxMoney="450"  ConditionScore="160" Type="Normal" ComboCount="2" />
+		<GoodTable MinMoney="0"   MaxMoney="120"  ConditionScore="170" Type="Normal" ComboCount="3" />
+		<GoodTable MinMoney="0"   MaxMoney="140"  ConditionScore="190" Type="Normal" ComboCount="1" />
+                <GoodTable MinMoney="150"   MaxMoney="350"  ConditionScore="195" Type="Normal" ComboCount="2" />
+		<GoodTable MinMoney="0"   MaxMoney="75"  ConditionScore="200" Type="Normal" ComboCount="1" />
+		<GoodTable MinMoney="0"   MaxMoney="75"  ConditionScore="200" Type="Normal" ComboCount="1" />
+		<GoodTable MinMoney="50"   MaxMoney="120"  ConditionScore="210" Type="FreeGame" ComboCount="2" />
+		<GoodTable MinMoney="0"   MaxMoney="180"  ConditionScore="230" Type="Normal" ComboCount="4" />
+		<GoodTable MinMoney="40"   MaxMoney="200"  ConditionScore="270" Type="Normal" ComboCount="2" />
+		<GoodTable MinMoney="40"   MaxMoney="210"  ConditionScore="310" Type="Normal" ComboCount="5" />
+		<GoodTable MinMoney="0"   MaxMoney="150"  ConditionScore="330" Type="Normal" ComboCount="4" />
+		<GoodTable MinMoney="150"   MaxMoney="450"  ConditionScore="335" Type="Normal" ComboCount="4" />
+		<GoodTable MinMoney="1490"   MaxMoney="5760"  ConditionScore="336" Type="FreeGame" ComboCount="4" />
+		<GoodTable MinMoney="40"   MaxMoney="80"  ConditionScore="360" Type="Normal" ComboCount="2" />
+		<GoodTable MinMoney="400"   MaxMoney="600"  ConditionScore="365" Type="Normal" ComboCount="2" />
+		<GoodTable MinMoney="40"   MaxMoney="240"  ConditionScore="420" Type="Normal" ComboCount="4" />
+		<GoodTable MinMoney="20"   MaxMoney="50"  ConditionScore="490" Type="Normal" ComboCount="2" />
+		<GoodTable MinMoney="100"   MaxMoney="250"  ConditionScore="495" Type="FreeGame" ComboCount="2" />
+		<GoodTable MinMoney="50"   MaxMoney="200"  ConditionScore="510" Type="Normal" ComboCount="4" />
+		<GoodTable MinMoney="60"   MaxMoney="480"  ConditionScore="515" Type="Normal" ComboCount="3" />
+		<GoodTable MinMoney="170"   MaxMoney="500"  ConditionScore="630" Type="Normal" ComboCount="3" />
+		<GoodTable MinMoney="280"   MaxMoney="640"  ConditionScore="700" Type="Normal" ComboCount="4" />
+		<GoodTable MinMoney="0"   MaxMoney="75"  ConditionScore="725" Type="Normal" ComboCount="2" />
+		<GoodTable MinMoney="0"   MaxMoney="100"  ConditionScore="830" Type="Normal" ComboCount="1" />
+		<GoodTable MinMoney="490"   MaxMoney="760"  ConditionScore="970" Type="Normal" ComboCount="4" />
+		<GoodTable MinMoney="490"   MaxMoney="760"  ConditionScore="975" Type="FreeGame" ComboCount="4" />
+		<GoodTable MinMoney="590"   MaxMoney="720"  ConditionScore="1100" Type="Normal" ComboCount="4" />
+		<GoodTable MinMoney="0"   MaxMoney="100"  ConditionScore="1115" Type="Normal" ComboCount="3" />
+		<GoodTable MinMoney="490"   MaxMoney="710"  ConditionScore="1230" Type="Normal" ComboCount="8" />
+		<GoodTable MinMoney="0"   MaxMoney="450"  ConditionScore="1280" Type="Normal" ComboCount="4" />
+		<GoodTable MinMoney="490"   MaxMoney="720"  ConditionScore="1370" Type="Normal" ComboCount="4" />
+		<GoodTable MinMoney="490"   MaxMoney="730"  ConditionScore="1500" Type="Normal" ComboCount="5" />
+		<GoodTable MinMoney="250"   MaxMoney="1300"  ConditionScore="1675" Type="Normal" ComboCount="4" />
+		<GoodTable MinMoney="450"   MaxMoney="850"  ConditionScore="1680" Type="Normal" ComboCount="5" />
+		<GoodTable MinMoney="450"   MaxMoney="980"  ConditionScore="1810" Type="Normal" ComboCount="6" />
+		<GoodTable MinMoney="0"   MaxMoney="75"  ConditionScore="1840" Type="Normal" ComboCount="3" />
+		<GoodTable MinMoney="450"   MaxMoney="1080"  ConditionScore="2030" Type="Normal" ComboCount="6" />
+		<GoodTable MinMoney="450"   MaxMoney="1280"  ConditionScore="2210" Type="Normal" ComboCount="7" />
+		<GoodTable MinMoney="300"   MaxMoney="1450"  ConditionScore="2280" Type="Normal" ComboCount="4" />
+		<GoodTable MinMoney="350"   MaxMoney="1800"  ConditionScore="2285" Type="FreeGame" ComboCount="2" />
+		<GoodTable MinMoney="400"   MaxMoney="1490"  ConditionScore="2410" Type="Normal" ComboCount="6" />
+		<GoodTable MinMoney="0"   MaxMoney="100"  ConditionScore="2425" Type="Normal" ComboCount="2" />
+		<GoodTable MinMoney="400"   MaxMoney="1800"  ConditionScore="2710" Type="Normal" ComboCount="6" />
+		<GoodTable MinMoney="400"   MaxMoney="2200"  ConditionScore="3010" Type="Normal" ComboCount="2" />
+		<GoodTable MinMoney="600"   MaxMoney="2600"  ConditionScore="3610" Type="Normal" ComboCount="5" />
+		<GoodTable MinMoney="800"   MaxMoney="2900"  ConditionScore="4010" Type="Normal" ComboCount="3" />
+		<GoodTable MinMoney="900"   MaxMoney="3600"  ConditionScore="4710" Type="Normal" ComboCount="4" />
+		<GoodTable MinMoney="1490"   MaxMoney="5760"  ConditionScore="4750" Type="FreeGame" ComboCount="4" />
+		<GoodTable MinMoney="400"   MaxMoney="5400"  ConditionScore="5500" Type="Normal" ComboCount="2" />
+		<GoodTable MinMoney="1000"   MaxMoney="6500"  ConditionScore="7350" Type="Normal" ComboCount="2" />
+		<GoodTable MinMoney="1600"   MaxMoney="8000"  ConditionScore="8610" Type="Normal" ComboCount="5" />
+		<GoodTable MinMoney="2800"   MaxMoney="9500"  ConditionScore="10000" Type="Normal" ComboCount="3" />
+		<GoodTable MinMoney="3000"   MaxMoney="10000"  ConditionScore="12000" Type="Normal" ComboCount="2" />
+
+
+	</GoodTablesList>
+</Root>

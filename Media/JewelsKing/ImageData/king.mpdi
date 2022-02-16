@@ -1,0 +1,322 @@
+<MPDIList Name="king_mpdi" Count="7" MPDIVersion="1.1" PICount="6" ImageName="king1-500.pi,kingpick.pi,king501-1000.pi,king1001-5000.pi,king5000up.pi,jewel.pi">
+    <MultiPathDynamicImage Name="kingFreegame" PathCount="1" PlayCount="1" TotalPlayTime="2.500000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="king_5000up" StartTime="0.000000" AnchorType="CenterCenter" Count="16" LOD="1">
+            <PointDataList Index="0" Position="4.85,-48.06,0.00" Time="0.000000" Size="549.00,630.00" PIName="king1-500" ImageName="king_1-500_00" />
+            <PointDataList Index="1" Position="4.85,-48.06,0.00" Time="0.100000" Size="486.00,627.00" PIName="king5000up" ImageName="king_5000up_01" />
+            <PointDataList Index="2" Position="4.85,-48.06,0.00" Time="0.200000" Size="488.00,620.00" PIName="king5000up" ImageName="king_5000up_02" />
+            <PointDataList Index="3" Position="4.85,-48.06,0.00" Time="0.300000" Size="528.00,603.00" PIName="king5000up" ImageName="king_5000up_03" />
+            <PointDataList Index="4" Position="4.85,-48.06,0.00" Time="0.400000" Size="566.00,601.00" PIName="king5000up" ImageName="king_5000up_04" />
+            <PointDataList Index="5" Position="4.85,-48.06,0.00" Time="0.500000" Size="624.00,603.00" PIName="king5000up" ImageName="king_5000up_05" />
+            <PointDataList Index="6" Position="4.85,-48.06,0.00" Time="0.600000" Size="608.00,605.00" PIName="king5000up" ImageName="king_5000up_06" />
+            <PointDataList Index="7" Position="4.85,-48.06,0.00" Time="0.700000" Size="514.00,614.00" PIName="king5000up" ImageName="king_5000up_07" />
+            <PointDataList Index="8" Position="4.85,-48.06,0.00" Time="0.800000" Size="491.00,619.00" PIName="king5000up" ImageName="king_5000up_08" />
+            <PointDataList Index="9" Position="4.85,-48.06,0.00" Time="0.900000" Size="493.00,624.00" PIName="king5000up" ImageName="king_5000up_09" />
+            <PointDataList Index="10" Position="4.85,-48.06,0.00" Time="1.000000" Size="501.00,632.00" PIName="king5000up" ImageName="king_5000up_10" />
+            <PointDataList Index="11" Position="4.85,-48.06,0.00" Time="1.100000" Size="507.00,633.00" PIName="king5000up" ImageName="king_5000up_11" />
+            <PointDataList Index="12" Position="4.85,-48.06,0.00" Time="1.200000" Size="512.00,628.00" PIName="king5000up" ImageName="king_5000up_12" />
+            <PointDataList Index="13" Position="4.85,-48.06,0.00" Time="1.300000" Size="501.00,630.00" PIName="king5000up" ImageName="king_5000up_13" />
+            <PointDataList Index="14" Position="4.85,-48.06,0.00" Time="1.400000" Size="494.00,626.00" PIName="king5000up" ImageName="king_5000up_14" />
+            <PointDataList Index="15" Position="4.85,-48.06,0.00" Time="2.500000" Size="494.00,626.00" PIName="king5000up" ImageName="king_5000up_14" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="kinglook" PathCount="1" PlayCount="-1" TotalPlayTime="2.000000">
+        <CueToStartCurvesWithTime Name="kinglook" StartTime="0.000000" AnchorType="CenterCenter" Count="21" LOD="1">
+            <PointDataList Index="0" Position="4.00,-91.48,0.00" Time="0.000000" Size="416.00,393.60" PIName="kingpick" ImageName="kingPick_01" />
+            <PointDataList Index="1" Position="4.00,-91.48,0.00" Time="0.100000" Size="408.00,393.60" PIName="kingpick" ImageName="kingPick_02" />
+            <PointDataList Index="2" Position="4.00,-91.47,0.00" Time="0.200000" Size="403.20,393.60" PIName="kingpick" ImageName="kingPick_03" />
+            <PointDataList Index="3" Position="4.00,-91.46,0.00" Time="0.300000" Size="401.60,393.60" PIName="kingpick" ImageName="kingPick_04" />
+            <PointDataList Index="4" Position="4.00,-91.45,0.00" Time="0.400000" Size="401.60,393.60" PIName="kingpick" ImageName="kingPick_05" />
+            <PointDataList Index="5" Position="4.00,-91.44,0.00" Time="0.500000" Size="403.20,393.60" PIName="kingpick" ImageName="kingPick_06" />
+            <PointDataList Index="6" Position="4.00,-91.44,0.00" Time="0.600000" Size="404.80,393.60" PIName="kingpick" ImageName="kingPick_07" />
+            <PointDataList Index="7" Position="4.00,-91.44,0.00" Time="0.700000" Size="406.40,392.00" PIName="kingpick" ImageName="kingPick_08" />
+            <PointDataList Index="8" Position="4.00,-91.44,0.00" Time="0.800000" Size="408.00,392.00" PIName="kingpick" ImageName="kingPick_09" />
+            <PointDataList Index="9" Position="4.00,-91.44,0.00" Time="0.900000" Size="406.40,393.60" PIName="kingpick" ImageName="kingPick_10" />
+            <PointDataList Index="10" Position="4.00,-91.44,0.00" Time="1.000000" Size="404.80,393.60" PIName="kingpick" ImageName="kingPick_11" />
+            <PointDataList Index="11" Position="4.00,-91.44,0.00" Time="1.100000" Size="406.40,393.60" PIName="kingpick" ImageName="kingPick_10" />
+            <PointDataList Index="12" Position="4.00,-91.44,0.00" Time="1.200000" Size="408.00,392.00" PIName="kingpick" ImageName="kingPick_09" />
+            <PointDataList Index="13" Position="4.00,-91.44,0.00" Time="1.300000" Size="406.40,392.00" PIName="kingpick" ImageName="kingPick_08" />
+            <PointDataList Index="14" Position="4.00,-91.44,0.00" Time="1.400000" Size="404.80,393.60" PIName="kingpick" ImageName="kingPick_07" />
+            <PointDataList Index="15" Position="4.00,-91.44,0.00" Time="1.500000" Size="403.20,393.60" PIName="kingpick" ImageName="kingPick_06" />
+            <PointDataList Index="16" Position="4.00,-91.44,0.00" Time="1.600000" Size="401.60,393.60" PIName="kingpick" ImageName="kingPick_05" />
+            <PointDataList Index="17" Position="4.00,-91.44,0.00" Time="1.700000" Size="401.60,393.60" PIName="kingpick" ImageName="kingPick_04" />
+            <PointDataList Index="18" Position="4.00,-91.44,0.00" Time="1.800000" Size="403.20,393.60" PIName="kingpick" ImageName="kingPick_03" />
+            <PointDataList Index="19" Position="4.00,-91.44,0.00" Time="1.900000" Size="408.00,393.60" PIName="kingpick" ImageName="kingPick_02" />
+            <PointDataList Index="20" Position="4.00,-91.44,0.00" Time="2.000000" Size="416.00,393.60" PIName="kingpick" ImageName="kingPick_01" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="king1-500" PathCount="6" PlayCount="-1" TotalPlayTime="2.500000">
+        <CueToStartCurvesWithTime Name="jewel" StartTime="0.000000" AnchorType="LeftUp" Count="9" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="601.00,167.00" PIName="jewel" ImageName="diamainrain_9" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.100000" Size="751.00,228.00" PIName="jewel" ImageName="diamainrain_10" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.200000" Size="762.00,276.00" PIName="jewel" ImageName="diamainrain_11" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.300000" Size="779.00,339.00" PIName="jewel" ImageName="diamainrain_12" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.400000" Size="779.00,422.00" PIName="jewel" ImageName="diamainrain_13" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.500000" Size="779.00,502.00" PIName="jewel" ImageName="diamainrain_14" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.600000" Size="779.00,578.00" PIName="jewel" ImageName="diamainrain_15" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="0.700000" Size="779.00,653.00" PIName="jewel" ImageName="diamainrain_16" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="0.800000" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_17" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="jewel6" StartTime="0.800000" AnchorType="CenterCenter" Count="10" LOD="1">
+            <PointDataList Index="0" Position="196.00,187.11,0.00" Time="0.000000" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_18" />
+            <PointDataList Index="1" Position="196.00,187.11,0.00" Time="0.100000" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_19" />
+            <PointDataList Index="2" Position="196.00,187.11,0.00" Time="0.200000" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_20" />
+            <PointDataList Index="3" Position="196.00,187.11,0.00" Time="0.300000" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_21" />
+            <PointDataList Index="4" Position="196.00,187.11,0.00" Time="0.400000" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_22" />
+            <PointDataList Index="5" Position="196.00,187.11,0.00" Time="0.500000" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_23" />
+            <PointDataList Index="6" Position="196.00,187.11,0.00" Time="0.600000" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_24" />
+            <PointDataList Index="7" Position="196.00,187.11,0.00" Time="0.700000" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_25" />
+            <PointDataList Index="8" Position="196.00,187.11,0.00" Time="0.800000" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_26" />
+            <PointDataList Index="9" Position="196.00,187.11,0.00" Time="0.900000" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_27" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="jewel7" StartTime="1.700000" AnchorType="CenterCenter" Count="8" LOD="1">
+            <PointDataList Index="0" Position="196.00,187.00,0.00" Time="0.000000" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_29" />
+            <PointDataList Index="1" Position="196.00,187.00,0.00" Time="0.100000" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_30" />
+            <PointDataList Index="2" Position="196.00,187.00,0.00" Time="0.200000" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_31" />
+            <PointDataList Index="3" Position="196.00,187.00,0.00" Time="0.300000" Size="779.00,638.00" PIName="jewel" ImageName="diamainrain_32" />
+            <PointDataList Index="4" Position="196.00,187.00,0.00" Time="0.400000" Size="779.00,533.00" PIName="jewel" ImageName="diamainrain_33" />
+            <PointDataList Index="5" Position="196.00,187.00,0.00" Time="0.500000" Size="671.00,392.00" PIName="jewel" ImageName="diamainrain_34" />
+            <PointDataList Index="6" Position="196.00,187.00,0.00" Time="0.600000" Size="663.00,249.00" PIName="jewel" ImageName="diamainrain_35" />
+            <PointDataList Index="7" Position="196.00,187.00,0.00" Time="0.700000" Size="575.00,92.00" PIName="jewel" ImageName="diamainrain_36" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="king_1-500_a" StartTime="0.000000" AnchorType="CenterCenter" Count="10" LOD="1">
+            <PointDataList Index="0" Position="4.00,-48.50,0.00" Time="0.000000" Size="549.00,630.00" PIName="king1-500" ImageName="king_1-500_00" />
+            <PointDataList Index="1" Position="4.00,-48.50,0.00" Time="0.066667" Size="553.00,630.00" PIName="king1-500" ImageName="king_1-500_01" />
+            <PointDataList Index="2" Position="4.00,-48.50,0.00" Time="0.133333" Size="557.00,630.00" PIName="king1-500" ImageName="king_1-500_02" />
+            <PointDataList Index="3" Position="4.00,-48.50,0.00" Time="0.200000" Size="562.00,629.00" PIName="king1-500" ImageName="king_1-500_03" />
+            <PointDataList Index="4" Position="4.00,-48.50,0.00" Time="0.266667" Size="568.00,629.00" PIName="king1-500" ImageName="king_1-500_04" />
+            <PointDataList Index="5" Position="4.00,-48.50,0.00" Time="0.333333" Size="573.00,628.00" PIName="king1-500" ImageName="king_1-500_05" />
+            <PointDataList Index="6" Position="4.00,-48.50,0.00" Time="0.400000" Size="577.00,628.00" PIName="king1-500" ImageName="king_1-500_06" />
+            <PointDataList Index="7" Position="4.00,-48.50,0.00" Time="0.466667" Size="581.00,627.00" PIName="king1-500" ImageName="king_1-500_07" />
+            <PointDataList Index="8" Position="4.00,-48.50,0.00" Time="0.533333" Size="584.00,627.00" PIName="king1-500" ImageName="king_1-500_08" />
+            <PointDataList Index="9" Position="4.00,-48.50,0.00" Time="0.600000" Size="587.00,627.00" PIName="king1-500" ImageName="king_1-500_09" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="king_1-500_b" StartTime="0.600000" AnchorType="CenterCenter" Count="11" LOD="1">
+            <PointDataList Index="0" Position="4.00,-48.50,0.00" Time="0.000000" Size="587.00,627.00" PIName="king1-500" ImageName="king_1-500_10" />
+            <PointDataList Index="1" Position="4.00,-48.50,0.00" Time="0.100000" Size="587.00,627.00" PIName="king1-500" ImageName="king_1-500_11" />
+            <PointDataList Index="2" Position="4.00,-48.50,0.00" Time="0.200000" Size="587.00,627.00" PIName="king1-500" ImageName="king_1-500_10" />
+            <PointDataList Index="3" Position="4.00,-48.50,0.00" Time="0.300000" Size="587.00,627.00" PIName="king1-500" ImageName="king_1-500_11" />
+            <PointDataList Index="4" Position="4.00,-48.50,0.00" Time="0.400000" Size="587.00,627.00" PIName="king1-500" ImageName="king_1-500_10" />
+            <PointDataList Index="5" Position="4.00,-48.50,0.00" Time="0.500000" Size="587.00,627.00" PIName="king1-500" ImageName="king_1-500_11" />
+            <PointDataList Index="6" Position="4.00,-48.50,0.00" Time="0.600000" Size="587.00,627.00" PIName="king1-500" ImageName="king_1-500_10" />
+            <PointDataList Index="7" Position="4.00,-48.50,0.00" Time="0.700000" Size="587.00,627.00" PIName="king1-500" ImageName="king_1-500_11" />
+            <PointDataList Index="8" Position="4.00,-48.50,0.00" Time="0.800000" Size="587.00,627.00" PIName="king1-500" ImageName="king_1-500_10" />
+            <PointDataList Index="9" Position="4.00,-48.50,0.00" Time="0.900000" Size="587.00,627.00" PIName="king1-500" ImageName="king_1-500_11" />
+            <PointDataList Index="10" Position="4.00,-48.50,0.00" Time="1.000000" Size="587.00,627.00" PIName="king1-500" ImageName="king_1-500_10" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="king_1-500_c" StartTime="1.600000" AnchorType="CenterCenter" Count="11" LOD="1">
+            <PointDataList Index="0" Position="4.00,-48.50,0.00" Time="0.000000" Size="587.00,627.00" PIName="king1-500" ImageName="king_1-500_09" />
+            <PointDataList Index="1" Position="4.00,-48.50,0.00" Time="0.066667" Size="584.00,627.00" PIName="king1-500" ImageName="king_1-500_08" />
+            <PointDataList Index="2" Position="4.00,-48.50,0.00" Time="0.133333" Size="581.00,627.00" PIName="king1-500" ImageName="king_1-500_07" />
+            <PointDataList Index="3" Position="4.00,-48.50,0.00" Time="0.200000" Size="577.00,628.00" PIName="king1-500" ImageName="king_1-500_06" />
+            <PointDataList Index="4" Position="4.00,-48.50,0.00" Time="0.266667" Size="573.00,628.00" PIName="king1-500" ImageName="king_1-500_05" />
+            <PointDataList Index="5" Position="4.00,-48.50,0.00" Time="0.333333" Size="568.00,629.00" PIName="king1-500" ImageName="king_1-500_04" />
+            <PointDataList Index="6" Position="4.00,-48.50,0.00" Time="0.400000" Size="562.00,629.00" PIName="king1-500" ImageName="king_1-500_03" />
+            <PointDataList Index="7" Position="4.00,-48.50,0.00" Time="0.466667" Size="557.00,630.00" PIName="king1-500" ImageName="king_1-500_02" />
+            <PointDataList Index="8" Position="4.00,-48.50,0.00" Time="0.533333" Size="553.00,630.00" PIName="king1-500" ImageName="king_1-500_01" />
+            <PointDataList Index="9" Position="4.00,-48.50,0.00" Time="0.600000" Size="549.00,630.00" PIName="king1-500" ImageName="king_1-500_00" />
+            <PointDataList Index="10" Position="4.00,-48.50,0.00" Time="0.900000" Size="549.00,630.00" PIName="king1-500" ImageName="king_1-500_00" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="king501-1000" PathCount="6" PlayCount="-1" TotalPlayTime="2.400000">
+        <CueToStartCurvesWithTime Name="jewel" StartTime="0.000000" AnchorType="LeftUp" Count="9" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="601.00,167.00" PIName="jewel" ImageName="diamainrain_9" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.100000" Size="751.00,228.00" PIName="jewel" ImageName="diamainrain_10" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.200000" Size="762.00,276.00" PIName="jewel" ImageName="diamainrain_11" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.300000" Size="779.00,339.00" PIName="jewel" ImageName="diamainrain_12" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.400000" Size="779.00,422.00" PIName="jewel" ImageName="diamainrain_13" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.500000" Size="779.00,502.00" PIName="jewel" ImageName="diamainrain_14" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.600000" Size="779.00,578.00" PIName="jewel" ImageName="diamainrain_15" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="0.700000" Size="779.00,653.00" PIName="jewel" ImageName="diamainrain_16" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="0.800000" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_17" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="jewel8" StartTime="0.800000" AnchorType="CenterCenter" Count="10" LOD="1">
+            <PointDataList Index="0" Position="196.00,187.11,0.00" Time="0.000000" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_18" />
+            <PointDataList Index="1" Position="196.00,187.11,0.00" Time="0.100000" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_19" />
+            <PointDataList Index="2" Position="196.00,187.11,0.00" Time="0.200000" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_20" />
+            <PointDataList Index="3" Position="196.00,187.11,0.00" Time="0.300000" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_21" />
+            <PointDataList Index="4" Position="196.00,187.11,0.00" Time="0.400000" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_22" />
+            <PointDataList Index="5" Position="196.00,187.11,0.00" Time="0.500000" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_23" />
+            <PointDataList Index="6" Position="196.00,187.11,0.00" Time="0.600000" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_24" />
+            <PointDataList Index="7" Position="196.00,187.11,0.00" Time="0.700000" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_25" />
+            <PointDataList Index="8" Position="196.00,187.11,0.00" Time="0.800000" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_26" />
+            <PointDataList Index="9" Position="196.00,187.11,0.00" Time="0.900000" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_27" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="jewel9" StartTime="1.700000" AnchorType="CenterCenter" Count="8" LOD="1">
+            <PointDataList Index="0" Position="196.00,187.00,0.00" Time="0.000000" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_29" />
+            <PointDataList Index="1" Position="196.00,187.00,0.00" Time="0.100000" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_30" />
+            <PointDataList Index="2" Position="196.00,187.00,0.00" Time="0.200000" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_31" />
+            <PointDataList Index="3" Position="196.00,187.00,0.00" Time="0.300000" Size="779.00,638.00" PIName="jewel" ImageName="diamainrain_32" />
+            <PointDataList Index="4" Position="196.00,187.00,0.00" Time="0.400000" Size="779.00,533.00" PIName="jewel" ImageName="diamainrain_33" />
+            <PointDataList Index="5" Position="196.00,187.00,0.00" Time="0.500000" Size="671.00,392.00" PIName="jewel" ImageName="diamainrain_34" />
+            <PointDataList Index="6" Position="196.00,187.00,0.00" Time="0.600000" Size="663.00,249.00" PIName="jewel" ImageName="diamainrain_35" />
+            <PointDataList Index="7" Position="196.00,187.00,0.00" Time="0.700000" Size="575.00,92.00" PIName="jewel" ImageName="diamainrain_36" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="kin_501-1000_a" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="1">
+            <PointDataList Index="0" Position="4.00,-48.50,0.00" Time="0.000000" Size="549.00,630.00" PIName="king501-1000" ImageName="kin_501-1000_00" />
+            <PointDataList Index="1" Position="4.00,-48.50,0.00" Time="0.100000" Size="575.00,629.00" PIName="king501-1000" ImageName="kin_501-1000_01" />
+            <PointDataList Index="2" Position="4.00,-48.50,0.00" Time="0.200000" Size="592.00,628.00" PIName="king501-1000" ImageName="kin_501-1000_02" />
+            <PointDataList Index="3" Position="4.00,-48.50,0.00" Time="0.300000" Size="597.00,625.00" PIName="king501-1000" ImageName="kin_501-1000_03" />
+            <PointDataList Index="4" Position="4.00,-48.50,0.00" Time="0.400000" Size="599.00,620.00" PIName="king501-1000" ImageName="kin_501-1000_04" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="kin_501-1000_b" StartTime="0.400000" AnchorType="CenterCenter" Count="16" LOD="1">
+            <PointDataList Index="0" Position="4.00,-48.50,0.00" Time="0.000000" Size="616.00,614.00" PIName="king501-1000" ImageName="kin_501-1000_05" />
+            <PointDataList Index="1" Position="4.00,-48.50,0.00" Time="0.100000" Size="643.00,603.00" PIName="king501-1000" ImageName="kin_501-1000_06" />
+            <PointDataList Index="2" Position="4.00,-48.50,0.00" Time="0.200000" Size="627.00,602.00" PIName="king501-1000" ImageName="kin_501-1000_07" />
+            <PointDataList Index="3" Position="4.00,-48.50,0.00" Time="0.300000" Size="616.00,614.00" PIName="king501-1000" ImageName="kin_501-1000_05" />
+            <PointDataList Index="4" Position="4.00,-48.50,0.00" Time="0.400000" Size="643.00,603.00" PIName="king501-1000" ImageName="kin_501-1000_06" />
+            <PointDataList Index="5" Position="4.00,-48.50,0.00" Time="0.500000" Size="627.00,602.00" PIName="king501-1000" ImageName="kin_501-1000_07" />
+            <PointDataList Index="6" Position="4.00,-48.50,0.00" Time="0.600000" Size="616.00,614.00" PIName="king501-1000" ImageName="kin_501-1000_05" />
+            <PointDataList Index="7" Position="4.00,-48.50,0.00" Time="0.700000" Size="643.00,603.00" PIName="king501-1000" ImageName="kin_501-1000_06" />
+            <PointDataList Index="8" Position="4.00,-48.50,0.00" Time="0.800000" Size="627.00,602.00" PIName="king501-1000" ImageName="kin_501-1000_07" />
+            <PointDataList Index="9" Position="4.00,-48.50,0.00" Time="0.900000" Size="616.00,614.00" PIName="king501-1000" ImageName="kin_501-1000_05" />
+            <PointDataList Index="10" Position="4.00,-48.50,0.00" Time="1.000000" Size="643.00,603.00" PIName="king501-1000" ImageName="kin_501-1000_06" />
+            <PointDataList Index="11" Position="4.00,-48.50,0.00" Time="1.100000" Size="627.00,602.00" PIName="king501-1000" ImageName="kin_501-1000_07" />
+            <PointDataList Index="12" Position="4.00,-48.50,0.00" Time="1.200000" Size="616.00,614.00" PIName="king501-1000" ImageName="kin_501-1000_05" />
+            <PointDataList Index="13" Position="4.00,-48.50,0.00" Time="1.300000" Size="643.00,603.00" PIName="king501-1000" ImageName="kin_501-1000_06" />
+            <PointDataList Index="14" Position="4.00,-48.50,0.00" Time="1.400000" Size="627.00,602.00" PIName="king501-1000" ImageName="kin_501-1000_07" />
+            <PointDataList Index="15" Position="4.00,-48.50,0.00" Time="1.500000" Size="616.00,614.00" PIName="king501-1000" ImageName="kin_501-1000_05" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="kin_501-1000_c" StartTime="1.900000" AnchorType="CenterCenter" Count="6" LOD="1">
+            <PointDataList Index="0" Position="4.00,-48.50,0.00" Time="0.000000" Size="599.00,620.00" PIName="king501-1000" ImageName="kin_501-1000_04" />
+            <PointDataList Index="1" Position="4.00,-48.50,0.00" Time="0.100000" Size="597.00,625.00" PIName="king501-1000" ImageName="kin_501-1000_03" />
+            <PointDataList Index="2" Position="4.00,-48.50,0.00" Time="0.200000" Size="592.00,628.00" PIName="king501-1000" ImageName="kin_501-1000_02" />
+            <PointDataList Index="3" Position="4.00,-48.50,0.00" Time="0.300000" Size="575.00,629.00" PIName="king501-1000" ImageName="kin_501-1000_01" />
+            <PointDataList Index="4" Position="4.00,-48.50,0.00" Time="0.400000" Size="549.00,630.00" PIName="king501-1000" ImageName="kin_501-1000_00" />
+            <PointDataList Index="5" Position="4.00,-48.50,0.00" Time="0.500000" Size="549.00,630.00" PIName="king501-1000" ImageName="kin_501-1000_00" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="king1001-5000" PathCount="7" PlayCount="-1" TotalPlayTime="3.300000">
+        <CueToStartCurvesWithTime Name="king_1001-5000_a" StartTime="0.000000" AnchorType="CenterCenter" Count="6" LOD="1">
+            <PointDataList Index="0" Position="4.00,-48.50,0.00" Time="0.000000" Size="549.00,630.00" PIName="king1-500" ImageName="king_1-500_00" />
+            <PointDataList Index="1" Position="4.00,-48.50,0.00" Time="0.100000" Size="517.00,632.00" PIName="king1001-5000" ImageName="king_1001-5000_01" />
+            <PointDataList Index="2" Position="4.00,-48.50,0.00" Time="0.200000" Size="557.00,624.00" PIName="king1001-5000" ImageName="king_1001-5000_02" />
+            <PointDataList Index="3" Position="4.00,-48.50,0.00" Time="0.300000" Size="615.00,604.00" PIName="king1001-5000" ImageName="king_1001-5000_03" />
+            <PointDataList Index="4" Position="4.00,-48.50,0.00" Time="0.400000" Size="613.00,587.00" PIName="king1001-5000" ImageName="king_1001-5000_04" />
+            <PointDataList Index="5" Position="4.00,-48.50,0.00" Time="0.500000" Size="601.00,579.00" PIName="king1001-5000" ImageName="king_1001-5000_05" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="king_1001-5000_b1" StartTime="0.500000" AnchorType="CenterCenter" Count="6" LOD="1">
+            <PointDataList Index="0" Position="4.00,-48.50,0.00" Time="0.000000" Size="596.00,588.00" PIName="king1001-5000" ImageName="king_1001-5000_06" />
+            <PointDataList Index="1" Position="4.00,-48.50,0.00" Time="0.100000" Size="605.00,611.00" PIName="king1001-5000" ImageName="king_1001-5000_07" />
+            <PointDataList Index="2" Position="4.00,-48.50,0.00" Time="0.200000" Size="630.00,628.00" PIName="king1001-5000" ImageName="king_1001-5000_08" />
+            <PointDataList Index="3" Position="4.00,-48.50,0.00" Time="0.300000" Size="575.00,632.00" PIName="king1001-5000" ImageName="king_1001-5000_09" />
+            <PointDataList Index="4" Position="4.00,-48.50,0.00" Time="0.400000" Size="538.00,626.00" PIName="king1001-5000" ImageName="king_1001-5000_10" />
+            <PointDataList Index="5" Position="4.00,-48.50,0.00" Time="0.500000" Size="521.00,618.00" PIName="king1001-5000" ImageName="king_1001-5000_11" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="king_1001-5000_b2" StartTime="1.000000" AnchorType="CenterCenter" Count="6" LOD="1">
+            <PointDataList Index="0" Position="4.00,-48.50,0.00" Time="0.000000" Size="521.00,618.00" PIName="king1001-5000" ImageName="king_1001-5000_11" />
+            <PointDataList Index="1" Position="4.00,-48.50,0.00" Time="0.100000" Size="538.00,626.00" PIName="king1001-5000" ImageName="king_1001-5000_10" />
+            <PointDataList Index="2" Position="4.00,-48.50,0.00" Time="0.200000" Size="575.00,632.00" PIName="king1001-5000" ImageName="king_1001-5000_09" />
+            <PointDataList Index="3" Position="4.00,-48.50,0.00" Time="0.300000" Size="630.00,628.00" PIName="king1001-5000" ImageName="king_1001-5000_08" />
+            <PointDataList Index="4" Position="4.00,-48.50,0.00" Time="0.400000" Size="605.00,611.00" PIName="king1001-5000" ImageName="king_1001-5000_07" />
+            <PointDataList Index="5" Position="4.00,-48.50,0.00" Time="0.500000" Size="596.00,588.00" PIName="king1001-5000" ImageName="king_1001-5000_06" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="king_1001-5000_b3" StartTime="1.500000" AnchorType="CenterCenter" Count="6" LOD="1">
+            <PointDataList Index="0" Position="4.00,-48.50,0.00" Time="0.000000" Size="596.00,588.00" PIName="king1001-5000" ImageName="king_1001-5000_06" />
+            <PointDataList Index="1" Position="4.00,-48.50,0.00" Time="0.100000" Size="605.00,611.00" PIName="king1001-5000" ImageName="king_1001-5000_07" />
+            <PointDataList Index="2" Position="4.00,-48.50,0.00" Time="0.200000" Size="630.00,628.00" PIName="king1001-5000" ImageName="king_1001-5000_08" />
+            <PointDataList Index="3" Position="4.00,-48.50,0.00" Time="0.300000" Size="575.00,632.00" PIName="king1001-5000" ImageName="king_1001-5000_09" />
+            <PointDataList Index="4" Position="4.00,-48.50,0.00" Time="0.400000" Size="538.00,626.00" PIName="king1001-5000" ImageName="king_1001-5000_10" />
+            <PointDataList Index="5" Position="4.00,-48.50,0.00" Time="0.500000" Size="521.00,618.00" PIName="king1001-5000" ImageName="king_1001-5000_11" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="king_1001-5000_c" StartTime="2.000000" AnchorType="CenterCenter" Count="8" LOD="1">
+            <PointDataList Index="0" Position="4.00,-48.50,0.00" Time="0.000000" Size="527.00,619.00" PIName="king1001-5000" ImageName="king_1001-5000_15" />
+            <PointDataList Index="1" Position="4.00,-48.50,0.00" Time="0.100000" Size="533.00,622.00" PIName="king1001-5000" ImageName="king_1001-5000_16" />
+            <PointDataList Index="2" Position="4.00,-48.50,0.00" Time="0.200000" Size="554.00,624.00" PIName="king1001-5000" ImageName="king_1001-5000_17" />
+            <PointDataList Index="3" Position="4.00,-48.50,0.00" Time="0.300000" Size="561.00,626.00" PIName="king1001-5000" ImageName="king_1001-5000_18" />
+            <PointDataList Index="4" Position="4.00,-48.50,0.00" Time="0.400000" Size="550.00,628.00" PIName="king1001-5000" ImageName="king_1001-5000_19" />
+            <PointDataList Index="5" Position="4.00,-48.50,0.00" Time="0.500000" Size="523.00,629.00" PIName="king1001-5000" ImageName="king_1001-5000_20" />
+            <PointDataList Index="6" Position="4.00,-48.50,0.00" Time="0.600000" Size="549.00,630.00" PIName="king1-500" ImageName="king_1-500_00" />
+            <PointDataList Index="7" Position="4.00,-48.50,0.00" Time="1.300000" Size="549.00,630.00" PIName="king1-500" ImageName="king_1-500_00" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="d" StartTime="0.500000" AnchorType="CenterCenter" Count="14" LOD="1">
+            <PointDataList Index="0" Position="183.00,157.00,0.00" Time="0.000000" Size="336.00,233.00" PIName="king1001-5000" ImageName="diamainrainparticle_01" />
+            <PointDataList Index="1" Position="183.00,157.00,0.00" Time="0.100000" Size="386.00,308.00" PIName="king1001-5000" ImageName="diamainrainparticle_02" />
+            <PointDataList Index="2" Position="183.00,157.00,0.00" Time="0.200000" Size="411.00,389.00" PIName="king1001-5000" ImageName="diamainrainparticle_03" />
+            <PointDataList Index="3" Position="183.00,157.00,0.00" Time="0.300000" Size="473.00,432.00" PIName="king1001-5000" ImageName="diamainrainparticle_04" />
+            <PointDataList Index="4" Position="183.00,157.00,0.00" Time="0.400000" Size="495.00,461.00" PIName="king1001-5000" ImageName="diamainrainparticle_05" />
+            <PointDataList Index="5" Position="183.00,157.00,0.00" Time="0.500000" Size="537.00,478.00" PIName="king1001-5000" ImageName="diamainrainparticle_06" />
+            <PointDataList Index="6" Position="183.00,157.00,0.00" Time="0.600000" Size="583.00,482.00" PIName="king1001-5000" ImageName="diamainrainparticle_07" />
+            <PointDataList Index="7" Position="183.00,157.00,0.00" Time="0.700000" Size="634.00,450.00" PIName="king1001-5000" ImageName="diamainrainparticle_08" />
+            <PointDataList Index="8" Position="183.00,157.00,0.00" Time="0.800000" Size="679.00,380.00" PIName="king1001-5000" ImageName="diamainrainparticle_09" />
+            <PointDataList Index="9" Position="183.00,157.00,0.00" Time="0.900000" Size="596.00,350.00" PIName="king1001-5000" ImageName="diamainrainparticle_10" />
+            <PointDataList Index="10" Position="183.00,157.00,0.00" Time="1.000000" Size="296.00,256.00" PIName="king1001-5000" ImageName="diamainrainparticle_11" />
+            <PointDataList Index="11" Position="183.00,157.00,0.00" Time="1.100000" Size="105.00,104.00" PIName="king1001-5000" ImageName="diamainrainparticle_12" />
+            <PointDataList Index="12" Position="183.00,157.00,0.00" Time="1.200000" Size="106.00,74.00" PIName="king1001-5000" ImageName="diamainrainparticle_13" />
+            <PointDataList Index="13" Position="183.00,157.00,0.00" Time="1.300000" Size="336.00,233.00" PIName="king1001-5000" ImageName="diamainrainparticle_01" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="d2" StartTime="1.300000" AnchorType="CenterCenter" Count="14" LOD="1">
+            <PointDataList Index="0" Position="183.00,157.00,0.00" Time="0.000000" Size="336.00,233.00" PIName="king1001-5000" ImageName="diamainrainparticle_01" />
+            <PointDataList Index="1" Position="183.00,157.00,0.00" Time="0.100000" Size="386.00,308.00" PIName="king1001-5000" ImageName="diamainrainparticle_02" />
+            <PointDataList Index="2" Position="183.00,157.00,0.00" Time="0.200000" Size="411.00,389.00" PIName="king1001-5000" ImageName="diamainrainparticle_03" />
+            <PointDataList Index="3" Position="183.00,157.00,0.00" Time="0.300000" Size="473.00,432.00" PIName="king1001-5000" ImageName="diamainrainparticle_04" />
+            <PointDataList Index="4" Position="183.00,157.00,0.00" Time="0.400000" Size="495.00,461.00" PIName="king1001-5000" ImageName="diamainrainparticle_05" />
+            <PointDataList Index="5" Position="183.00,157.00,0.00" Time="0.500000" Size="537.00,478.00" PIName="king1001-5000" ImageName="diamainrainparticle_06" />
+            <PointDataList Index="6" Position="183.00,157.00,0.00" Time="0.600000" Size="583.00,482.00" PIName="king1001-5000" ImageName="diamainrainparticle_07" />
+            <PointDataList Index="7" Position="183.00,157.00,0.00" Time="0.700000" Size="634.00,450.00" PIName="king1001-5000" ImageName="diamainrainparticle_08" />
+            <PointDataList Index="8" Position="183.00,157.00,0.00" Time="0.800000" Size="679.00,380.00" PIName="king1001-5000" ImageName="diamainrainparticle_09" />
+            <PointDataList Index="9" Position="183.00,157.00,0.00" Time="0.900000" Size="596.00,350.00" PIName="king1001-5000" ImageName="diamainrainparticle_10" />
+            <PointDataList Index="10" Position="183.00,157.00,0.00" Time="1.000000" Size="296.00,256.00" PIName="king1001-5000" ImageName="diamainrainparticle_11" />
+            <PointDataList Index="11" Position="183.00,157.00,0.00" Time="1.100000" Size="105.00,104.00" PIName="king1001-5000" ImageName="diamainrainparticle_12" />
+            <PointDataList Index="12" Position="183.00,157.00,0.00" Time="1.200000" Size="106.00,74.00" PIName="king1001-5000" ImageName="diamainrainparticle_13" />
+            <PointDataList Index="13" Position="183.00,157.00,0.00" Time="1.300000" Size="336.00,233.00" PIName="king1001-5000" ImageName="diamainrainparticle_01" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="king5000" PathCount="4" PlayCount="1" TotalPlayTime="2.500000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="jewel" StartTime="0.000000" AnchorType="LeftUp" Count="9" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="601.00,167.00" PIName="jewel" ImageName="diamainrain_9" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.100000" Size="751.00,228.00" PIName="jewel" ImageName="diamainrain_10" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.200000" Size="762.00,276.00" PIName="jewel" ImageName="diamainrain_11" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.300000" Size="779.00,339.00" PIName="jewel" ImageName="diamainrain_12" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.400000" Size="779.00,422.00" PIName="jewel" ImageName="diamainrain_13" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.500000" Size="779.00,502.00" PIName="jewel" ImageName="diamainrain_14" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.600000" Size="779.00,578.00" PIName="jewel" ImageName="diamainrain_15" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="0.700000" Size="779.00,653.00" PIName="jewel" ImageName="diamainrain_16" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="0.800000" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_17" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="jewel12" StartTime="0.800000" AnchorType="CenterCenter" Count="10" LOD="1">
+            <PointDataList Index="0" Position="196.00,187.11,0.00" Time="0.000000" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_18" />
+            <PointDataList Index="1" Position="196.00,187.11,0.00" Time="0.100000" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_19" />
+            <PointDataList Index="2" Position="196.00,187.11,0.00" Time="0.200000" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_20" />
+            <PointDataList Index="3" Position="196.00,187.11,0.00" Time="0.300000" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_21" />
+            <PointDataList Index="4" Position="196.00,187.11,0.00" Time="0.400000" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_22" />
+            <PointDataList Index="5" Position="196.00,187.11,0.00" Time="0.500000" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_23" />
+            <PointDataList Index="6" Position="196.00,187.11,0.00" Time="0.600000" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_24" />
+            <PointDataList Index="7" Position="196.00,187.11,0.00" Time="0.700000" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_25" />
+            <PointDataList Index="8" Position="196.00,187.11,0.00" Time="0.800000" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_26" />
+            <PointDataList Index="9" Position="196.00,187.11,0.00" Time="0.900000" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_27" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="jewel13" StartTime="1.700000" AnchorType="CenterCenter" Count="8" LOD="1">
+            <PointDataList Index="0" Position="196.00,187.00,0.00" Time="0.000000" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_29" />
+            <PointDataList Index="1" Position="196.00,187.00,0.00" Time="0.114286" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_30" />
+            <PointDataList Index="2" Position="196.00,187.00,0.00" Time="0.228571" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_31" />
+            <PointDataList Index="3" Position="196.00,187.00,0.00" Time="0.342857" Size="779.00,638.00" PIName="jewel" ImageName="diamainrain_32" />
+            <PointDataList Index="4" Position="196.00,187.00,0.00" Time="0.457143" Size="779.00,533.00" PIName="jewel" ImageName="diamainrain_33" />
+            <PointDataList Index="5" Position="196.00,187.00,0.00" Time="0.571429" Size="671.00,392.00" PIName="jewel" ImageName="diamainrain_34" />
+            <PointDataList Index="6" Position="196.00,187.00,0.00" Time="0.685714" Size="663.00,249.00" PIName="jewel" ImageName="diamainrain_35" />
+            <PointDataList Index="7" Position="196.00,187.00,0.00" Time="0.800000" Size="575.00,92.00" PIName="jewel" ImageName="diamainrain_36" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="king_5000up" StartTime="0.000000" AnchorType="CenterCenter" Count="16" LOD="1">
+            <PointDataList Index="0" Position="4.85,-48.06,0.00" Time="0.000000" Size="549.00,630.00" PIName="king1-500" ImageName="king_1-500_00" />
+            <PointDataList Index="1" Position="4.85,-48.06,0.00" Time="0.100000" Size="486.00,627.00" PIName="king5000up" ImageName="king_5000up_01" />
+            <PointDataList Index="2" Position="4.85,-48.06,0.00" Time="0.200000" Size="488.00,620.00" PIName="king5000up" ImageName="king_5000up_02" />
+            <PointDataList Index="3" Position="4.85,-48.06,0.00" Time="0.300000" Size="528.00,603.00" PIName="king5000up" ImageName="king_5000up_03" />
+            <PointDataList Index="4" Position="4.85,-48.06,0.00" Time="0.400000" Size="566.00,601.00" PIName="king5000up" ImageName="king_5000up_04" />
+            <PointDataList Index="5" Position="4.85,-48.06,0.00" Time="0.500000" Size="624.00,603.00" PIName="king5000up" ImageName="king_5000up_05" />
+            <PointDataList Index="6" Position="4.85,-48.06,0.00" Time="0.600000" Size="608.00,605.00" PIName="king5000up" ImageName="king_5000up_06" />
+            <PointDataList Index="7" Position="4.85,-48.06,0.00" Time="0.700000" Size="514.00,614.00" PIName="king5000up" ImageName="king_5000up_07" />
+            <PointDataList Index="8" Position="4.85,-48.06,0.00" Time="0.800000" Size="491.00,619.00" PIName="king5000up" ImageName="king_5000up_08" />
+            <PointDataList Index="9" Position="4.85,-48.06,0.00" Time="0.900000" Size="493.00,624.00" PIName="king5000up" ImageName="king_5000up_09" />
+            <PointDataList Index="10" Position="4.85,-48.06,0.00" Time="1.000000" Size="501.00,632.00" PIName="king5000up" ImageName="king_5000up_10" />
+            <PointDataList Index="11" Position="4.85,-48.06,0.00" Time="1.100000" Size="507.00,633.00" PIName="king5000up" ImageName="king_5000up_11" />
+            <PointDataList Index="12" Position="4.85,-48.06,0.00" Time="1.200000" Size="512.00,628.00" PIName="king5000up" ImageName="king_5000up_12" />
+            <PointDataList Index="13" Position="4.85,-48.06,0.00" Time="1.300000" Size="501.00,630.00" PIName="king5000up" ImageName="king_5000up_13" />
+            <PointDataList Index="14" Position="4.85,-48.06,0.00" Time="1.400000" Size="494.00,626.00" PIName="king5000up" ImageName="king_5000up_14" />
+            <PointDataList Index="15" Position="4.85,-48.06,0.00" Time="2.500000" Size="494.00,626.00" PIName="king5000up" ImageName="king_5000up_14" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="kingwaitA" PathCount="1" PlayCount="-1" TotalPlayTime="1.000000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="king_5000up" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="3.50,-48.06,0.00" Time="1.000000" Size="549.00,630.00" PIName="king1-500" ImageName="king_1-500_00" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+</MPDIList>

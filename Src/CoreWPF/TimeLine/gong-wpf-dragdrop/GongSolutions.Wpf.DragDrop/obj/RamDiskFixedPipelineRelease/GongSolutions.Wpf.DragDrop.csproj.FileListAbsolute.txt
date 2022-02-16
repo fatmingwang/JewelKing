@@ -1,0 +1,5 @@
+E:\Intermedia\ReleaseFixedPipeline\GongSolutions.Wpf.DragDrop\GongSolutions.Wpf.DragDrop.dll
+E:\Intermedia\ReleaseFixedPipeline\GongSolutions.Wpf.DragDrop\GongSolutions.Wpf.DragDrop.pdb
+C:\Users\Fatming\Desktop\FM79979\Src\CoreWPF\TimeLine\gong-wpf-dragdrop\GongSolutions.Wpf.DragDrop\obj\RamDiskFixedPipelineRelease\ResolveAssemblyReference.cache
+C:\Users\Fatming\Desktop\FM79979\Src\CoreWPF\TimeLine\gong-wpf-dragdrop\GongSolutions.Wpf.DragDrop\obj\RamDiskFixedPipelineRelease\GongSolutions.Wpf.DragDrop.dll
+C:\Users\Fatming\Desktop\FM79979\Src\CoreWPF\TimeLine\gong-wpf-dragdrop\GongSolutions.Wpf.DragDrop\obj\RamDiskFixedPipelineRelease\GongSolutions.Wpf.DragDrop.pdb

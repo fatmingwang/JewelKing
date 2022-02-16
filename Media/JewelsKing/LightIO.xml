@@ -1,0 +1,11 @@
+<IODataInfoList Count="9">
+    <IOData Name="LeftUp1"   IOType="Output" SetStartSingnal="0" StartSingnal="0" MemoryAddress="6" BitAdress="0" HighCircle="0.000000" LowCircle="0.000000" ActiveDelay="0.000000" InactiveDelay="0.000000" WorkingSingnal="0" Enable="1" />
+    <IOData Name="LeftUp2"   IOType="Output" SetStartSingnal="0" StartSingnal="0" MemoryAddress="7" BitAdress="0" HighCircle="0.000000" LowCircle="0.000000" ActiveDelay="0.000000" InactiveDelay="0.000000" WorkingSingnal="0" Enable="1" />
+    <IOData Name="LeftUp3"   IOType="Output" SetStartSingnal="0" StartSingnal="0" MemoryAddress="8" BitAdress="0" HighCircle="0.000000" LowCircle="0.000000" ActiveDelay="0.000000" InactiveDelay="0.000000" WorkingSingnal="0" Enable="1" />
+    <IOData Name="LeftUp4"   IOType="Output" SetStartSingnal="0" StartSingnal="0" MemoryAddress="9" BitAdress="0" HighCircle="0.000000" LowCircle="0.000000" ActiveDelay="0.000000" InactiveDelay="0.000000" WorkingSingnal="0" Enable="1" />
+    <IOData Name="LeftUp5"   IOType="Output" SetStartSingnal="0" StartSingnal="0" MemoryAddress="1" BitAdress="0" HighCircle="0.000000" LowCircle="0.000000" ActiveDelay="0.000000" InactiveDelay="0.000000" WorkingSingnal="0" Enable="1" />
+    <IOData Name="LeftDown3" IOType="Output" SetStartSingnal="0" StartSingnal="0" MemoryAddress="4" BitAdress="0" HighCircle="0.000000" LowCircle="0.000000" ActiveDelay="0.000000" InactiveDelay="0.000000" WorkingSingnal="0" Enable="1" />
+    <IOData Name="LeftDown4" IOType="Output" SetStartSingnal="0" StartSingnal="0" MemoryAddress="2" BitAdress="0" HighCircle="0.000000" LowCircle="0.000000" ActiveDelay="0.000000" InactiveDelay="0.000000" WorkingSingnal="0" Enable="1" />
+    <IOData Name="LeftDown6" IOType="Output" SetStartSingnal="0" StartSingnal="0" MemoryAddress="3" BitAdress="0" HighCircle="0.000000" LowCircle="0.000000" ActiveDelay="0.000000" InactiveDelay="0.000000" WorkingSingnal="0" Enable="1" />
+    <IOData Name="Right"     IOType="Output" SetStartSingnal="0" StartSingnal="0" MemoryAddress="0" BitAdress="0" HighCircle="0.000000" LowCircle="0.000000" ActiveDelay="0.000000" InactiveDelay="0.000000" WorkingSingnal="0" Enable="1" />
+</IODataInfoList>

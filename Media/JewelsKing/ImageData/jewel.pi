@@ -1,0 +1,32 @@
+<!-- Author:User,Time:2012/5/15 ¤U¤È 04:58:46 -->
+<PuzzleImage OriginalNameSort="diamainrain_9,diamainrain_10,diamainrain_11,diamainrain_12,diamainrain_13,diamainrain_14,diamainrain_15,diamainrain_16,diamainrain_17,diamainrain_18,diamainrain_19,diamainrain_20,diamainrain_21,diamainrain_22,diamainrain_23,diamainrain_24,diamainrain_25,diamainrain_26,diamainrain_27,diamainrain_28,diamainrain_29,diamainrain_30,diamainrain_31,diamainrain_32,diamainrain_33,diamainrain_34,diamainrain_35,diamainrain_36,diamain_up" ImageName="jewel.png" Count="29" GeneratePuzzleimageUnit="0">
+    <PuzzleUnit Name="diamain_up" UV="0.7399593,0.645815,0.9034062,0.7444934" OffsetPos="0,0" Size="643,112" OriginalSize="643,112" ShowPosInPI="2911,733" />
+    <PuzzleUnit Name="diamainrain_10" UV="0.07651246,0,0.1720895,0.09955947" OffsetPos="0,0" Size="376,113" OriginalSize="390,366" ShowPosInPI="301,0" />
+    <PuzzleUnit Name="diamainrain_11" UV="0.1723437,0,0.2691917,0.1215859" OffsetPos="0,0" Size="381,138" OriginalSize="390,366" ShowPosInPI="678,0" />
+    <PuzzleUnit Name="diamainrain_12" UV="0.2694459,0,0.3685816,0.1488987" OffsetPos="0,0" Size="390,169" OriginalSize="390,366" ShowPosInPI="1060,0" />
+    <PuzzleUnit Name="diamainrain_13" UV="0.3688358,0,0.4679715,0.185022" OffsetPos="0,0" Size="390,210" OriginalSize="390,366" ShowPosInPI="1451,0" />
+    <PuzzleUnit Name="diamainrain_14" UV="0.4682257,0,0.5673615,0.2211454" OffsetPos="0,0" Size="390,251" OriginalSize="390,366" ShowPosInPI="1842,0" />
+    <PuzzleUnit Name="diamainrain_15" UV="0.5676157,0,0.6667514,0.2546256" OffsetPos="0,0" Size="390,289" OriginalSize="390,366" ShowPosInPI="2233,0" />
+    <PuzzleUnit Name="diamainrain_16" UV="0.6670056,0,0.7661414,0.2872247" OffsetPos="0,0" Size="390,326" OriginalSize="390,366" ShowPosInPI="2624,0" />
+    <PuzzleUnit Name="diamainrain_17" UV="0.7663955,0,0.8655313,0.322467" OffsetPos="0,0" Size="390,366" OriginalSize="390,366" ShowPosInPI="3015,0" />
+    <PuzzleUnit Name="diamainrain_18" UV="0.8657855,0,0.9649212,0.322467" OffsetPos="0,0" Size="390,366" OriginalSize="390,366" ShowPosInPI="3406,0" />
+    <PuzzleUnit Name="diamainrain_19" UV="0,0.322467,0.09913574,0.6449339" OffsetPos="0,0" Size="390,366" OriginalSize="390,366" ShowPosInPI="0,366" />
+    <PuzzleUnit Name="diamainrain_20" UV="0.09938993,0.322467,0.1985257,0.6449339" OffsetPos="0,0" Size="390,366" OriginalSize="390,366" ShowPosInPI="391,366" />
+    <PuzzleUnit Name="diamainrain_21" UV="0.1987799,0.322467,0.2979156,0.6449339" OffsetPos="0,0" Size="390,366" OriginalSize="390,366" ShowPosInPI="782,366" />
+    <PuzzleUnit Name="diamainrain_22" UV="0.2981698,0.322467,0.3973055,0.6449339" OffsetPos="0,0" Size="390,366" OriginalSize="390,366" ShowPosInPI="1173,366" />
+    <PuzzleUnit Name="diamainrain_23" UV="0.3975597,0.322467,0.4966955,0.6449339" OffsetPos="0,0" Size="390,366" OriginalSize="390,366" ShowPosInPI="1564,366" />
+    <PuzzleUnit Name="diamainrain_24" UV="0.4969497,0.322467,0.5960854,0.6449339" OffsetPos="0,0" Size="390,366" OriginalSize="390,366" ShowPosInPI="1955,366" />
+    <PuzzleUnit Name="diamainrain_25" UV="0.5963396,0.322467,0.6954753,0.6449339" OffsetPos="0,0" Size="390,366" OriginalSize="390,366" ShowPosInPI="2346,366" />
+    <PuzzleUnit Name="diamainrain_26" UV="0.6957296,0.322467,0.7948653,0.6449339" OffsetPos="0,0" Size="390,366" OriginalSize="390,366" ShowPosInPI="2737,366" />
+    <PuzzleUnit Name="diamainrain_27" UV="0.7951195,0.322467,0.8942552,0.6449339" OffsetPos="0,0" Size="390,366" OriginalSize="390,366" ShowPosInPI="3128,366" />
+    <PuzzleUnit Name="diamainrain_28" UV="0.8945094,0.322467,0.9936451,0.6449339" OffsetPos="0,0" Size="390,366" OriginalSize="390,366" ShowPosInPI="3519,366" />
+    <PuzzleUnit Name="diamainrain_29" UV="0,0.645815,0.09913574,0.9682819" OffsetPos="0,0" Size="390,366" OriginalSize="390,366" ShowPosInPI="0,733" />
+    <PuzzleUnit Name="diamainrain_30" UV="0.09938993,0.645815,0.1985257,0.9682819" OffsetPos="0,0" Size="390,366" OriginalSize="390,366" ShowPosInPI="391,733" />
+    <PuzzleUnit Name="diamainrain_31" UV="0.1987799,0.645815,0.2979156,0.9682819" OffsetPos="0,0" Size="390,366" OriginalSize="390,366" ShowPosInPI="782,733" />
+    <PuzzleUnit Name="diamainrain_32" UV="0.2981698,0.645815,0.3973055,0.9268723" OffsetPos="0,47" Size="390,319" OriginalSize="390,366" ShowPosInPI="1173,733" />
+    <PuzzleUnit Name="diamainrain_33" UV="0.3975597,0.645815,0.4966955,0.8810573" OffsetPos="0,99" Size="390,267" OriginalSize="390,366" ShowPosInPI="1564,733" />
+    <PuzzleUnit Name="diamainrain_34" UV="0.4969497,0.645815,0.5823589,0.8185022" OffsetPos="0,170" Size="336,196" OriginalSize="390,366" ShowPosInPI="1955,733" />
+    <PuzzleUnit Name="diamainrain_35" UV="0.5826131,0.645815,0.6670056,0.7550661" OffsetPos="0,242" Size="332,124" OriginalSize="390,366" ShowPosInPI="2292,733" />
+    <PuzzleUnit Name="diamainrain_36" UV="0.6672598,0.645815,0.7397051,0.6854625" OffsetPos="34,321" Size="285,45" OriginalSize="390,366" ShowPosInPI="2625,733" />
+    <PuzzleUnit Name="diamainrain_9" UV="0,0,0.07625826,0.07312775" OffsetPos="0,0" Size="300,83" OriginalSize="390,366" ShowPosInPI="0,0" />
+</PuzzleImage>

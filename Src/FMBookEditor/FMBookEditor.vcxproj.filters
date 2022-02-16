@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
+    </Filter>
+    <Filter Include="FMBookEditorUIImplement">
+      <UniqueIdentifier>{3bbe1d82-78a2-4fa6-ad9b-7a1b168484d6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FMBookEditorUIImplement\Event">
+      <UniqueIdentifier>{6ffa1d6a-0e23-48fa-bbb1-fc806afe3202}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FMBookEditorUIImplement\Event\Trigger">
+      <UniqueIdentifier>{b22323b5-fe98-4f7d-a958-202bd3f040d1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FMBookEditorUIImplement\Event\Activer">
+      <UniqueIdentifier>{3f43b97d-561d-49a1-887c-68b5d68e6fa8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FMBookEditorUIImplement\Event\EventObject">
+      <UniqueIdentifier>{cfd9ea11-ed02-4870-996b-0bc462e9d20c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FMBookEditorUIImplement\Event\EventInstance">
+      <UniqueIdentifier>{5ad89932-6932-49cb-8093-35bf1ee0c375}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FMBookEditorUIImplement\Event\EventRevertFunction">
+      <UniqueIdentifier>{f6cad4d1-7eeb-4f09-ae7a-fbeb56969b56}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FMBookEditorUIImplement\FatmingUtilities">
+      <UniqueIdentifier>{cd9badce-4207-47ee-aab3-228583608ae1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DNCT">
+      <UniqueIdentifier>{e244a3be-f384-4faf-b824-3b89ebc85e33}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="AssemblyInfo.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="FMBookEditor.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="FMBookEditorUIImplement\EventObjectInstanceList.cpp">
+      <Filter>FMBookEditorUIImplement\Event</Filter>
+    </ClCompile>
+    <ClCompile Include="FMBookEditorUIImplement\EventPackages.cpp">
+      <Filter>FMBookEditorUIImplement\Event</Filter>
+    </ClCompile>
+    <ClCompile Include="FMBookEditorUIImplement\EventVariableManager.cpp">
+      <Filter>FMBookEditorUIImplement\Event</Filter>
+    </ClCompile>
+    <ClCompile Include="FMBookEditorUIImplement\EventButtonTrigger.cpp">
+      <Filter>FMBookEditorUIImplement\Event\Trigger</Filter>
+    </ClCompile>
+    <ClCompile Include="FMBookEditorUIImplement\EventMultiButtonTrigger.cpp">
+      <Filter>FMBookEditorUIImplement\Event\Trigger</Filter>
+    </ClCompile>
+    <ClCompile Include="FMBookEditorUIImplement\EventButtonSelectedActiver.cpp">
+      <Filter>FMBookEditorUIImplement\Event\Activer</Filter>
+    </ClCompile>
+    <ClCompile Include="FMBookEditorUIImplement\EventValueChangeActiver.cpp">
+      <Filter>FMBookEditorUIImplement\Event\Activer</Filter>
+    </ClCompile>
+    <ClCompile Include="FMBookEditorUIImplement\EventObjectStatus.cpp">
+      <Filter>FMBookEditorUIImplement\Event\EventObject</Filter>
+    </ClCompile>
+    <ClCompile Include="FMBookEditorUIImplement\EventObjectStatusList.cpp">
+      <Filter>FMBookEditorUIImplement\Event\EventObject</Filter>
+    </ClCompile>
+    <ClCompile Include="FMBookEditorUIImplement\EventInstanceEditor.cpp">
+      <Filter>FMBookEditorUIImplement\Event\EventInstance</Filter>
+    </ClCompile>
+    <ClCompile Include="FMBookEditorUIImplement\EventInstanceList.cpp">
+      <Filter>FMBookEditorUIImplement\Event\EventInstance</Filter>
+    </ClCompile>
+    <ClCompile Include="FMBookEditorUIImplement\EventRevertFunction.cpp">
+      <Filter>FMBookEditorUIImplement\Event\EventRevertFunction</Filter>
+    </ClCompile>
+    <ClCompile Include="FatmingUtilities.cpp">
+      <Filter>FMBookEditorUIImplement\FatmingUtilities</Filter>
+    </ClCompile>
+    <ClCompile Include="FMBookEditorUIImplement\Image.cpp">
+      <Filter>FMBookEditorUIImplement\FatmingUtilities</Filter>
+    </ClCompile>
+    <ClCompile Include="FMBookEditorUIImplement\MPDI.cpp">
+      <Filter>FMBookEditorUIImplement\FatmingUtilities</Filter>
+    </ClCompile>
+    <ClCompile Include="FMBookEditorUIImplement\Particle.cpp">
+      <Filter>FMBookEditorUIImplement\FatmingUtilities</Filter>
+    </ClCompile>
+    <ClCompile Include="FMBookEditorUIImplement\PI.cpp">
+      <Filter>FMBookEditorUIImplement\FatmingUtilities</Filter>
+    </ClCompile>
+    <ClCompile Include="FMBookEditorUIImplement\Sound.cpp">
+      <Filter>FMBookEditorUIImplement\FatmingUtilities</Filter>
+    </ClCompile>
+    <ClCompile Include="FMBookEditorUIImplement\Text.cpp">
+      <Filter>FMBookEditorUIImplement\FatmingUtilities</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DotNetCommon\DotNetCommonTools.cpp">
+      <Filter>DNCT</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DotNetCommon\WPFCommonTools.cpp">
+      <Filter>DNCT</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Form1.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="PageData.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="FMBookEditorUIImplement\EventBase_Editor.h">
+      <Filter>FMBookEditorUIImplement\Event</Filter>
+    </ClInclude>
+    <ClInclude Include="FMBookEditorUIImplement\EventObjectInstanceList.h">
+      <Filter>FMBookEditorUIImplement\Event</Filter>
+    </ClInclude>
+    <ClInclude Include="FMBookEditorUIImplement\EventPackages.h">
+      <Filter>FMBookEditorUIImplement\Event</Filter>
+    </ClInclude>
+    <ClInclude Include="FMBookEditorUIImplement\EventVariableManager.h">
+      <Filter>FMBookEditorUIImplement\Event</Filter>
+    </ClInclude>
+    <ClInclude Include="FMBookEditorUIImplement\EventButtonTrigger.h">
+      <Filter>FMBookEditorUIImplement\Event\Trigger</Filter>
+    </ClInclude>
+    <ClInclude Include="FMBookEditorUIImplement\EventMultiButtonTrigger.h">
+      <Filter>FMBookEditorUIImplement\Event\Trigger</Filter>
+    </ClInclude>
+    <ClInclude Include="FMBookEditorUIImplement\ObjectStatusTrigger.h">
+      <Filter>FMBookEditorUIImplement\Event\Trigger</Filter>
+    </ClInclude>
+    <ClInclude Include="FMBookEditorUIImplement\EventButtonSelectedActiver.h">
+      <Filter>FMBookEditorUIImplement\Event\Activer</Filter>
+    </ClInclude>
+    <ClInclude Include="FMBookEditorUIImplement\EventValueChangeActiver.h">
+      <Filter>FMBookEditorUIImplement\Event\Activer</Filter>
+    </ClInclude>
+    <ClInclude Include="FMBookEditorUIImplement\EventObjectStatus.h">
+      <Filter>FMBookEditorUIImplement\Event\EventObject</Filter>
+    </ClInclude>
+    <ClInclude Include="FMBookEditorUIImplement\EventObjectStatusList.h">
+      <Filter>FMBookEditorUIImplement\Event\EventObject</Filter>
+    </ClInclude>
+    <ClInclude Include="FMBookEditorUIImplement\EventInstanceEditor.h">
+      <Filter>FMBookEditorUIImplement\Event\EventInstance</Filter>
+    </ClInclude>
+    <ClInclude Include="FMBookEditorUIImplement\EventInstanceList.h">
+      <Filter>FMBookEditorUIImplement\Event\EventInstance</Filter>
+    </ClInclude>
+    <ClInclude Include="FMBookEditorUIImplement\EventRevertFunction.h">
+      <Filter>FMBookEditorUIImplement\Event\EventRevertFunction</Filter>
+    </ClInclude>
+    <ClInclude Include="FatmingUtilities.h">
+      <Filter>FMBookEditorUIImplement\FatmingUtilities</Filter>
+    </ClInclude>
+    <ClInclude Include="FatmingUtilitiesBase.h">
+      <Filter>FMBookEditorUIImplement\FatmingUtilities</Filter>
+    </ClInclude>
+    <ClInclude Include="FMBookEditorUIImplement\Image.h">
+      <Filter>FMBookEditorUIImplement\FatmingUtilities</Filter>
+    </ClInclude>
+    <ClInclude Include="FMBookEditorUIImplement\MPDI.h">
+      <Filter>FMBookEditorUIImplement\FatmingUtilities</Filter>
+    </ClInclude>
+    <ClInclude Include="FMBookEditorUIImplement\Particle.h">
+      <Filter>FMBookEditorUIImplement\FatmingUtilities</Filter>
+    </ClInclude>
+    <ClInclude Include="FMBookEditorUIImplement\PI.h">
+      <Filter>FMBookEditorUIImplement\FatmingUtilities</Filter>
+    </ClInclude>
+    <ClInclude Include="FMBookEditorUIImplement\Sound.h">
+      <Filter>FMBookEditorUIImplement\FatmingUtilities</Filter>
+    </ClInclude>
+    <ClInclude Include="FMBookEditorUIImplement\Text.h">
+      <Filter>FMBookEditorUIImplement\FatmingUtilities</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DotNetCommon\DotNetCommonTools.h">
+      <Filter>DNCT</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DotNetCommon\WPFCommonTools.h">
+      <Filter>DNCT</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="app.ico">
+      <Filter>Resource</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="app.rc">
+      <Filter>Resource</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form1.resX">
+      <Filter>Resource</Filter>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

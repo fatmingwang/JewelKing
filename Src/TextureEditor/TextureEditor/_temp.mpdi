@@ -1,0 +1,278 @@
+<MPDIList Name="_temp.mpdi_mpdi" Count="8" MPDIVersion="1.1" PICount="2" ImageName="SpinWheel.pi,BGsymbol.pi">
+    <MultiPathDynamicImage Name="SpinwheelIn" PathCount="6" PlayCount="1" TotalPlayTime="3.700000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="Light" StartTime="2.900000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="469.50,965.50,0.00" Time="0.800000" Size="696.00,586.00" PIName="SpinWheel" ImageName="Light" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Shadow" StartTime="2.900000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="407.00,973.50,0.00" Time="0.800000" Size="768.00,636.00" PIName="SpinWheel" ImageName="Shadow" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="arrowhead" BehaviorUpdate="1" StartTime="2.900000" AnchorType="CenterCenter" Count="2" LOD="1">
+            <PointDataList Index="0" Position="-140.00,723.00,0.00" Time="0.000000" Size="174.00,590.00" PIName="SpinWheel" ImageName="arrowheadVfx_05" />
+            <PointDataList Index="1" Position="-140.00,723.00,0.00" Time="0.800000" Size="174.00,590.00" PIName="SpinWheel" ImageName="arrowheadVfx_05" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Wheel" StartTime="0.000000" AnchorType="CenterCenter" Count="37" LOD="1">
+            <PointDataList Index="0" Position="320.00,361.00,0.00" Time="0.000000" Size="1072.00,188.00" PIName="SpinWheel" ImageName="Wheel_01" />
+            <PointDataList Index="1" Position="320.00,361.00,0.00" Time="0.100000" Size="1280.00,392.00" PIName="SpinWheel" ImageName="Wheel_02" />
+            <PointDataList Index="2" Position="320.00,361.00,0.00" Time="0.200000" Size="1280.00,244.00" PIName="SpinWheel" ImageName="Wheel_03" />
+            <PointDataList Index="3" Position="320.00,361.00,0.00" Time="0.300000" Size="1280.00,344.00" PIName="SpinWheel" ImageName="Wheel_04" />
+            <PointDataList Index="4" Position="320.00,361.00,0.00" Time="0.400000" Size="1280.00,348.00" PIName="SpinWheel" ImageName="Wheel_05" />
+            <PointDataList Index="5" Position="320.00,361.00,0.00" Time="0.500000" Size="1280.00,432.00" PIName="SpinWheel" ImageName="Wheel_06" />
+            <PointDataList Index="6" Position="320.00,361.00,0.00" Time="0.600000" Size="1280.00,528.00" PIName="SpinWheel" ImageName="Wheel_07" />
+            <PointDataList Index="7" Position="320.00,361.00,0.00" Time="0.700000" Size="1280.00,640.00" PIName="SpinWheel" ImageName="Wheel_08" />
+            <PointDataList Index="8" Position="320.00,361.00,0.00" Time="0.800000" Size="1280.00,452.00" PIName="SpinWheel" ImageName="Wheel_09" />
+            <PointDataList Index="9" Position="320.00,361.00,0.00" Time="0.900000" Size="1280.00,224.00" PIName="SpinWheel" ImageName="Wheel_10" />
+            <PointDataList Index="10" Position="320.00,361.00,0.00" Time="1.000000" Size="1272.00,1368.00" PIName="SpinWheel" ImageName="Wheel_11" />
+            <PointDataList Index="11" Position="320.00,361.00,0.00" Time="1.100000" Size="1280.00,1388.00" PIName="SpinWheel" ImageName="Wheel_12" />
+            <PointDataList Index="12" Position="320.00,361.00,0.00" Time="1.200000" Size="1280.00,1364.00" PIName="SpinWheel" ImageName="Wheel_13" />
+            <PointDataList Index="13" Position="320.00,361.00,0.00" Time="1.300000" Size="1280.00,1408.00" PIName="SpinWheel" ImageName="Wheel_14" />
+            <PointDataList Index="14" Position="320.00,361.00,0.00" Time="1.400000" Size="1280.00,1440.00" PIName="SpinWheel" ImageName="Wheel_15" />
+            <PointDataList Index="15" Position="320.00,361.00,0.00" Time="1.500000" Size="1280.00,1412.00" PIName="SpinWheel" ImageName="Wheel_16" />
+            <PointDataList Index="16" Position="320.00,361.00,0.00" Time="1.600000" Size="1280.00,1440.00" PIName="SpinWheel" ImageName="Wheel_17" />
+            <PointDataList Index="17" Position="320.00,361.00,0.00" Time="1.700000" Size="1280.00,1440.00" PIName="SpinWheel" ImageName="Wheel_18" />
+            <PointDataList Index="18" Position="320.00,361.00,0.00" Time="1.800000" Size="1280.00,1440.00" PIName="SpinWheel" ImageName="Wheel_19" />
+            <PointDataList Index="19" Position="320.00,361.00,0.00" Time="1.900000" Size="1280.00,1440.00" PIName="SpinWheel" ImageName="Wheel_20" />
+            <PointDataList Index="20" Position="320.00,361.00,0.00" Time="2.000000" Size="1280.00,1396.00" PIName="SpinWheel" ImageName="Wheel_21" />
+            <PointDataList Index="21" Position="320.00,361.00,0.00" Time="2.100000" Size="1280.00,1100.00" PIName="SpinWheel" ImageName="Wheel_22" />
+            <PointDataList Index="22" Position="320.00,361.00,0.00" Time="2.200000" Size="1164.00,860.00" PIName="SpinWheel" ImageName="Wheel_23" />
+            <PointDataList Index="23" Position="320.00,361.00,0.00" Time="2.300000" Size="1252.00,752.00" PIName="SpinWheel" ImageName="Wheel_24" />
+            <PointDataList Index="24" Position="320.00,361.00,0.00" Time="2.400000" Size="1280.00,764.00" PIName="SpinWheel" ImageName="Wheel_25" />
+            <PointDataList Index="25" Position="320.00,361.00,0.00" Time="2.500000" Size="1280.00,808.00" PIName="SpinWheel" ImageName="Wheel_26" />
+            <PointDataList Index="26" Position="320.00,361.00,0.00" Time="2.600000" Size="1280.00,828.00" PIName="SpinWheel" ImageName="Wheel_27" />
+            <PointDataList Index="27" Position="320.00,361.00,0.00" Time="2.700000" Size="1280.00,964.00" PIName="SpinWheel" ImageName="Wheel_28" />
+            <PointDataList Index="28" Position="320.00,361.00,0.00" Time="2.800000" Size="1280.00,840.00" PIName="SpinWheel" ImageName="Wheel_29" />
+            <PointDataList Index="29" Position="320.00,361.00,0.00" Time="2.900000" Size="1280.00,844.00" PIName="SpinWheel" ImageName="Wheel_30" />
+            <PointDataList Index="30" Position="320.00,361.00,0.00" Time="3.000000" Size="1280.00,848.00" PIName="SpinWheel" ImageName="Wheel_31" />
+            <PointDataList Index="31" Position="320.00,361.00,0.00" Time="3.100000" Size="1280.00,848.00" PIName="SpinWheel" ImageName="Wheel_32" />
+            <PointDataList Index="32" Position="0.00,1.00,0.00" Time="3.200000" Size="392.00,816.00" PIName="SpinWheel" ImageName="Wheel_33a" />
+            <PointDataList Index="33" Position="0.00,1.00,0.00" Time="3.300000" Size="392.00,780.00" PIName="SpinWheel" ImageName="Wheel_34a" />
+            <PointDataList Index="34" Position="0.00,1.00,0.00" Time="3.400000" Size="392.00,780.00" PIName="SpinWheel" ImageName="Wheel_35a" />
+            <PointDataList Index="35" Position="0.00,1.00,0.00" Time="3.500000" Size="392.00,780.00" PIName="SpinWheel" ImageName="Wheel_36a" />
+            <PointDataList Index="36" Position="0.00,1.00,0.00" Time="3.700000" Size="392.00,780.00" PIName="SpinWheel" ImageName="Wheel_36a" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Wheel2" StartTime="3.200000" AnchorType="CenterCenter" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,1.00,0.00" Time="0.000000" Size="386.00,816.00" PIName="SpinWheel" ImageName="Wheel_33b" />
+            <PointDataList Index="1" Position="0.00,1.00,0.00" Time="0.100000" Size="386.00,780.00" PIName="SpinWheel" ImageName="Wheel_34b" />
+            <PointDataList Index="2" Position="0.00,1.00,0.00" Time="0.200000" Size="386.00,780.00" PIName="SpinWheel" ImageName="Wheel_35b" />
+            <PointDataList Index="3" Position="0.00,1.00,0.00" Time="0.300000" Size="386.00,780.00" PIName="SpinWheel" ImageName="Wheel_36b" />
+            <PointDataList Index="4" Position="0.00,1.00,0.00" Time="0.500000" Size="386.00,780.00" PIName="SpinWheel" ImageName="Wheel_36b" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="SpinWheel" StartTime="3.200000" AnchorType="CenterCenter" Count="6" LOD="1">
+            <PointDataList Index="0" Position="207.00,870.50,0.00" Time="0.000000" Size="0.00,0.00" PIName="SpinWheel" ImageName="SpinWheel" />
+            <PointDataList Index="1" Position="207.00,870.50,0.00" Time="0.100000" Size="292.00,158.33" PIName="SpinWheel" ImageName="SpinWheel" />
+            <PointDataList Index="2" Position="207.00,870.50,0.00" Time="0.200000" Size="584.00,316.67" PIName="SpinWheel" ImageName="SpinWheel" />
+            <PointDataList Index="3" Position="207.00,870.50,0.00" Time="0.300000" Size="963.60,522.50" PIName="SpinWheel" ImageName="SpinWheel" />
+            <PointDataList Index="4" Position="207.00,870.50,0.00" Time="0.400000" Size="788.40,427.50" PIName="SpinWheel" ImageName="SpinWheel" />
+            <PointDataList Index="5" Position="207.00,870.50,0.00" Time="0.500000" Size="876.00,475.00" PIName="SpinWheel" ImageName="SpinWheel" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="SpinwheelWait" PathCount="7" PlayCount="-1" TotalPlayTime="0.500000">
+        <CueToStartCurvesWithTime Name="Light" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="469.50,965.50,0.00" Time="0.500000" Size="696.00,586.00" PIName="SpinWheel" ImageName="Light" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Shadow" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="407.00,973.50,0.00" Time="0.500000" Size="768.00,636.00" PIName="SpinWheel" ImageName="Shadow" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Wheel" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="0.00,1.00,0.00" Time="0.500000" Size="392.00,780.00" PIName="SpinWheel" ImageName="Wheel_36a" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Wheel2" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="0.00,1.00,0.00" Time="0.500000" Size="386.00,780.00" PIName="SpinWheel" ImageName="Wheel_36b" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="arrowhead" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-140.00,723.00,0.00" Time="0.500000" Size="174.00,590.00" PIName="SpinWheel" ImageName="arrowheadVfx_05" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="arrowheadAdd" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.000000" AnchorType="CenterCenter" Count="6" LOD="1">
+            <PointDataList Index="0" Position="-140.00,723.00,0.00" Time="0.000000" Size="144.00,140.00" PIName="SpinWheel" ImageName="arrowhead_00" />
+            <PointDataList Index="1" Position="-140.00,723.00,0.00" Time="0.100000" Size="110.00,174.00" PIName="SpinWheel" ImageName="arrowhead_01" />
+            <PointDataList Index="2" Position="-140.00,723.00,0.00" Time="0.200000" Size="94.00,174.00" PIName="SpinWheel" ImageName="arrowhead_02" />
+            <PointDataList Index="3" Position="-140.00,723.00,0.00" Time="0.300000" Size="174.00,174.00" PIName="SpinWheel" ImageName="arrowhead_03" />
+            <PointDataList Index="4" Position="-140.00,723.00,0.00" Time="0.400000" Size="158.00,126.00" PIName="SpinWheel" ImageName="arrowhead_04" />
+            <PointDataList Index="5" Position="-140.00,723.00,0.00" Time="0.500000" Size="144.00,140.00" PIName="SpinWheel" ImageName="arrowhead_00" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="SpinWheel" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="207.00,870.50,0.00" Time="0.500000" Size="876.00,475.00" PIName="SpinWheel" ImageName="SpinWheel" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="SpinwheelOut" PathCount="6" PlayCount="1" TotalPlayTime="0.600000">
+        <CueToStartCurvesWithTime Name="Light" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="469.50,965.50,0.00" Time="0.600000" Size="696.00,586.00" PIName="SpinWheel" ImageName="Light" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Shadow" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="407.00,973.50,0.00" Time="0.600000" Size="768.00,636.00" PIName="SpinWheel" ImageName="Shadow" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Wheel" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="0.00,1.00,0.00" Time="0.600000" Size="392.00,780.00" PIName="SpinWheel" ImageName="Wheel_36a" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Wheel2" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="0.00,1.00,0.00" Time="0.600000" Size="386.00,780.00" PIName="SpinWheel" ImageName="Wheel_36b" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="arrowheadVfx" StartTime="0.000000" AnchorType="CenterCenter" Count="11" LOD="1">
+            <PointDataList Index="0" Position="-140.00,723.00,0.00" Time="0.000000" Size="174.00,590.00" PIName="SpinWheel" ImageName="arrowheadVfx_05" />
+            <PointDataList Index="1" Position="-140.00,723.00,0.00" Time="0.060000" Size="174.00,590.00" PIName="SpinWheel" ImageName="arrowheadVfx_05" />
+            <PointDataList Index="2" Position="-140.00,723.00,0.00" Time="0.120000" Size="316.00,648.00" PIName="SpinWheel" ImageName="arrowheadVfx_06" />
+            <PointDataList Index="3" Position="-140.00,723.00,0.00" Time="0.180000" Size="290.00,614.00" PIName="SpinWheel" ImageName="arrowheadVfx_07" />
+            <PointDataList Index="4" Position="-140.00,723.00,0.00" Time="0.240000" Size="276.00,528.00" PIName="SpinWheel" ImageName="arrowheadVfx_08" />
+            <PointDataList Index="5" Position="-140.00,723.00,0.00" Time="0.300000" Size="280.00,506.00" PIName="SpinWheel" ImageName="arrowheadVfx_09" />
+            <PointDataList Index="6" Position="-140.00,723.00,0.00" Time="0.360000" Size="326.00,490.00" PIName="SpinWheel" ImageName="arrowheadVfx_10" />
+            <PointDataList Index="7" Position="-140.00,723.00,0.00" Time="0.420000" Size="282.00,480.00" PIName="SpinWheel" ImageName="arrowheadVfx_11" />
+            <PointDataList Index="8" Position="-140.00,723.00,0.00" Time="0.480000" Size="316.00,454.00" PIName="SpinWheel" ImageName="arrowheadVfx_12" />
+            <PointDataList Index="9" Position="-140.00,723.00,0.00" Time="0.540000" Size="304.00,318.00" PIName="SpinWheel" ImageName="arrowheadVfx_13" />
+            <PointDataList Index="10" Position="-140.00,723.00,0.00" Time="0.600000" Size="224.00,244.00" PIName="SpinWheel" ImageName="arrowheadVfx_14" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="SpinWheel" StartTime="0.000000" AnchorType="CenterCenter" Count="8" LOD="1">
+            <PointDataList Index="0" Position="207.00,870.50,0.00" Time="0.000000" Size="876.00,475.00" PIName="SpinWheel" ImageName="SpinWheel" />
+            <PointDataList Index="1" Position="207.00,870.50,0.00" Time="0.060000" Size="876.00,475.00" Color="1.00,1.00,1.00,0.86" PIName="SpinWheel" ImageName="SpinWheel" />
+            <PointDataList Index="2" Position="207.00,870.50,0.00" Time="0.120000" Size="876.00,475.00" Color="1.00,1.00,1.00,0.71" PIName="SpinWheel" ImageName="SpinWheel" />
+            <PointDataList Index="3" Position="207.00,870.50,0.00" Time="0.180000" Size="876.00,475.00" Color="1.00,1.00,1.00,0.57" PIName="SpinWheel" ImageName="SpinWheel" />
+            <PointDataList Index="4" Position="207.00,870.50,0.00" Time="0.240000" Size="876.00,475.00" Color="1.00,1.00,1.00,0.43" PIName="SpinWheel" ImageName="SpinWheel" />
+            <PointDataList Index="5" Position="207.00,870.50,0.00" Time="0.300000" Size="876.00,475.00" Color="1.00,1.00,1.00,0.29" PIName="SpinWheel" ImageName="SpinWheel" />
+            <PointDataList Index="6" Position="207.00,870.50,0.00" Time="0.360000" Size="876.00,475.00" Color="1.00,1.00,1.00,0.14" PIName="SpinWheel" ImageName="SpinWheel" />
+            <PointDataList Index="7" Position="207.00,870.50,0.00" Time="0.420000" Size="876.00,475.00" Color="1.00,1.00,1.00,0.00" PIName="SpinWheel" ImageName="SpinWheel" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="Symbol" PathCount="5" PlayCount="1" ViewPort="303.30,825.80,989.90,1440.90" TotalPlayTime="1.000000">
+        <CueToStartCurvesWithTime Name="BOUNS1000" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="306.00,788.00,0.00" Time="1.000000" Size="678.00,140.00" PIName="BGsymbol" ImageName="BOUNS1000" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="d" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="306.00,1344.50,0.00" Time="1.000000" Size="678.00,139.00" PIName="BGsymbol" ImageName="GOD_2" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="1" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="306.00,927.50,0.00" Time="1.000000" Size="678.00,139.00" PIName="BGsymbol" ImageName="GOD_2" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="GOD_2" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="306.00,1205.00,0.00" Time="1.000000" Size="678.00,140.00" PIName="BGsymbol" ImageName="BOUNS1000" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="GOD_1" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="306.00,1066.00,0.00" Time="1.000000" Size="678.00,140.00" PIName="BGsymbol" ImageName="GOD_1" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="ArrowIn" PathCount="6" PlayCount="-1" TotalPlayTime="0.500000">
+        <CueToStartCurvesWithTime Name="Light" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="469.50,965.50,0.00" Time="0.500000" Size="696.00,586.00" PIName="SpinWheel" ImageName="Light" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Shadow" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="407.00,973.50,0.00" Time="0.500000" Size="768.00,636.00" PIName="SpinWheel" ImageName="Shadow" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Wheel" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="0.00,1.00,0.00" Time="0.500000" Size="392.00,780.00" PIName="SpinWheel" ImageName="Wheel_36a" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Wheel2" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="0.00,1.00,0.00" Time="0.500000" Size="385.00,779.00" PIName="SpinWheel" ImageName="Wheel_37b" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="arrow" BehaviorUpdate="1" StartTime="0.000000" RotationPosOffset="-30.00,0.00,0.00" AnchorType="CenterCenter" Count="2" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="960.00,1102.00,0.00" Time="0.000000" Size="73.00,58.00" PIName="SpinWheel" ImageName="arrow" />
+            <PointDataList Index="1" Position="960.00,1102.00,0.00" Time="0.150000" Size="73.00,58.00" Angles="0.00,0.00,-28.00" PIName="SpinWheel" ImageName="arrow" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="WheelOBJ" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="0.00,662.50,0.00" Time="0.500000" Size="76.00,92.00" PIName="SpinWheel" ImageName="WheelOBJ" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="ArrowOut" PathCount="6" PlayCount="-1" TotalPlayTime="0.500000">
+        <CueToStartCurvesWithTime Name="Light" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="469.50,965.50,0.00" Time="0.500000" Size="696.00,586.00" PIName="SpinWheel" ImageName="Light" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Shadow" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="407.00,973.50,0.00" Time="0.500000" Size="768.00,636.00" PIName="SpinWheel" ImageName="Shadow" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Wheel" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="0.00,1.00,0.00" Time="0.500000" Size="392.00,780.00" PIName="SpinWheel" ImageName="Wheel_36a" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Wheel2" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="0.00,1.00,0.00" Time="0.500000" Size="385.00,779.00" PIName="SpinWheel" ImageName="Wheel_37b" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="arrow" BehaviorUpdate="1" StartTime="0.000000" RotationPosOffset="-30.00,0.00,0.00" AnchorType="CenterCenter" Count="2" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="960.00,1102.00,0.00" Time="0.000000" Size="73.00,58.00" PIName="SpinWheel" ImageName="arrow" />
+            <PointDataList Index="1" Position="960.00,1102.00,0.00" Time="0.300000" Size="73.00,58.00" Angles="0.00,0.00,-28.00" PIName="SpinWheel" ImageName="arrow" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="WheelOBJ" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="0.00,662.50,0.00" Time="0.500000" Size="76.00,92.00" PIName="SpinWheel" ImageName="WheelOBJ" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="SpinwheelIdle" PathCount="6" PlayCount="-1" TotalPlayTime="0.500000">
+        <CueToStartCurvesWithTime Name="Light" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="469.50,965.50,0.00" Time="0.500000" Size="696.00,586.00" PIName="SpinWheel" ImageName="Light" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Shadow" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="407.00,973.50,0.00" Time="0.500000" Size="768.00,636.00" PIName="SpinWheel" ImageName="Shadow" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Wheel" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="0.00,1.00,0.00" Time="0.500000" Size="392.00,780.00" PIName="SpinWheel" ImageName="Wheel_36a" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Wheel2" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="0.00,1.00,0.00" Time="0.500000" Size="385.00,779.00" PIName="SpinWheel" ImageName="Wheel_37b" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="arrow" BehaviorUpdate="1" StartTime="0.000000" RotationPosOffset="-30.00,0.00,0.00" AnchorType="CenterCenter" Count="1" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="960.00,1102.00,0.00" Time="0.500000" Size="73.00,58.00" PIName="SpinWheel" ImageName="arrow" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="WheelOBJ" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="0.00,662.50,0.00" Time="0.500000" Size="76.00,92.00" PIName="SpinWheel" ImageName="WheelOBJ" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="_temp" PathCount="6" PlayCount="1" TotalPlayTime="3.700000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="Light" StartTime="2.900000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="469.50,965.50,0.00" Time="0.800000" Size="696.00,586.00" PIName="SpinWheel" ImageName="Light" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Shadow" StartTime="2.900000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="407.00,973.50,0.00" Time="0.800000" Size="768.00,636.00" PIName="SpinWheel" ImageName="Shadow" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="arrowhead" BehaviorUpdate="1" StartTime="2.900000" AnchorType="CenterCenter" Count="2" LOD="1">
+            <PointDataList Index="0" Position="-140.00,723.00,0.00" Time="0.000000" Size="174.00,590.00" PIName="SpinWheel" ImageName="arrowheadVfx_05" />
+            <PointDataList Index="1" Position="-140.00,723.00,0.00" Time="0.800000" Size="174.00,590.00" PIName="SpinWheel" ImageName="arrowheadVfx_05" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Wheel" StartTime="0.000000" AnchorType="CenterCenter" Count="37" LOD="1">
+            <PointDataList Index="0" Position="320.00,361.00,0.00" Time="0.000000" Size="1072.00,188.00" PIName="SpinWheel" ImageName="Wheel_01" />
+            <PointDataList Index="1" Position="320.00,361.00,0.00" Time="0.100000" Size="1280.00,392.00" PIName="SpinWheel" ImageName="Wheel_02" />
+            <PointDataList Index="2" Position="320.00,361.00,0.00" Time="0.200000" Size="1280.00,244.00" PIName="SpinWheel" ImageName="Wheel_03" />
+            <PointDataList Index="3" Position="320.00,361.00,0.00" Time="0.300000" Size="1280.00,344.00" PIName="SpinWheel" ImageName="Wheel_04" />
+            <PointDataList Index="4" Position="320.00,361.00,0.00" Time="0.400000" Size="1280.00,348.00" PIName="SpinWheel" ImageName="Wheel_05" />
+            <PointDataList Index="5" Position="320.00,361.00,0.00" Time="0.500000" Size="1280.00,432.00" PIName="SpinWheel" ImageName="Wheel_06" />
+            <PointDataList Index="6" Position="320.00,361.00,0.00" Time="0.600000" Size="1280.00,528.00" PIName="SpinWheel" ImageName="Wheel_07" />
+            <PointDataList Index="7" Position="320.00,361.00,0.00" Time="0.700000" Size="1280.00,640.00" PIName="SpinWheel" ImageName="Wheel_08" />
+            <PointDataList Index="8" Position="320.00,361.00,0.00" Time="0.800000" Size="1280.00,452.00" PIName="SpinWheel" ImageName="Wheel_09" />
+            <PointDataList Index="9" Position="320.00,361.00,0.00" Time="0.900000" Size="1280.00,224.00" PIName="SpinWheel" ImageName="Wheel_10" />
+            <PointDataList Index="10" Position="320.00,361.00,0.00" Time="1.000000" Size="1272.00,1368.00" PIName="SpinWheel" ImageName="Wheel_11" />
+            <PointDataList Index="11" Position="320.00,361.00,0.00" Time="1.100000" Size="1280.00,1388.00" PIName="SpinWheel" ImageName="Wheel_12" />
+            <PointDataList Index="12" Position="320.00,361.00,0.00" Time="1.200000" Size="1280.00,1364.00" PIName="SpinWheel" ImageName="Wheel_13" />
+            <PointDataList Index="13" Position="320.00,361.00,0.00" Time="1.300000" Size="1280.00,1408.00" PIName="SpinWheel" ImageName="Wheel_14" />
+            <PointDataList Index="14" Position="320.00,361.00,0.00" Time="1.400000" Size="1280.00,1440.00" PIName="SpinWheel" ImageName="Wheel_15" />
+            <PointDataList Index="15" Position="320.00,361.00,0.00" Time="1.500000" Size="1280.00,1412.00" PIName="SpinWheel" ImageName="Wheel_16" />
+            <PointDataList Index="16" Position="320.00,361.00,0.00" Time="1.600000" Size="1280.00,1440.00" PIName="SpinWheel" ImageName="Wheel_17" />
+            <PointDataList Index="17" Position="320.00,361.00,0.00" Time="1.700000" Size="1280.00,1440.00" PIName="SpinWheel" ImageName="Wheel_18" />
+            <PointDataList Index="18" Position="320.00,361.00,0.00" Time="1.800000" Size="1280.00,1440.00" PIName="SpinWheel" ImageName="Wheel_19" />
+            <PointDataList Index="19" Position="320.00,361.00,0.00" Time="1.900000" Size="1280.00,1440.00" PIName="SpinWheel" ImageName="Wheel_20" />
+            <PointDataList Index="20" Position="320.00,361.00,0.00" Time="2.000000" Size="1280.00,1396.00" PIName="SpinWheel" ImageName="Wheel_21" />
+            <PointDataList Index="21" Position="320.00,361.00,0.00" Time="2.100000" Size="1280.00,1100.00" PIName="SpinWheel" ImageName="Wheel_22" />
+            <PointDataList Index="22" Position="320.00,361.00,0.00" Time="2.200000" Size="1164.00,860.00" PIName="SpinWheel" ImageName="Wheel_23" />
+            <PointDataList Index="23" Position="320.00,361.00,0.00" Time="2.300000" Size="1252.00,752.00" PIName="SpinWheel" ImageName="Wheel_24" />
+            <PointDataList Index="24" Position="320.00,361.00,0.00" Time="2.400000" Size="1280.00,764.00" PIName="SpinWheel" ImageName="Wheel_25" />
+            <PointDataList Index="25" Position="320.00,361.00,0.00" Time="2.500000" Size="1280.00,808.00" PIName="SpinWheel" ImageName="Wheel_26" />
+            <PointDataList Index="26" Position="320.00,361.00,0.00" Time="2.600000" Size="1280.00,828.00" PIName="SpinWheel" ImageName="Wheel_27" />
+            <PointDataList Index="27" Position="320.00,361.00,0.00" Time="2.700000" Size="1280.00,964.00" PIName="SpinWheel" ImageName="Wheel_28" />
+            <PointDataList Index="28" Position="320.00,361.00,0.00" Time="2.800000" Size="1280.00,840.00" PIName="SpinWheel" ImageName="Wheel_29" />
+            <PointDataList Index="29" Position="320.00,361.00,0.00" Time="2.900000" Size="1280.00,844.00" PIName="SpinWheel" ImageName="Wheel_30" />
+            <PointDataList Index="30" Position="320.00,361.00,0.00" Time="3.000000" Size="1280.00,848.00" PIName="SpinWheel" ImageName="Wheel_31" />
+            <PointDataList Index="31" Position="320.00,361.00,0.00" Time="3.100000" Size="1280.00,848.00" PIName="SpinWheel" ImageName="Wheel_32" />
+            <PointDataList Index="32" Position="0.00,1.00,0.00" Time="3.200000" Size="392.00,816.00" PIName="SpinWheel" ImageName="Wheel_33a" />
+            <PointDataList Index="33" Position="0.00,1.00,0.00" Time="3.300000" Size="392.00,780.00" PIName="SpinWheel" ImageName="Wheel_34a" />
+            <PointDataList Index="34" Position="0.00,1.00,0.00" Time="3.400000" Size="392.00,780.00" PIName="SpinWheel" ImageName="Wheel_35a" />
+            <PointDataList Index="35" Position="0.00,1.00,0.00" Time="3.500000" Size="392.00,780.00" PIName="SpinWheel" ImageName="Wheel_36a" />
+            <PointDataList Index="36" Position="0.00,1.00,0.00" Time="3.700000" Size="392.00,780.00" PIName="SpinWheel" ImageName="Wheel_36a" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Wheel2" StartTime="3.200000" AnchorType="CenterCenter" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,1.00,0.00" Time="0.000000" Size="386.00,816.00" PIName="SpinWheel" ImageName="Wheel_33b" />
+            <PointDataList Index="1" Position="0.00,1.00,0.00" Time="0.100000" Size="386.00,780.00" PIName="SpinWheel" ImageName="Wheel_34b" />
+            <PointDataList Index="2" Position="0.00,1.00,0.00" Time="0.200000" Size="386.00,780.00" PIName="SpinWheel" ImageName="Wheel_35b" />
+            <PointDataList Index="3" Position="0.00,1.00,0.00" Time="0.300000" Size="386.00,780.00" PIName="SpinWheel" ImageName="Wheel_36b" />
+            <PointDataList Index="4" Position="0.00,1.00,0.00" Time="0.500000" Size="386.00,780.00" PIName="SpinWheel" ImageName="Wheel_36b" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="SpinWheel" StartTime="3.200000" AnchorType="CenterCenter" Count="6" LOD="1">
+            <PointDataList Index="0" Position="207.00,870.50,0.00" Time="0.000000" Size="0.00,0.00" PIName="SpinWheel" ImageName="SpinWheel" />
+            <PointDataList Index="1" Position="207.00,870.50,0.00" Time="0.100000" Size="292.00,158.33" PIName="SpinWheel" ImageName="SpinWheel" />
+            <PointDataList Index="2" Position="207.00,870.50,0.00" Time="0.200000" Size="584.00,316.67" PIName="SpinWheel" ImageName="SpinWheel" />
+            <PointDataList Index="3" Position="207.00,870.50,0.00" Time="0.300000" Size="963.60,522.50" PIName="SpinWheel" ImageName="SpinWheel" />
+            <PointDataList Index="4" Position="207.00,870.50,0.00" Time="0.400000" Size="788.40,427.50" PIName="SpinWheel" ImageName="SpinWheel" />
+            <PointDataList Index="5" Position="207.00,870.50,0.00" Time="0.500000" Size="876.00,475.00" PIName="SpinWheel" ImageName="SpinWheel" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+</MPDIList>

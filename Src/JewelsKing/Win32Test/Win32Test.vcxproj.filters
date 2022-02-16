@@ -1,0 +1,352 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
+    </Filter>
+    <Filter Include="Game">
+      <UniqueIdentifier>{62af9a3f-cf60-43a1-9f1b-f8fb3ab0db14}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\Phase">
+      <UniqueIdentifier>{973610a3-7598-4f16-8f7e-01b176799d23}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\ExtraGame">
+      <UniqueIdentifier>{bdf990dc-42a3-4767-85a5-c56fb1b206a2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\Effect">
+      <UniqueIdentifier>{5587607f-3ab3-4b90-9eb2-a39f41e29dfa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\Effect\UpperScreen">
+      <UniqueIdentifier>{f2f6753f-25d5-4938-a64c-60cfbf1f3015}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\Effect\DownScreenEffect">
+      <UniqueIdentifier>{156fc670-a1b2-4f39-acfd-0078371db801}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\Effect\Message">
+      <UniqueIdentifier>{500eb8e3-6257-45d6-935a-bcccac7e071c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\Effect\WinMoneyEffect">
+      <UniqueIdentifier>{e30f7d2f-2d7c-4fd5-81cb-90905e3271f6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\SlotObject">
+      <UniqueIdentifier>{65296737-6378-492e-aec5-f674aee5e67d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\PlayerData">
+      <UniqueIdentifier>{d856e843-f343-4abe-a342-4697fd647658}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\SlotRule">
+      <UniqueIdentifier>{423d9d9a-b7ea-4177-ab00-70fc79346d20}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\Device">
+      <UniqueIdentifier>{69d3c642-cb28-49da-82ab-75467aa69a3a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\Network">
+      <UniqueIdentifier>{9d5f7954-d0d0-41fe-afd9-20a0f05075b1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\Probability">
+      <UniqueIdentifier>{88b3c4e4-fd08-480f-b8b3-789d96ce90c4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\GameError">
+      <UniqueIdentifier>{a70e940f-afd4-4da7-a672-01278dc62e52}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\EngineTest\stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Win32Test.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\EngineTest\ControlPanelDataSetup.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\EngineTest\GameApp.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\EngineTest\UVCombine.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\EngineTest\BetPhase.cpp">
+      <Filter>Game\Phase</Filter>
+    </ClCompile>
+    <ClCompile Include="..\EngineTest\CalculateScorePhase.cpp">
+      <Filter>Game\Phase</Filter>
+    </ClCompile>
+    <ClCompile Include="..\EngineTest\ExtraGamePhase.cpp">
+      <Filter>Game\Phase</Filter>
+    </ClCompile>
+    <ClCompile Include="..\EngineTest\SpinPhase.cpp">
+      <Filter>Game\Phase</Filter>
+    </ClCompile>
+    <ClCompile Include="..\EngineTest\BaseExtraGame.cpp">
+      <Filter>Game\ExtraGame</Filter>
+    </ClCompile>
+    <ClCompile Include="..\EngineTest\FreeBonusGame.cpp">
+      <Filter>Game\ExtraGame</Filter>
+    </ClCompile>
+    <ClCompile Include="..\EngineTest\FreeExplosionGame.cpp">
+      <Filter>Game\ExtraGame</Filter>
+    </ClCompile>
+    <ClCompile Include="..\EngineTest\FreeGameForPickGemsGame.cpp">
+      <Filter>Game\ExtraGame</Filter>
+    </ClCompile>
+    <ClCompile Include="..\EngineTest\FreeJP.cpp">
+      <Filter>Game\ExtraGame</Filter>
+    </ClCompile>
+    <ClCompile Include="..\EngineTest\FreeMiningGame.cpp">
+      <Filter>Game\ExtraGame</Filter>
+    </ClCompile>
+    <ClCompile Include="..\EngineTest\FreePickaxeGame.cpp">
+      <Filter>Game\ExtraGame</Filter>
+    </ClCompile>
+    <ClCompile Include="..\EngineTest\FallDownNewSpinObject.cpp">
+      <Filter>Game\Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="..\EngineTest\WinMoneyLine.cpp">
+      <Filter>Game\Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="..\EngineTest\WinMoneySpinObjectMPDI.cpp">
+      <Filter>Game\Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="..\EngineTest\King.cpp">
+      <Filter>Game\Effect\UpperScreen</Filter>
+    </ClCompile>
+    <ClCompile Include="..\EngineTest\UpperScreen.cpp">
+      <Filter>Game\Effect\UpperScreen</Filter>
+    </ClCompile>
+    <ClCompile Include="..\EngineTest\DownScreen.cpp">
+      <Filter>Game\Effect\DownScreenEffect</Filter>
+    </ClCompile>
+    <ClCompile Include="..\EngineTest\ShowLineBetMoney.cpp">
+      <Filter>Game\Effect\DownScreenEffect</Filter>
+    </ClCompile>
+    <ClCompile Include="..\EngineTest\GameMessage.cpp">
+      <Filter>Game\Effect\Message</Filter>
+    </ClCompile>
+    <ClCompile Include="..\EngineTest\BigWin.cpp">
+      <Filter>Game\Effect\WinMoneyEffect</Filter>
+    </ClCompile>
+    <ClCompile Include="..\EngineTest\JPEffect.cpp">
+      <Filter>Game\Effect\WinMoneyEffect</Filter>
+    </ClCompile>
+    <ClCompile Include="..\EngineTest\NumerialRollingEffect.cpp">
+      <Filter>Game\Effect\WinMoneyEffect</Filter>
+    </ClCompile>
+    <ClCompile Include="..\EngineTest\OldSlotObject.cpp">
+      <Filter>Game\SlotObject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\EngineTest\SlotObject.cpp">
+      <Filter>Game\SlotObject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\EngineTest\PlayerData.cpp">
+      <Filter>Game\PlayerData</Filter>
+    </ClCompile>
+    <ClCompile Include="..\EngineTest\BetBehavior.cpp">
+      <Filter>Game\SlotRule</Filter>
+    </ClCompile>
+    <ClCompile Include="..\EngineTest\BetBehavior_CalculateScore.cpp">
+      <Filter>Game\SlotRule</Filter>
+    </ClCompile>
+    <ClCompile Include="..\EngineTest\OldBetBehavior.cpp">
+      <Filter>Game\SlotRule</Filter>
+    </ClCompile>
+    <ClCompile Include="..\EngineTest\SlotRule.cpp">
+      <Filter>Game\SlotRule</Filter>
+    </ClCompile>
+    <ClCompile Include="..\EngineTest\CoinDevice.cpp">
+      <Filter>Game\Device</Filter>
+    </ClCompile>
+    <ClCompile Include="..\EngineTest\Light.cpp">
+      <Filter>Game\Device</Filter>
+    </ClCompile>
+    <ClCompile Include="..\EngineTest\GameNetwork.cpp">
+      <Filter>Game\Network</Filter>
+    </ClCompile>
+    <ClCompile Include="..\EngineTest\ProbabilityResultCurve.cpp">
+      <Filter>Game\Probability</Filter>
+    </ClCompile>
+    <ClCompile Include="..\EngineTest\SlotGoodTables.cpp">
+      <Filter>Game\Probability</Filter>
+    </ClCompile>
+    <ClCompile Include="..\EngineTest\SlotProbability.cpp">
+      <Filter>Game\Probability</Filter>
+    </ClCompile>
+    <ClCompile Include="..\EngineTest\SlotProbabilityData.cpp">
+      <Filter>Game\Probability</Filter>
+    </ClCompile>
+    <ClCompile Include="..\EngineTest\SlotTableGenerator.cpp">
+      <Filter>Game\Probability</Filter>
+    </ClCompile>
+    <ClCompile Include="..\EngineTest\SlotTemperatureScore.cpp">
+      <Filter>Game\Probability</Filter>
+    </ClCompile>
+    <ClCompile Include="..\EngineTest\SlotTimeStamp.cpp">
+      <Filter>Game\Probability</Filter>
+    </ClCompile>
+    <ClCompile Include="..\EngineTest\GameError.cpp">
+      <Filter>Game\GameError</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\EngineTest\stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="test.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\EngineTest\GameApp.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="..\EngineTest\resource.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="..\EngineTest\UVCombine.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="..\EngineTest\BetPhase.h">
+      <Filter>Game\Phase</Filter>
+    </ClInclude>
+    <ClInclude Include="..\EngineTest\CalculateScorePhase.h">
+      <Filter>Game\Phase</Filter>
+    </ClInclude>
+    <ClInclude Include="..\EngineTest\ExtraGamePhase.h">
+      <Filter>Game\Phase</Filter>
+    </ClInclude>
+    <ClInclude Include="..\EngineTest\PhaseDefine.h">
+      <Filter>Game\Phase</Filter>
+    </ClInclude>
+    <ClInclude Include="..\EngineTest\SpinPhase.h">
+      <Filter>Game\Phase</Filter>
+    </ClInclude>
+    <ClInclude Include="..\EngineTest\BaseExtraGame.h">
+      <Filter>Game\ExtraGame</Filter>
+    </ClInclude>
+    <ClInclude Include="..\EngineTest\FreeBonusGame.h">
+      <Filter>Game\ExtraGame</Filter>
+    </ClInclude>
+    <ClInclude Include="..\EngineTest\FreeExplosionGame.h">
+      <Filter>Game\ExtraGame</Filter>
+    </ClInclude>
+    <ClInclude Include="..\EngineTest\FreeGameForPickGemsGame.h">
+      <Filter>Game\ExtraGame</Filter>
+    </ClInclude>
+    <ClInclude Include="..\EngineTest\FreeJP.h">
+      <Filter>Game\ExtraGame</Filter>
+    </ClInclude>
+    <ClInclude Include="..\EngineTest\FreeMiningGame.h">
+      <Filter>Game\ExtraGame</Filter>
+    </ClInclude>
+    <ClInclude Include="..\EngineTest\FreePickaxeGame.h">
+      <Filter>Game\ExtraGame</Filter>
+    </ClInclude>
+    <ClInclude Include="..\EngineTest\FallDownNewSpinObject.h">
+      <Filter>Game\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="..\EngineTest\WinMoneyLine.h">
+      <Filter>Game\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="..\EngineTest\WinMoneySpinObjectMPDI.h">
+      <Filter>Game\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="..\EngineTest\King.h">
+      <Filter>Game\Effect\UpperScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="..\EngineTest\UpperScreen.h">
+      <Filter>Game\Effect\UpperScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="..\EngineTest\DownScreen.h">
+      <Filter>Game\Effect\DownScreenEffect</Filter>
+    </ClInclude>
+    <ClInclude Include="..\EngineTest\ShowLineBetMoney.h">
+      <Filter>Game\Effect\DownScreenEffect</Filter>
+    </ClInclude>
+    <ClInclude Include="..\EngineTest\GameMessage.h">
+      <Filter>Game\Effect\Message</Filter>
+    </ClInclude>
+    <ClInclude Include="..\EngineTest\BigWin.h">
+      <Filter>Game\Effect\WinMoneyEffect</Filter>
+    </ClInclude>
+    <ClInclude Include="..\EngineTest\JPEffect.h">
+      <Filter>Game\Effect\WinMoneyEffect</Filter>
+    </ClInclude>
+    <ClInclude Include="..\EngineTest\NumerialRollingEffect.h">
+      <Filter>Game\Effect\WinMoneyEffect</Filter>
+    </ClInclude>
+    <ClInclude Include="..\EngineTest\OldSlotObject.h">
+      <Filter>Game\SlotObject</Filter>
+    </ClInclude>
+    <ClInclude Include="..\EngineTest\SlotObject.h">
+      <Filter>Game\SlotObject</Filter>
+    </ClInclude>
+    <ClInclude Include="..\EngineTest\PlayerData.h">
+      <Filter>Game\PlayerData</Filter>
+    </ClInclude>
+    <ClInclude Include="..\EngineTest\BetBehavior.h">
+      <Filter>Game\SlotRule</Filter>
+    </ClInclude>
+    <ClInclude Include="..\EngineTest\SlotRule.h">
+      <Filter>Game\SlotRule</Filter>
+    </ClInclude>
+    <ClInclude Include="..\EngineTest\CoinDevice.h">
+      <Filter>Game\Device</Filter>
+    </ClInclude>
+    <ClInclude Include="..\EngineTest\Light.h">
+      <Filter>Game\Device</Filter>
+    </ClInclude>
+    <ClInclude Include="..\EngineTest\GameNetwork.h">
+      <Filter>Game\Network</Filter>
+    </ClInclude>
+    <ClInclude Include="..\EngineTest\ProbabilityResultCurve.h">
+      <Filter>Game\Probability</Filter>
+    </ClInclude>
+    <ClInclude Include="..\EngineTest\SlotGoodTables.h">
+      <Filter>Game\Probability</Filter>
+    </ClInclude>
+    <ClInclude Include="..\EngineTest\SlotProbability.h">
+      <Filter>Game\Probability</Filter>
+    </ClInclude>
+    <ClInclude Include="..\EngineTest\SlotProbabilityData.h">
+      <Filter>Game\Probability</Filter>
+    </ClInclude>
+    <ClInclude Include="..\EngineTest\SlotTableGenerator.h">
+      <Filter>Game\Probability</Filter>
+    </ClInclude>
+    <ClInclude Include="..\EngineTest\SlotTemperatureScore.h">
+      <Filter>Game\Probability</Filter>
+    </ClInclude>
+    <ClInclude Include="..\EngineTest\SlotTimeStamp.h">
+      <Filter>Game\Probability</Filter>
+    </ClInclude>
+    <ClInclude Include="..\EngineTest\GameError.h">
+      <Filter>Game\GameError</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="test.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="test.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

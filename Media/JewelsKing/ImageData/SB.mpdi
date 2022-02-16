@@ -1,0 +1,886 @@
+<MPDIList Name="SB1_mpdi" Count="15" MPDIVersion="1.0" PICount="1" ImageName="SB.pi">
+    <MultiPathDynamicImage Name="Boom" PathCount="1" PlayCount="1" TotalPlayTime="0.600000">
+        <CueToStartCurvesWithTime Name="boom" StartTime="0.000000" Count="7" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="137.00,140.00" PIName="SB" ImageName="boom_02" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.100000" Size="186.00,216.00" PIName="SB" ImageName="boom_03" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.200000" Size="228.00,235.00" PIName="SB" ImageName="boom_04" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.300000" Size="220.00,255.00" PIName="SB" ImageName="boom_05" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.400000" Size="176.00,232.00" PIName="SB" ImageName="boom_06" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.500000" Size="143.00,206.00" PIName="SB" ImageName="boom_07" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.600000" Size="123.00,121.00" PIName="SB" ImageName="boom_08" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="WinBox" PathCount="2" PlayCount="-1" TotalPlayTime="1.000000">
+        <CueToStartCurvesWithTime Name="WinBox" StartTime="0.000000" Count="10" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_00" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.055556" Size="160.00,151.00" PIName="SB" ImageName="WinBox_01" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.111111" Size="160.00,151.00" PIName="SB" ImageName="WinBox_02" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.166667" Size="160.00,151.00" PIName="SB" ImageName="WinBox_03" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.222222" Size="160.00,151.00" PIName="SB" ImageName="WinBox_04" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.277778" Size="160.00,151.00" PIName="SB" ImageName="WinBox_05" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.333333" Size="160.00,151.00" PIName="SB" ImageName="WinBox_06" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="0.388889" Size="160.00,151.00" PIName="SB" ImageName="WinBox_07" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="0.444444" Size="160.00,151.00" PIName="SB" ImageName="WinBox_08" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="0.500000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_09" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="1_00" StartTime="0.500000" Count="10" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_00" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.055556" Size="160.00,151.00" PIName="SB" ImageName="WinBox_01" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.111111" Size="160.00,151.00" PIName="SB" ImageName="WinBox_02" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.166667" Size="160.00,151.00" PIName="SB" ImageName="WinBox_03" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.222222" Size="160.00,151.00" PIName="SB" ImageName="WinBox_04" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.277778" Size="160.00,151.00" PIName="SB" ImageName="WinBox_05" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.333333" Size="160.00,151.00" PIName="SB" ImageName="WinBox_06" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="0.388889" Size="160.00,151.00" PIName="SB" ImageName="WinBox_07" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="0.444444" Size="160.00,151.00" PIName="SB" ImageName="WinBox_08" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="0.500000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_09" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="WinBox2" PathCount="5" PlayCount="1" TotalPlayTime="1.000000">
+        <CueToStartCurvesWithTime Name="a1" BehaviorUpdate="1" StartTime="0.000000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_00" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_01" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_02" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_03" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_04" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a22" BehaviorUpdate="1" StartTime="0.200000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_05" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_06" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_07" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_08" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_09" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a33" BehaviorUpdate="1" StartTime="0.400000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_00" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_01" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_02" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_03" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_04" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a44" BehaviorUpdate="1" StartTime="0.600000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_05" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_06" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_07" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_08" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_09" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="b5" StartTime="0.800000" Count="4" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_00" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.066667" Size="167.20,157.79" PIName="SB" ImageName="WinBox_01" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.133333" Size="176.00,166.10" PIName="SB" ImageName="WinBox_02" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.200000" Size="184.00,173.65" PIName="SB" ImageName="WinBox_03" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="Crown" PathCount="10" PlayCount="1" TotalPlayTime="1.000000">
+        <CueToStartCurvesWithTime Name="a" BehaviorUpdate="1" StartTime="0.000000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="126.00,117.00" PIName="SB" ImageName="Crown_01" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="126.00,117.00" PIName="SB" ImageName="Crown_01" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="126.00,117.00" PIName="SB" ImageName="Crown_01" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="126.00,117.00" PIName="SB" ImageName="Crown_01" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="126.00,117.00" PIName="SB" ImageName="Crown_01" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a2" BehaviorUpdate="1" StartTime="0.200000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="126.00,117.00" PIName="SB" ImageName="Crown_01" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="126.00,117.00" PIName="SB" ImageName="Crown_01" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="126.00,117.00" PIName="SB" ImageName="Crown_01" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="126.00,117.00" PIName="SB" ImageName="Crown_01" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="126.00,117.00" PIName="SB" ImageName="Crown_01" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a3" BehaviorUpdate="1" StartTime="0.400000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="126.00,117.00" PIName="SB" ImageName="Crown_01" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="126.00,117.00" PIName="SB" ImageName="Crown_01" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="126.00,117.00" PIName="SB" ImageName="Crown_01" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="126.00,117.00" PIName="SB" ImageName="Crown_01" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="126.00,117.00" PIName="SB" ImageName="Crown_01" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a4" BehaviorUpdate="1" StartTime="0.600000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="126.00,117.00" PIName="SB" ImageName="Crown_01" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="126.00,117.00" PIName="SB" ImageName="Crown_01" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="126.00,117.00" PIName="SB" ImageName="Crown_01" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="126.00,117.00" PIName="SB" ImageName="Crown_01" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="126.00,117.00" PIName="SB" ImageName="Crown_01" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="b" StartTime="0.800000" Count="4" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="126.00,117.00" PIName="SB" ImageName="Crown_01" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.066667" Size="126.00,117.00" PIName="SB" ImageName="Crown_02" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.133333" Size="126.00,117.00" PIName="SB" ImageName="Crown_03" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.200000" Size="126.00,117.00" PIName="SB" ImageName="Crown_03" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a1" BehaviorUpdate="1" StartTime="0.000000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_00" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_01" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_02" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_03" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_04" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a22" BehaviorUpdate="1" StartTime="0.200000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_05" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_06" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_07" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_08" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_09" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a33" BehaviorUpdate="1" StartTime="0.400000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_00" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_01" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_02" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_03" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_04" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a44" BehaviorUpdate="1" StartTime="0.600000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_05" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_06" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_07" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_08" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_09" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="b5" StartTime="0.800000" Count="4" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_00" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.066667" Size="167.20,157.79" PIName="SB" ImageName="WinBox_01" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.133333" Size="176.00,166.10" PIName="SB" ImageName="WinBox_02" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.200000" Size="184.00,173.65" PIName="SB" ImageName="WinBox_03" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="Mirror" PathCount="10" PlayCount="1" TotalPlayTime="1.000000">
+        <CueToStartCurvesWithTime Name="a" BehaviorUpdate="1" StartTime="0.000000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="126.00,117.00" PIName="SB" ImageName="Mirror_01" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="126.00,117.00" PIName="SB" ImageName="Mirror_01" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="126.00,117.00" PIName="SB" ImageName="Mirror_01" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="126.00,117.00" PIName="SB" ImageName="Mirror_01" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="126.00,117.00" PIName="SB" ImageName="Mirror_01" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a2" BehaviorUpdate="1" StartTime="0.200000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="126.00,117.00" PIName="SB" ImageName="Mirror_01" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="126.00,117.00" PIName="SB" ImageName="Mirror_01" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="126.00,117.00" PIName="SB" ImageName="Mirror_01" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="126.00,117.00" PIName="SB" ImageName="Mirror_01" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="126.00,117.00" PIName="SB" ImageName="Mirror_01" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a3" BehaviorUpdate="1" StartTime="0.400000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="126.00,117.00" PIName="SB" ImageName="Mirror_01" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="126.00,117.00" PIName="SB" ImageName="Mirror_01" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="126.00,117.00" PIName="SB" ImageName="Mirror_01" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="126.00,117.00" PIName="SB" ImageName="Mirror_01" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="126.00,117.00" PIName="SB" ImageName="Mirror_01" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a4" BehaviorUpdate="1" StartTime="0.600000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="126.00,117.00" PIName="SB" ImageName="Mirror_01" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="126.00,117.00" PIName="SB" ImageName="Mirror_01" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="126.00,117.00" PIName="SB" ImageName="Mirror_01" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="126.00,117.00" PIName="SB" ImageName="Mirror_01" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="126.00,117.00" PIName="SB" ImageName="Mirror_01" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="b" StartTime="0.800000" Count="4" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="126.00,117.00" PIName="SB" ImageName="Mirror_01" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.066667" Size="126.00,117.00" PIName="SB" ImageName="Mirror_02" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.133333" Size="126.00,117.00" PIName="SB" ImageName="Mirror_03" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.200000" Size="126.00,117.00" PIName="SB" ImageName="Mirror_03" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a1" BehaviorUpdate="1" StartTime="0.000000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_00" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_01" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_02" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_03" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_04" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a22" BehaviorUpdate="1" StartTime="0.200000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_05" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_06" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_07" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_08" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_09" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a33" BehaviorUpdate="1" StartTime="0.400000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_00" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_01" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_02" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_03" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_04" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a44" BehaviorUpdate="1" StartTime="0.600000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_05" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_06" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_07" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_08" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_09" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="b5" StartTime="0.800000" Count="4" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_00" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.066667" Size="167.20,157.79" PIName="SB" ImageName="WinBox_01" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.133333" Size="176.00,166.10" PIName="SB" ImageName="WinBox_02" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.200000" Size="184.00,173.65" PIName="SB" ImageName="WinBox_03" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="Gem" PathCount="10" PlayCount="1" TotalPlayTime="1.000000">
+        <CueToStartCurvesWithTime Name="a" BehaviorUpdate="1" StartTime="0.000000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="126.00,117.00" PIName="SB" ImageName="Gen_01" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="126.00,117.00" PIName="SB" ImageName="Gen_01" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="126.00,117.00" PIName="SB" ImageName="Gen_01" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="126.00,117.00" PIName="SB" ImageName="Gen_01" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="126.00,117.00" PIName="SB" ImageName="Gen_01" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a2" BehaviorUpdate="1" StartTime="0.200000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="126.00,117.00" PIName="SB" ImageName="Gen_01" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="126.00,117.00" PIName="SB" ImageName="Gen_01" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="126.00,117.00" PIName="SB" ImageName="Gen_01" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="126.00,117.00" PIName="SB" ImageName="Gen_01" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="126.00,117.00" PIName="SB" ImageName="Gen_01" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a3" BehaviorUpdate="1" StartTime="0.400000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="126.00,117.00" PIName="SB" ImageName="Gen_01" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="126.00,117.00" PIName="SB" ImageName="Gen_01" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="126.00,117.00" PIName="SB" ImageName="Gen_01" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="126.00,117.00" PIName="SB" ImageName="Gen_01" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="126.00,117.00" PIName="SB" ImageName="Gen_01" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a4" BehaviorUpdate="1" StartTime="0.600000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="126.00,117.00" PIName="SB" ImageName="Gen_01" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="126.00,117.00" PIName="SB" ImageName="Gen_01" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="126.00,117.00" PIName="SB" ImageName="Gen_01" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="126.00,117.00" PIName="SB" ImageName="Gen_01" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="126.00,117.00" PIName="SB" ImageName="Gen_01" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="b" StartTime="0.800000" Count="4" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="126.00,117.00" PIName="SB" ImageName="Gen_01" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.066667" Size="126.00,117.00" PIName="SB" ImageName="Gen_02" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.133333" Size="126.00,117.00" PIName="SB" ImageName="Gen_03" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.200000" Size="126.00,117.00" PIName="SB" ImageName="Gen_03" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a1" BehaviorUpdate="1" StartTime="0.000000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_00" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_01" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_02" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_03" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_04" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a22" BehaviorUpdate="1" StartTime="0.200000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_05" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_06" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_07" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_08" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_09" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a33" BehaviorUpdate="1" StartTime="0.400000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_00" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_01" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_02" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_03" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_04" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a44" BehaviorUpdate="1" StartTime="0.600000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_05" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_06" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_07" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_08" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_09" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="b5" StartTime="0.800000" Count="4" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_00" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.066667" Size="167.20,157.79" PIName="SB" ImageName="WinBox_01" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.133333" Size="176.00,166.10" PIName="SB" ImageName="WinBox_02" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.200000" Size="184.00,173.65" PIName="SB" ImageName="WinBox_03" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="Scepter" PathCount="10" PlayCount="1" TotalPlayTime="1.000000">
+        <CueToStartCurvesWithTime Name="a" BehaviorUpdate="1" StartTime="0.000000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="126.00,117.00" PIName="SB" ImageName="Scepter_01" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="126.00,117.00" PIName="SB" ImageName="Scepter_01" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="126.00,117.00" PIName="SB" ImageName="Scepter_01" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="126.00,117.00" PIName="SB" ImageName="Scepter_01" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="126.00,117.00" PIName="SB" ImageName="Scepter_01" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a2" BehaviorUpdate="1" StartTime="0.200000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="126.00,117.00" PIName="SB" ImageName="Scepter_01" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="126.00,117.00" PIName="SB" ImageName="Scepter_01" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="126.00,117.00" PIName="SB" ImageName="Scepter_01" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="126.00,117.00" PIName="SB" ImageName="Scepter_01" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="126.00,117.00" PIName="SB" ImageName="Scepter_01" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a3" BehaviorUpdate="1" StartTime="0.400000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="126.00,117.00" PIName="SB" ImageName="Scepter_01" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="126.00,117.00" PIName="SB" ImageName="Scepter_01" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="126.00,117.00" PIName="SB" ImageName="Scepter_01" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="126.00,117.00" PIName="SB" ImageName="Scepter_01" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="126.00,117.00" PIName="SB" ImageName="Scepter_01" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a4" BehaviorUpdate="1" StartTime="0.600000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="126.00,117.00" PIName="SB" ImageName="Scepter_01" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="126.00,117.00" PIName="SB" ImageName="Scepter_01" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="126.00,117.00" PIName="SB" ImageName="Scepter_01" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="126.00,117.00" PIName="SB" ImageName="Scepter_01" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="126.00,117.00" PIName="SB" ImageName="Scepter_01" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="b" StartTime="0.800000" Count="4" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="126.00,117.00" PIName="SB" ImageName="Scepter_01" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.066667" Size="126.00,117.00" PIName="SB" ImageName="Scepter_02" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.133333" Size="126.00,117.00" PIName="SB" ImageName="Scepter_03" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.200000" Size="126.00,117.00" PIName="SB" ImageName="Scepter_03" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a1" BehaviorUpdate="1" StartTime="0.000000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_00" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_01" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_02" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_03" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_04" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a22" BehaviorUpdate="1" StartTime="0.200000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_05" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_06" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_07" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_08" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_09" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a33" BehaviorUpdate="1" StartTime="0.400000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_00" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_01" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_02" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_03" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_04" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a44" BehaviorUpdate="1" StartTime="0.600000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_05" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_06" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_07" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_08" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_09" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="b5" StartTime="0.800000" Count="4" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_00" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.066667" Size="167.20,157.79" PIName="SB" ImageName="WinBox_01" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.133333" Size="176.00,166.10" PIName="SB" ImageName="WinBox_02" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.200000" Size="184.00,173.65" PIName="SB" ImageName="WinBox_03" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="10" PathCount="10" PlayCount="1" TotalPlayTime="1.000000">
+        <CueToStartCurvesWithTime Name="a" BehaviorUpdate="1" StartTime="0.000000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="126.00,117.00" PIName="SB" ImageName="10_01" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="126.00,117.00" PIName="SB" ImageName="10_01" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="126.00,117.00" PIName="SB" ImageName="10_01" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="126.00,117.00" PIName="SB" ImageName="10_01" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="126.00,117.00" PIName="SB" ImageName="10_01" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a2" BehaviorUpdate="1" StartTime="0.200000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="126.00,117.00" PIName="SB" ImageName="10_01" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="126.00,117.00" PIName="SB" ImageName="10_01" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="126.00,117.00" PIName="SB" ImageName="10_01" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="126.00,117.00" PIName="SB" ImageName="10_01" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="126.00,117.00" PIName="SB" ImageName="10_01" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a3" BehaviorUpdate="1" StartTime="0.400000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="126.00,117.00" PIName="SB" ImageName="10_01" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="126.00,117.00" PIName="SB" ImageName="10_01" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="126.00,117.00" PIName="SB" ImageName="10_01" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="126.00,117.00" PIName="SB" ImageName="10_01" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="126.00,117.00" PIName="SB" ImageName="10_01" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a4" BehaviorUpdate="1" StartTime="0.600000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="126.00,117.00" PIName="SB" ImageName="10_01" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="126.00,117.00" PIName="SB" ImageName="10_01" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="126.00,117.00" PIName="SB" ImageName="10_01" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="126.00,117.00" PIName="SB" ImageName="10_01" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="126.00,117.00" PIName="SB" ImageName="10_01" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="b" StartTime="0.800000" Count="4" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="126.00,117.00" PIName="SB" ImageName="10_01" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.066667" Size="126.00,117.00" PIName="SB" ImageName="10_02" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.133333" Size="126.00,117.00" PIName="SB" ImageName="10_03" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.200000" Size="126.00,117.00" PIName="SB" ImageName="10_03" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a1" BehaviorUpdate="1" StartTime="0.000000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_00" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_01" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_02" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_03" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_04" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a22" BehaviorUpdate="1" StartTime="0.200000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_05" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_06" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_07" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_08" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_09" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a33" BehaviorUpdate="1" StartTime="0.400000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_00" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_01" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_02" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_03" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_04" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a44" BehaviorUpdate="1" StartTime="0.600000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_05" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_06" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_07" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_08" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_09" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="b5" StartTime="0.800000" Count="4" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_00" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.066667" Size="167.20,157.79" PIName="SB" ImageName="WinBox_01" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.133333" Size="176.00,166.10" PIName="SB" ImageName="WinBox_02" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.200000" Size="184.00,173.65" PIName="SB" ImageName="WinBox_03" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="9" PathCount="10" PlayCount="1" TotalPlayTime="1.000000">
+        <CueToStartCurvesWithTime Name="a" BehaviorUpdate="1" StartTime="0.000000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="126.00,117.00" PIName="SB" ImageName="9_01" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="126.00,117.00" PIName="SB" ImageName="9_01" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="126.00,117.00" PIName="SB" ImageName="9_01" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="126.00,117.00" PIName="SB" ImageName="9_01" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="126.00,117.00" PIName="SB" ImageName="9_01" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a2" BehaviorUpdate="1" StartTime="0.200000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="126.00,117.00" PIName="SB" ImageName="9_01" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="126.00,117.00" PIName="SB" ImageName="9_01" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="126.00,117.00" PIName="SB" ImageName="9_01" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="126.00,117.00" PIName="SB" ImageName="9_01" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="126.00,117.00" PIName="SB" ImageName="9_01" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a3" BehaviorUpdate="1" StartTime="0.400000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="126.00,117.00" PIName="SB" ImageName="9_01" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="126.00,117.00" PIName="SB" ImageName="9_01" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="126.00,117.00" PIName="SB" ImageName="9_01" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="126.00,117.00" PIName="SB" ImageName="9_01" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="126.00,117.00" PIName="SB" ImageName="9_01" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a4" BehaviorUpdate="1" StartTime="0.600000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="126.00,117.00" PIName="SB" ImageName="9_01" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="126.00,117.00" PIName="SB" ImageName="9_01" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="126.00,117.00" PIName="SB" ImageName="9_01" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="126.00,117.00" PIName="SB" ImageName="9_01" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="126.00,117.00" PIName="SB" ImageName="9_01" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="b" StartTime="0.800000" Count="4" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="126.00,117.00" PIName="SB" ImageName="9_01" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.066667" Size="126.00,117.00" PIName="SB" ImageName="9_02" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.133333" Size="126.00,117.00" PIName="SB" ImageName="9_03" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.200000" Size="126.00,117.00" PIName="SB" ImageName="9_03" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a1" BehaviorUpdate="1" StartTime="0.000000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_00" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_01" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_02" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_03" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_04" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a22" BehaviorUpdate="1" StartTime="0.200000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_05" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_06" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_07" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_08" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_09" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a33" BehaviorUpdate="1" StartTime="0.400000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_00" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_01" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_02" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_03" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_04" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a44" BehaviorUpdate="1" StartTime="0.600000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_05" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_06" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_07" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_08" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_09" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="b5" StartTime="0.800000" Count="4" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_00" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.066667" Size="167.20,157.79" PIName="SB" ImageName="WinBox_01" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.133333" Size="176.00,166.10" PIName="SB" ImageName="WinBox_02" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.200000" Size="184.00,173.65" PIName="SB" ImageName="WinBox_03" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="A" PathCount="10" PlayCount="1" TotalPlayTime="1.000000">
+        <CueToStartCurvesWithTime Name="a" BehaviorUpdate="1" StartTime="0.000000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="126.00,117.00" PIName="SB" ImageName="a_01" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="126.00,117.00" PIName="SB" ImageName="a_01" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="126.00,117.00" PIName="SB" ImageName="a_01" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="126.00,117.00" PIName="SB" ImageName="a_01" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="126.00,117.00" PIName="SB" ImageName="a_01" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a2" BehaviorUpdate="1" StartTime="0.200000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="126.00,117.00" PIName="SB" ImageName="a_01" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="126.00,117.00" PIName="SB" ImageName="a_01" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="126.00,117.00" PIName="SB" ImageName="a_01" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="126.00,117.00" PIName="SB" ImageName="a_01" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="126.00,117.00" PIName="SB" ImageName="a_01" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a3" BehaviorUpdate="1" StartTime="0.400000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="126.00,117.00" PIName="SB" ImageName="a_01" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="126.00,117.00" PIName="SB" ImageName="a_01" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="126.00,117.00" PIName="SB" ImageName="a_01" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="126.00,117.00" PIName="SB" ImageName="a_01" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="126.00,117.00" PIName="SB" ImageName="a_01" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a4" BehaviorUpdate="1" StartTime="0.600000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="126.00,117.00" PIName="SB" ImageName="a_01" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="126.00,117.00" PIName="SB" ImageName="a_01" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="126.00,117.00" PIName="SB" ImageName="a_01" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="126.00,117.00" PIName="SB" ImageName="a_01" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="126.00,117.00" PIName="SB" ImageName="a_01" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="b" StartTime="0.800000" Count="4" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="126.00,117.00" PIName="SB" ImageName="a_01" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.066667" Size="126.00,117.00" PIName="SB" ImageName="a_02" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.133333" Size="126.00,117.00" PIName="SB" ImageName="a_03" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.200000" Size="126.00,117.00" PIName="SB" ImageName="a_03" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a1" BehaviorUpdate="1" StartTime="0.000000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_00" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_01" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_02" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_03" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_04" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a22" BehaviorUpdate="1" StartTime="0.200000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_05" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_06" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_07" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_08" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_09" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a33" BehaviorUpdate="1" StartTime="0.400000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_00" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_01" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_02" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_03" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_04" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a44" BehaviorUpdate="1" StartTime="0.600000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_05" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_06" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_07" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_08" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_09" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="b5" StartTime="0.800000" Count="4" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_00" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.066667" Size="167.20,157.79" PIName="SB" ImageName="WinBox_01" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.133333" Size="176.00,166.10" PIName="SB" ImageName="WinBox_02" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.200000" Size="184.00,173.65" PIName="SB" ImageName="WinBox_03" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="J" PathCount="10" PlayCount="1" TotalPlayTime="1.000000">
+        <CueToStartCurvesWithTime Name="a" BehaviorUpdate="1" StartTime="0.000000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="126.00,117.00" PIName="SB" ImageName="J_01" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="126.00,117.00" PIName="SB" ImageName="J_01" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="126.00,117.00" PIName="SB" ImageName="J_01" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="126.00,117.00" PIName="SB" ImageName="J_01" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="126.00,117.00" PIName="SB" ImageName="J_01" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a2" BehaviorUpdate="1" StartTime="0.200000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="126.00,117.00" PIName="SB" ImageName="J_01" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="126.00,117.00" PIName="SB" ImageName="J_01" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="126.00,117.00" PIName="SB" ImageName="J_01" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="126.00,117.00" PIName="SB" ImageName="J_01" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="126.00,117.00" PIName="SB" ImageName="J_01" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a3" BehaviorUpdate="1" StartTime="0.400000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="126.00,117.00" PIName="SB" ImageName="J_01" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="126.00,117.00" PIName="SB" ImageName="J_01" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="126.00,117.00" PIName="SB" ImageName="J_01" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="126.00,117.00" PIName="SB" ImageName="J_01" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="126.00,117.00" PIName="SB" ImageName="J_01" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a4" BehaviorUpdate="1" StartTime="0.600000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="126.00,117.00" PIName="SB" ImageName="J_01" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="126.00,117.00" PIName="SB" ImageName="J_01" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="126.00,117.00" PIName="SB" ImageName="J_01" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="126.00,117.00" PIName="SB" ImageName="J_01" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="126.00,117.00" PIName="SB" ImageName="J_01" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="b" StartTime="0.800000" Count="4" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="126.00,117.00" PIName="SB" ImageName="J_01" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.066667" Size="126.00,117.00" PIName="SB" ImageName="J_02" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.133333" Size="126.00,117.00" PIName="SB" ImageName="J_03" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.200000" Size="126.00,117.00" PIName="SB" ImageName="J_03" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a1" BehaviorUpdate="1" StartTime="0.000000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_00" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_01" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_02" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_03" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_04" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a22" BehaviorUpdate="1" StartTime="0.200000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_05" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_06" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_07" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_08" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_09" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a33" BehaviorUpdate="1" StartTime="0.400000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_00" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_01" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_02" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_03" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_04" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a44" BehaviorUpdate="1" StartTime="0.600000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_05" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_06" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_07" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_08" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_09" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="b5" StartTime="0.800000" Count="4" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_00" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.066667" Size="167.20,157.79" PIName="SB" ImageName="WinBox_01" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.133333" Size="176.00,166.10" PIName="SB" ImageName="WinBox_02" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.200000" Size="184.00,173.65" PIName="SB" ImageName="WinBox_03" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="K" PathCount="10" PlayCount="1" TotalPlayTime="1.000000">
+        <CueToStartCurvesWithTime Name="a" BehaviorUpdate="1" StartTime="0.000000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="126.00,117.00" PIName="SB" ImageName="k_01" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="126.00,117.00" PIName="SB" ImageName="k_01" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="126.00,117.00" PIName="SB" ImageName="k_01" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="126.00,117.00" PIName="SB" ImageName="k_01" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="126.00,117.00" PIName="SB" ImageName="k_01" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a2" BehaviorUpdate="1" StartTime="0.200000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="126.00,117.00" PIName="SB" ImageName="k_01" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="126.00,117.00" PIName="SB" ImageName="k_01" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="126.00,117.00" PIName="SB" ImageName="k_01" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="126.00,117.00" PIName="SB" ImageName="k_01" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="126.00,117.00" PIName="SB" ImageName="k_01" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a3" BehaviorUpdate="1" StartTime="0.400000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="126.00,117.00" PIName="SB" ImageName="k_01" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="126.00,117.00" PIName="SB" ImageName="k_01" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="126.00,117.00" PIName="SB" ImageName="k_01" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="126.00,117.00" PIName="SB" ImageName="k_01" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="126.00,117.00" PIName="SB" ImageName="k_01" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a4" BehaviorUpdate="1" StartTime="0.600000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="126.00,117.00" PIName="SB" ImageName="k_01" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="126.00,117.00" PIName="SB" ImageName="k_01" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="126.00,117.00" PIName="SB" ImageName="k_01" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="126.00,117.00" PIName="SB" ImageName="k_01" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="126.00,117.00" PIName="SB" ImageName="k_01" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="b" StartTime="0.800000" Count="4" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="126.00,117.00" PIName="SB" ImageName="k_01" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.066667" Size="126.00,117.00" PIName="SB" ImageName="k_02" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.133333" Size="126.00,117.00" PIName="SB" ImageName="k_03" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.200000" Size="126.00,117.00" PIName="SB" ImageName="k_03" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a1" BehaviorUpdate="1" StartTime="0.000000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_00" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_01" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_02" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_03" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_04" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a22" BehaviorUpdate="1" StartTime="0.200000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_05" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_06" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_07" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_08" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_09" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a33" BehaviorUpdate="1" StartTime="0.400000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_00" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_01" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_02" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_03" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_04" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a44" BehaviorUpdate="1" StartTime="0.600000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_05" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_06" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_07" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_08" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_09" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="b5" StartTime="0.800000" Count="4" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_00" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.066667" Size="167.20,157.79" PIName="SB" ImageName="WinBox_01" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.133333" Size="176.00,166.10" PIName="SB" ImageName="WinBox_02" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.200000" Size="184.00,173.65" PIName="SB" ImageName="WinBox_03" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="Q" PathCount="10" PlayCount="1" TotalPlayTime="1.000000">
+        <CueToStartCurvesWithTime Name="a" BehaviorUpdate="1" StartTime="0.000000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="126.00,117.00" PIName="SB" ImageName="Q_01" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="126.00,117.00" PIName="SB" ImageName="Q_01" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="126.00,117.00" PIName="SB" ImageName="Q_01" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="126.00,117.00" PIName="SB" ImageName="Q_01" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="126.00,117.00" PIName="SB" ImageName="Q_01" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a2" BehaviorUpdate="1" StartTime="0.200000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="126.00,117.00" PIName="SB" ImageName="Q_01" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="126.00,117.00" PIName="SB" ImageName="Q_01" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="126.00,117.00" PIName="SB" ImageName="Q_01" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="126.00,117.00" PIName="SB" ImageName="Q_01" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="126.00,117.00" PIName="SB" ImageName="Q_01" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a3" BehaviorUpdate="1" StartTime="0.400000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="126.00,117.00" PIName="SB" ImageName="Q_01" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="126.00,117.00" PIName="SB" ImageName="Q_01" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="126.00,117.00" PIName="SB" ImageName="Q_01" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="126.00,117.00" PIName="SB" ImageName="Q_01" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="126.00,117.00" PIName="SB" ImageName="Q_01" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a4" BehaviorUpdate="1" StartTime="0.600000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="126.00,117.00" PIName="SB" ImageName="Q_01" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="126.00,117.00" PIName="SB" ImageName="Q_01" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="126.00,117.00" PIName="SB" ImageName="Q_01" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="126.00,117.00" PIName="SB" ImageName="Q_01" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="126.00,117.00" PIName="SB" ImageName="Q_01" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="b" StartTime="0.800000" Count="4" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="126.00,117.00" PIName="SB" ImageName="Q_01" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.066667" Size="126.00,117.00" PIName="SB" ImageName="Q_02" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.133333" Size="126.00,117.00" PIName="SB" ImageName="Q_03" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.200000" Size="126.00,117.00" PIName="SB" ImageName="Q_03" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a1" BehaviorUpdate="1" StartTime="0.000000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_00" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_01" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_02" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_03" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_04" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a22" BehaviorUpdate="1" StartTime="0.200000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_05" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_06" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_07" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_08" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_09" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a33" BehaviorUpdate="1" StartTime="0.400000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_00" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_01" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_02" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_03" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_04" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a44" BehaviorUpdate="1" StartTime="0.600000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_05" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_06" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_07" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_08" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_09" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="b5" StartTime="0.800000" Count="4" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_00" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.066667" Size="167.20,157.79" PIName="SB" ImageName="WinBox_01" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.133333" Size="176.00,166.10" PIName="SB" ImageName="WinBox_02" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.200000" Size="184.00,173.65" PIName="SB" ImageName="WinBox_03" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="Free" PathCount="8" PlayCount="1" TotalPlayTime="1.000000">
+        <CueToStartCurvesWithTime Name="a" BehaviorUpdate="1" StartTime="0.000000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="126.00,117.00" PIName="SB" ImageName="f_0" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="126.00,117.00" PIName="SB" ImageName="f_0" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="126.00,117.00" PIName="SB" ImageName="f_0" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="126.00,117.00" PIName="SB" ImageName="f_0" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="126.00,117.00" PIName="SB" ImageName="f_0" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a2" BehaviorUpdate="1" StartTime="0.200000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="126.00,117.00" PIName="SB" ImageName="f_0" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="126.00,117.00" PIName="SB" ImageName="f_0" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="126.00,117.00" PIName="SB" ImageName="f_0" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="126.00,117.00" PIName="SB" ImageName="f_0" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="126.00,117.00" PIName="SB" ImageName="f_0" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a3" BehaviorUpdate="1" StartTime="0.400000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="126.00,117.00" PIName="SB" ImageName="f_0" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="126.00,117.00" PIName="SB" ImageName="f_0" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="126.00,117.00" PIName="SB" ImageName="f_0" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="126.00,117.00" PIName="SB" ImageName="f_0" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="126.00,117.00" PIName="SB" ImageName="f_0" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="fa" StartTime="0.600000" Count="9" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="127.01,117.94" PIName="SB" ImageName="f_0" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.050000" Size="126.00,117.00" PIName="SB" ImageName="f_6" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.100000" Size="138.60,128.70" PIName="SB" ImageName="f_7" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.150000" Size="126.00,117.00" PIName="SB" ImageName="f_8" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.200000" Size="126.00,117.00" PIName="SB" ImageName="f_9" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.250000" Size="126.00,117.00" PIName="SB" ImageName="f_10" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.300000" Size="126.00,117.00" PIName="SB" ImageName="f_10" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="0.350000" Size="126.00,117.00" PIName="SB" ImageName="f_12" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="0.400000" Size="126.00,117.00" PIName="SB" ImageName="f_10" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a11" BehaviorUpdate="1" StartTime="0.000000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_00" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_01" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_02" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_03" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_04" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a22" BehaviorUpdate="1" StartTime="0.200000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_05" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_06" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_07" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_08" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_09" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a33" BehaviorUpdate="1" StartTime="0.400000" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_00" />
+            <PointDataList Index="1" Position="-2.00,2.00,0.00" Time="0.050000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_01" />
+            <PointDataList Index="2" Position="-0.00,4.00,0.00" Time="0.100000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_02" />
+            <PointDataList Index="3" Position="2.00,0.00,0.00" Time="0.150000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_03" />
+            <PointDataList Index="4" Position="-0.00,-2.00,0.00" Time="0.200000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_04" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="a44" StartTime="0.600000" Count="4" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_05" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.050000" Size="168.00,158.55" PIName="SB" ImageName="WinBox_06" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.100000" Size="176.00,166.10" PIName="SB" ImageName="WinBox_07" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.150000" Size="202.40,191.01" PIName="SB" ImageName="WinBox_07" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="Wild" PathCount="5" PlayCount="1" TotalPlayTime="1.000000">
+        <CueToStartCurvesWithTime Name="a" StartTime="0.000000" Count="12" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="126.00,117.00" PIName="SB" ImageName="wild_0" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.071500" Size="126.00,117.00" PIName="SB" ImageName="wild_4" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.143000" Size="126.00,117.00" PIName="SB" ImageName="wild_5" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.214500" Size="126.00,117.00" PIName="SB" ImageName="wild_6" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.286000" Size="126.00,117.00" PIName="SB" ImageName="wild_7" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.357500" Size="126.00,117.00" PIName="SB" ImageName="wild_9" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.429000" Size="126.00,117.00" PIName="SB" ImageName="wild_10" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="0.500500" Size="126.00,117.00" PIName="SB" ImageName="wild_11" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="0.572000" Size="126.00,117.00" PIName="SB" ImageName="wild_13" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="0.643500" Size="126.00,117.00" PIName="SB" ImageName="wild_14" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="0.715000" Size="126.00,117.00" PIName="SB" ImageName="wild_15" />
+            <PointDataList Index="11" Position="0.00,0.00,0.00" Time="0.786500" Size="126.00,117.00" PIName="SB" ImageName="wild_16" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="b" StartTime="0.786500" Count="4" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="126.00,117.00" PIName="SB" ImageName="wild_21" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.071500" Size="126.00,117.00" PIName="SB" ImageName="wild_22" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.143000" Size="126.00,117.00" PIName="SB" ImageName="wild_23" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.200000" Size="126.00,117.00" PIName="SB" ImageName="wild_21" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="WinBox" StartTime="0.000000" Count="10" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_00" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.055556" Size="160.00,151.00" PIName="SB" ImageName="WinBox_01" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.111111" Size="160.00,151.00" PIName="SB" ImageName="WinBox_02" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.166667" Size="160.00,151.00" PIName="SB" ImageName="WinBox_03" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.222222" Size="160.00,151.00" PIName="SB" ImageName="WinBox_04" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.277778" Size="160.00,151.00" PIName="SB" ImageName="WinBox_05" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.333333" Size="160.00,151.00" PIName="SB" ImageName="WinBox_06" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="0.388889" Size="160.00,151.00" PIName="SB" ImageName="WinBox_07" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="0.444444" Size="160.00,151.00" PIName="SB" ImageName="WinBox_08" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="0.500000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_09" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="1_00" StartTime="0.500000" Count="8" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_00" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.055556" Size="160.00,151.00" PIName="SB" ImageName="WinBox_01" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.111111" Size="160.00,151.00" PIName="SB" ImageName="WinBox_02" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.166667" Size="160.00,151.00" PIName="SB" ImageName="WinBox_03" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.222222" Size="160.00,151.00" PIName="SB" ImageName="WinBox_04" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.277778" Size="160.00,151.00" PIName="SB" ImageName="WinBox_05" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.333333" Size="160.00,151.00" PIName="SB" ImageName="WinBox_06" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="0.370000" Size="160.00,151.00" PIName="SB" ImageName="WinBox_07" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="WinBox_07" StartTime="0.800000" Count="4" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="159.60,150.62" PIName="SB" ImageName="WinBox_08" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.066667" Size="168.00,158.55" PIName="SB" ImageName="WinBox_09" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.133333" Size="167.20,157.79" PIName="SB" ImageName="WinBox_00" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.200000" Size="184.00,173.65" PIName="SB" ImageName="WinBox_01" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+</MPDIList>

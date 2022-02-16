@@ -1,0 +1,15 @@
+<!-- Author:User,Time:2012/5/9 ¤U¤È 05:02:44 -->
+<PuzzleImage OriginalNameSort="king_1-500_00,king_1-500_01,king_1-500_02,king_1-500_03,king_1-500_04,king_1-500_05,king_1-500_06,king_1-500_07,king_1-500_08,king_1-500_09,king_1-500_10,king_1-500_11" ImageName="king1-500.png" Count="12" GeneratePuzzleimageUnit="0">
+    <PuzzleUnit Name="king_1-500_00" UV="0,0,0.2745,0.2423077" OffsetPos="105,125" Size="549,630" OriginalSize="760,755" ShowPosInPI="0,0" />
+    <PuzzleUnit Name="king_1-500_01" UV="0.275,0,0.5515,0.2423077" OffsetPos="101,125" Size="553,630" OriginalSize="760,755" ShowPosInPI="550,0" />
+    <PuzzleUnit Name="king_1-500_02" UV="0.552,0,0.8305,0.2423077" OffsetPos="97,125" Size="557,630" OriginalSize="760,755" ShowPosInPI="1104,0" />
+    <PuzzleUnit Name="king_1-500_03" UV="0,0.2426923,0.281,0.4846154" OffsetPos="92,126" Size="562,629" OriginalSize="760,755" ShowPosInPI="0,631" />
+    <PuzzleUnit Name="king_1-500_04" UV="0.2815,0.2426923,0.5655,0.4846154" OffsetPos="86,126" Size="568,629" OriginalSize="760,755" ShowPosInPI="563,631" />
+    <PuzzleUnit Name="king_1-500_05" UV="0.566,0.2426923,0.8525,0.4842308" OffsetPos="81,127" Size="573,628" OriginalSize="760,755" ShowPosInPI="1132,631" />
+    <PuzzleUnit Name="king_1-500_06" UV="0,0.485,0.2885,0.7265385" OffsetPos="77,127" Size="577,628" OriginalSize="760,755" ShowPosInPI="0,1261" />
+    <PuzzleUnit Name="king_1-500_07" UV="0.289,0.485,0.5795,0.7261539" OffsetPos="73,128" Size="581,627" OriginalSize="760,755" ShowPosInPI="578,1261" />
+    <PuzzleUnit Name="king_1-500_08" UV="0.58,0.485,0.872,0.7261539" OffsetPos="70,128" Size="584,627" OriginalSize="760,755" ShowPosInPI="1160,1261" />
+    <PuzzleUnit Name="king_1-500_09" UV="0,0.726923,0.2935,0.9680769" OffsetPos="67,128" Size="587,627" OriginalSize="760,755" ShowPosInPI="0,1890" />
+    <PuzzleUnit Name="king_1-500_10" UV="0.294,0.726923,0.5875,0.9680769" OffsetPos="67,128" Size="587,627" OriginalSize="760,755" ShowPosInPI="588,1890" />
+    <PuzzleUnit Name="king_1-500_11" UV="0.588,0.726923,0.8815,0.9680769" OffsetPos="67,128" Size="587,627" OriginalSize="760,755" ShowPosInPI="1176,1890" />
+</PuzzleImage>

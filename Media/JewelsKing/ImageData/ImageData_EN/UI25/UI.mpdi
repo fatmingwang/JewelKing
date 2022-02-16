@@ -1,0 +1,280 @@
+<MPDIList Name="UI_mpdi" Count="21" MPDIVersion="1.1" PICount="1" ImageName="UI.pi">
+    <MultiPathDynamicImage Name="UI1" PathCount="1" PlayCount="-1" TotalPlayTime="1.000000">
+        <CueToStartCurvesWithTime Name="UI2" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-5.50,-6.00,0.00" Time="1.000000" Size="779.00,732.00" PIName="UI" ImageName="roomtransition_00" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="UI2" PathCount="1" PlayCount="-1" TotalPlayTime="1.000000">
+        <CueToStartCurvesWithTime Name="UI2" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-5.50,-6.00,0.00" Time="1.000000" Size="779.00,732.00" PIName="UI" ImageName="roomtransition_10" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="UIsb" PathCount="10" PlayCount="-1" TotalPlayTime="1.000000">
+        <CueToStartCurvesWithTime Name="Symbol_9" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="15.00,27.00,0.00" Time="1.000000" Size="202.00,102.00" PIName="UI" ImageName="9" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Symbol_10" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="15.00,157.00,0.00" Time="1.000000" Size="204.00,104.00" PIName="UI" ImageName="10" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Symbol_J" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="15.00,287.00,0.00" Time="1.000000" Size="204.00,104.00" PIName="UI" ImageName="J" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Symbol_Q" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="15.00,417.00,0.00" Time="1.000000" Size="204.00,104.00" PIName="UI" ImageName="Q" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Symbol_K" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="15.00,547.00,0.00" Time="1.000000" Size="204.00,104.00" PIName="UI" ImageName="K" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Symbol_A" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="552.00,27.00,0.00" Time="1.000000" Size="204.00,104.00" PIName="UI" ImageName="A" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Symbol_Mirro" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="552.00,157.00,0.00" Time="1.000000" Size="204.00,104.00" PIName="UI" ImageName="Mirro" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Symbol_Scepter" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="552.00,285.00,0.00" Time="1.000000" Size="204.00,104.00" PIName="UI" ImageName="Scepter" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Symbol_Crown" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="552.00,417.00,0.00" Time="1.000000" Size="204.00,104.00" PIName="UI" ImageName="Crown" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Symbol_Gem" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="552.00,547.00,0.00" Time="1.000000" Size="204.00,104.00" PIName="UI" ImageName="Gem" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="UI" PathCount="1" PlayCount="-1" TotalPlayTime="1.000000">
+        <CueToStartCurvesWithTime Name="UI" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="1.000000" Size="768.00,738.00" PIName="UI" ImageName="UI" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="NunIn2" PathCount="4" PlayCount="1" TotalPlayTime="3.000000">
+        <CueToStartCurvesWithTime Name="Bonus" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="417.00,419.00,0.00" Time="0.000000" Size="0.00,0.00" PIName="UI" ImageName="BONUSE" />
+            <PointDataList Index="1" Position="417.00,419.00,0.00" Time="0.100000" Size="68.50,68.00" PIName="UI" ImageName="BONUSE" />
+            <PointDataList Index="2" Position="417.00,419.00,0.00" Time="0.200000" Size="137.00,136.00" PIName="UI" ImageName="BONUSE" />
+            <PointDataList Index="3" Position="417.00,419.00,0.00" Time="3.000000" Size="137.00,136.00" PIName="UI" ImageName="BONUSE" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BonusNum1" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="336.00,419.00,0.00" Time="0.000000" Size="0.00,0.00" PIName="UI" ImageName="BonusNum_01" />
+            <PointDataList Index="1" Position="336.00,419.00,0.00" Time="0.100000" Size="58.50,73.00" PIName="UI" ImageName="BonusNum_01" />
+            <PointDataList Index="2" Position="336.00,419.00,0.00" Time="0.200000" Size="117.00,146.00" PIName="UI" ImageName="BonusNum_01" />
+            <PointDataList Index="3" Position="336.00,419.00,0.00" Time="3.000000" Size="117.00,146.00" PIName="UI" ImageName="BonusNum_01" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BonusNumX" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="195.00,419.00,0.00" Time="0.000000" Size="0.00,0.00" PIName="UI" ImageName="BonusNum_x" />
+            <PointDataList Index="1" Position="195.00,419.00,0.00" Time="0.100000" Size="58.50,73.00" PIName="UI" ImageName="BonusNum_x" />
+            <PointDataList Index="2" Position="195.00,419.00,0.00" Time="0.200000" Size="117.00,146.00" PIName="UI" ImageName="BonusNum_x" />
+            <PointDataList Index="3" Position="195.00,419.00,0.00" Time="3.000000" Size="117.00,146.00" PIName="UI" ImageName="BonusNum_x" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BonusNum2" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="270.00,419.00,0.00" Time="0.000000" Size="0.00,0.00" PIName="UI" ImageName="BonusNum_01" />
+            <PointDataList Index="1" Position="270.00,419.00,0.00" Time="0.100000" Size="58.50,73.00" PIName="UI" ImageName="BonusNum_01" />
+            <PointDataList Index="2" Position="270.00,419.00,0.00" Time="0.200000" Size="117.00,146.00" PIName="UI" ImageName="BonusNum_01" />
+            <PointDataList Index="3" Position="270.00,419.00,0.00" Time="3.000000" Size="117.00,146.00" PIName="UI" ImageName="BonusNum_01" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="NunIn1" PathCount="3" PlayCount="1" TotalPlayTime="3.000000">
+        <CueToStartCurvesWithTime Name="Bonus" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="393.00,419.00,0.00" Time="0.000000" Size="0.00,0.00" PIName="UI" ImageName="BONUSE" />
+            <PointDataList Index="1" Position="393.00,419.00,0.00" Time="0.100000" Size="68.50,68.00" PIName="UI" ImageName="BONUSE" />
+            <PointDataList Index="2" Position="393.00,419.00,0.00" Time="0.200000" Size="137.00,136.00" PIName="UI" ImageName="BONUSE" />
+            <PointDataList Index="3" Position="393.00,419.00,0.00" Time="3.000000" Size="137.00,136.00" PIName="UI" ImageName="BONUSE" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BonusNum1" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="312.00,419.00,0.00" Time="0.000000" Size="0.00,0.00" PIName="UI" ImageName="BonusNum_01" />
+            <PointDataList Index="1" Position="312.00,419.00,0.00" Time="0.100000" Size="58.50,73.00" PIName="UI" ImageName="BonusNum_01" />
+            <PointDataList Index="2" Position="312.00,419.00,0.00" Time="0.200000" Size="117.00,146.00" PIName="UI" ImageName="BonusNum_01" />
+            <PointDataList Index="3" Position="312.00,419.00,0.00" Time="3.000000" Size="117.00,146.00" PIName="UI" ImageName="BonusNum_01" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BonusNumX" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="231.00,419.00,0.00" Time="0.000000" Size="0.00,0.00" PIName="UI" ImageName="BonusNum_x" />
+            <PointDataList Index="1" Position="231.00,419.00,0.00" Time="0.100000" Size="58.50,73.00" PIName="UI" ImageName="BonusNum_x" />
+            <PointDataList Index="2" Position="231.00,419.00,0.00" Time="0.200000" Size="117.00,146.00" PIName="UI" ImageName="BonusNum_x" />
+            <PointDataList Index="3" Position="231.00,419.00,0.00" Time="3.000000" Size="117.00,146.00" PIName="UI" ImageName="BonusNum_x" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="GameMessageIdle" PathCount="1" PlayCount="-1" TotalPlayTime="20.000000">
+        <CueToStartCurvesWithTime Name="Idle" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="214.00,1230.00,0.00" Time="0.000000" Size="343.00,36.00" PIName="UI" ImageName="WelcomeToTenJewels" />
+            <PointDataList Index="1" Position="214.00,1230.00,0.00" Time="6.666667" Size="343.00,36.00" PIName="UI" ImageName="Ready" />
+            <PointDataList Index="2" Position="214.00,1230.00,0.00" Time="13.333333" Size="343.00,36.00" PIName="UI" ImageName="PressSpinOrMaxBetToStart" />
+            <PointDataList Index="3" Position="214.00,1230.00,0.00" Time="20.000000" Size="343.00,36.00" PIName="UI" ImageName="PressSpinOrMaxBetToStart" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="GameMessageFreeTime" PathCount="1" PlayCount="-1" TotalPlayTime="2.500000">
+        <CueToStartCurvesWithTime Name="FreeTime" StartTime="0.000000" AnchorType="CenterCenter" Count="26" LOD="1">
+            <PointDataList Index="0" Position="214.00,1230.00,0.00" Time="0.000000" Size="343.00,36.00" PIName="UI" ImageName="FreeTime" />
+            <PointDataList Index="1" Position="214.00,1230.00,0.00" Time="0.100000" Size="343.00,36.00" PIName="UI" ImageName="FreeTime_1" />
+            <PointDataList Index="2" Position="214.00,1230.00,0.00" Time="0.200000" Size="343.00,36.00" PIName="UI" ImageName="FreeTime_2" />
+            <PointDataList Index="3" Position="214.00,1230.00,0.00" Time="0.300000" Size="343.00,36.00" PIName="UI" ImageName="FreeTime_3" />
+            <PointDataList Index="4" Position="214.00,1230.00,0.00" Time="0.400000" Size="343.00,36.00" PIName="UI" ImageName="FreeTime_4" />
+            <PointDataList Index="5" Position="214.00,1230.00,0.00" Time="0.500000" Size="343.00,36.00" PIName="UI" ImageName="FreeTime_5" />
+            <PointDataList Index="6" Position="214.00,1230.00,0.00" Time="0.600000" Size="343.00,36.00" PIName="UI" ImageName="FreeTime_6" />
+            <PointDataList Index="7" Position="214.00,1230.00,0.00" Time="0.700000" Size="343.00,36.00" PIName="UI" ImageName="FreeTime_7" />
+            <PointDataList Index="8" Position="214.00,1230.00,0.00" Time="0.800000" Size="343.00,36.00" PIName="UI" ImageName="FreeTime_8" />
+            <PointDataList Index="9" Position="214.00,1230.00,0.00" Time="0.900000" Size="343.00,36.00" PIName="UI" ImageName="FreeTime_9" />
+            <PointDataList Index="10" Position="214.00,1230.00,0.00" Time="1.000000" Size="343.00,36.00" PIName="UI" ImageName="FreeTime_10" />
+            <PointDataList Index="11" Position="214.00,1230.00,0.00" Time="1.100000" Size="343.00,36.00" PIName="UI" ImageName="FreeTime_11" />
+            <PointDataList Index="12" Position="214.00,1230.00,0.00" Time="1.200000" Size="343.00,36.00" PIName="UI" ImageName="FreeTime_12" />
+            <PointDataList Index="13" Position="214.00,1230.00,0.00" Time="1.300000" Size="343.00,36.00" PIName="UI" ImageName="FreeTime_13" />
+            <PointDataList Index="14" Position="214.00,1230.00,0.00" Time="1.400000" Size="343.00,36.00" PIName="UI" ImageName="FreeTime_14" />
+            <PointDataList Index="15" Position="214.00,1230.00,0.00" Time="1.500000" Size="343.00,36.00" PIName="UI" ImageName="FreeTime_15" />
+            <PointDataList Index="16" Position="214.00,1230.00,0.00" Time="1.600000" Size="343.00,36.00" PIName="UI" ImageName="FreeTime_16" />
+            <PointDataList Index="17" Position="214.00,1230.00,0.00" Time="1.700000" Size="343.00,36.00" PIName="UI" ImageName="FreeTime_17" />
+            <PointDataList Index="18" Position="214.00,1230.00,0.00" Time="1.800000" Size="343.00,36.00" PIName="UI" ImageName="FreeTime_18" />
+            <PointDataList Index="19" Position="214.00,1230.00,0.00" Time="1.900000" Size="343.00,36.00" PIName="UI" ImageName="FreeTime_19" />
+            <PointDataList Index="20" Position="214.00,1230.00,0.00" Time="2.000000" Size="343.00,36.00" PIName="UI" ImageName="FreeTime_20" />
+            <PointDataList Index="21" Position="214.00,1230.00,0.00" Time="2.100000" Size="343.00,36.00" PIName="UI" ImageName="FreeTime_21" />
+            <PointDataList Index="22" Position="214.00,1230.00,0.00" Time="2.200000" Size="343.00,36.00" PIName="UI" ImageName="FreeTime_22" />
+            <PointDataList Index="23" Position="214.00,1230.00,0.00" Time="2.300000" Size="343.00,36.00" PIName="UI" ImageName="FreeTime_23" />
+            <PointDataList Index="24" Position="214.00,1230.00,0.00" Time="2.400000" Size="343.00,36.00" PIName="UI" ImageName="FreeTime_24" />
+            <PointDataList Index="25" Position="214.00,1230.00,0.00" Time="2.500000" Size="343.00,36.00" PIName="UI" ImageName="FreeTime_25" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="GameMessageSpin" PathCount="1" PlayCount="-1" TotalPlayTime="0.100000">
+        <CueToStartCurvesWithTime Name="Spin" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="214.00,1230.00,0.00" Time="0.100000" Size="343.00,36.00" PIName="UI" ImageName="GoodLucky" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="GameMessageBigWin" PathCount="1" PlayCount="-1" TotalPlayTime="0.500000">
+        <CueToStartCurvesWithTime Name="BigWin" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="217.00,1230.00,0.00" Time="0.500000" Size="343.00,36.00" PIName="UI" ImageName="BigWin" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="GameMessagePleaseInsertCoin" PathCount="1" PlayCount="-1" TotalPlayTime="0.500000">
+        <CueToStartCurvesWithTime Name="InsertCoin" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="217.00,1230.00,0.00" Time="0.500000" Size="343.00,36.00" PIName="UI" ImageName="InsertCoin" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="UpperUI" PathCount="1" PlayCount="-1" TotalPlayTime="1.000000">
+        <CueToStartCurvesWithTime Name="UI2" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-5.50,-6.00,0.00" Time="1.000000" Size="779.00,732.00" PIName="UI" ImageName="roomtransition_00" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="SpinObject" PathCount="1" PlayCount="-1" TotalPlayTime="1.000000">
+        <CueToStartCurvesWithTime Name="SpinObject" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="1">
+            <PointDataList Index="0" Position="52.00,847.00,0.00" Time="0.000000" Size="204.00,103.00" PIName="UI" ImageName="Gem" />
+            <PointDataList Index="1" Position="187.00,847.00,0.00" Time="0.250000" Size="204.00,103.00" PIName="UI" ImageName="Gem" />
+            <PointDataList Index="2" Position="320.00,847.00,0.00" Time="0.500000" Size="204.00,103.00" PIName="UI" ImageName="Gem" />
+            <PointDataList Index="3" Position="455.00,847.00,0.00" Time="0.750000" Size="204.00,103.00" PIName="UI" ImageName="Gem" />
+            <PointDataList Index="4" Position="588.00,847.00,0.00" Time="1.000000" Size="204.00,103.00" PIName="UI" ImageName="Gem" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="but1" PathCount="9" PlayCount="-1" TotalPlayTime="1.000000">
+        <CueToStartCurvesWithTime Name="Exchange" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="1">
+            <PointDataList Index="0" Position="-670.50,958.50,0.00" Time="0.000000" Size="92.00,92.00" PIName="UI" ImageName="10" />
+            <PointDataList Index="1" Position="-670.50,958.50,0.00" Time="0.250000" Size="92.00,92.00" PIName="UI" ImageName="10" />
+            <PointDataList Index="2" Position="-670.50,958.50,0.00" Time="0.500000" Size="92.00,92.00" PIName="UI" ImageName="10" />
+            <PointDataList Index="3" Position="-670.50,958.50,0.00" Time="0.750000" Size="92.00,92.00" PIName="UI" ImageName="10" />
+            <PointDataList Index="4" Position="-670.50,958.50,0.00" Time="1.000000" Size="92.00,92.00" PIName="UI" ImageName="10" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="SPIN" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-298.00,1178.50,0.00" Time="1.000000" Size="92.00,60.00" PIName="UI" ImageName="10" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MENU" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-748.50,1248.50,0.00" Time="1.000000" Size="62.00,50.00" PIName="UI" ImageName="10" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="AUTO SPIN" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="313.00,1273.00,0.00" Time="1.000000" Size="160.00,102.00" PIName="UI" ImageName="AutoSpin" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="LineAdd" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-537.00,1165.00,0.00" Time="1.000000" Size="46.00,28.00" PIName="UI" ImageName="10" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="AddBet" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-457.80,1165.00,0.00" Time="1.000000" Size="46.00,28.00" PIName="UI" ImageName="10" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BetMax" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-382.50,1214.50,0.00" Time="1.000000" Size="74.00,60.00" PIName="UI" ImageName="10" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="LineMinus" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-537.00,1255.00,0.00" Time="1.000000" Size="46.00,28.00" PIName="UI" ImageName="10" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MinusBet" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-457.80,1255.00,0.00" Time="1.000000" Size="46.00,28.00" PIName="UI" ImageName="10" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="but2" PathCount="9" PlayCount="-1" TotalPlayTime="1.000000">
+        <CueToStartCurvesWithTime Name="Exchange" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="1">
+            <PointDataList Index="0" Position="-670.50,958.50,0.00" Time="0.000000" Size="92.00,92.00" PIName="UI" ImageName="10" />
+            <PointDataList Index="1" Position="-670.50,958.50,0.00" Time="0.250000" Size="92.00,92.00" PIName="UI" ImageName="10" />
+            <PointDataList Index="2" Position="-670.50,958.50,0.00" Time="0.500000" Size="92.00,92.00" PIName="UI" ImageName="10" />
+            <PointDataList Index="3" Position="-670.50,958.50,0.00" Time="0.750000" Size="92.00,92.00" PIName="UI" ImageName="10" />
+            <PointDataList Index="4" Position="-670.50,958.50,0.00" Time="1.000000" Size="92.00,92.00" PIName="UI" ImageName="10" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="SPIN" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-298.00,1178.50,0.00" Time="1.000000" Size="92.00,60.00" PIName="UI" ImageName="10" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MENU" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-748.50,1248.50,0.00" Time="1.000000" Size="62.00,50.00" PIName="UI" ImageName="10" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="AUTO SPIN" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="313.00,1273.00,0.00" Time="1.000000" Size="160.00,102.00" PIName="UI" ImageName="AutoSpin_2" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="LineAdd" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-537.00,1165.00,0.00" Time="1.000000" Size="46.00,28.00" PIName="UI" ImageName="10" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="AddBet" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-457.80,1165.00,0.00" Time="1.000000" Size="46.00,28.00" PIName="UI" ImageName="10" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BetMax" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-382.50,1214.50,0.00" Time="1.000000" Size="74.00,60.00" PIName="UI" ImageName="10" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="LineMinus" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-537.00,1255.00,0.00" Time="1.000000" Size="46.00,28.00" PIName="UI" ImageName="10" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MinusBet" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-457.80,1255.00,0.00" Time="1.000000" Size="46.00,28.00" PIName="UI" ImageName="10" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="Menu1" PathCount="1" PlayCount="-1" TotalPlayTime="1.000000">
+        <CueToStartCurvesWithTime Name="Menu1" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-63.68,-51.79,0.00" Time="1.000000" Size="724.00,658.00" PIName="UI" ImageName="Menu1" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="Menu2" PathCount="1" PlayCount="-1" TotalPlayTime="1.000000">
+        <CueToStartCurvesWithTime Name="Menu1" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-64.00,-52.50,0.00" Time="1.000000" Size="724.00,658.00" PIName="UI" ImageName="Menu2" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="Menu3" PathCount="1" PlayCount="-1" TotalPlayTime="1.000000">
+        <CueToStartCurvesWithTime Name="Menu1" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-64.00,-52.50,0.00" Time="1.000000" Size="724.00,658.00" PIName="UI" ImageName="Menu3" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="UIInfoPos" PathCount="7" PlayCount="-1" TotalPlayTime="1.000000">
+        <CueToStartCurvesWithTime Name="TotalBetMoneyPos" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="530.00,1327.00,0.00" Time="1.000000" Size="19.00,24.00" PIName="UI" ImageName="but_9" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="NumLineBetPos" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="210.00,1327.00,0.00" Time="1.000000" Size="19.00,24.00" PIName="UI" ImageName="but_9" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="PerLineBetMoneyPos" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="277.00,1327.00,0.00" Time="1.000000" Size="19.00,24.00" PIName="UI" ImageName="but_9" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="WinMoneyPos" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="674.00,1327.00,0.00" Time="1.000000" Size="19.00,24.00" PIName="UI" ImageName="but_9" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="PlayerMoneyPos" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="92.00,1327.00,0.00" Time="1.000000" Size="19.00,24.00" PIName="UI" ImageName="but_9" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="JP1" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="83.00,798.00,0.00" Time="1.000000" Size="19.00,24.00" PIName="UI" ImageName="but_9" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="JP2" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="684.00,798.00,0.00" Time="1.000000" Size="19.00,24.00" PIName="UI" ImageName="but_9" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="MoneyNotEnough" PathCount="1" PlayCount="-1" TotalPlayTime="1.000000">
+        <CueToStartCurvesWithTime Name="MoneyNotEnough" StartTime="0.000000" AnchorType="CenterCenter" Count="3" LOD="1">
+            <PointDataList Index="0" Position="254.00,1163.00,0.00" Time="0.500000" Size="232.00,108.00" PIName="UI" ImageName="MoneyNotEnough" />
+            <PointDataList Index="1" Position="254.00,1163.00,0.00" Time="0.600000" Size="232.00,108.00" Color="1.00,1.00,0.00,1.00" PIName="UI" ImageName="MoneyNotEnough" />
+            <PointDataList Index="2" Position="254.00,1163.00,0.00" Time="1.000000" Size="232.00,108.00" Color="1.00,1.00,0.00,1.00" PIName="UI" ImageName="MoneyNotEnough" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="GameError" PathCount="1" PlayCount="-1" TotalPlayTime="1.000000">
+        <CueToStartCurvesWithTime Name="GameError" StartTime="0.000000" AnchorType="CenterCenter" Count="3" LOD="1">
+            <PointDataList Index="0" Position="254.00,1163.00,0.00" Time="0.500000" Size="232.00,108.00" PIName="UI" ImageName="GameError" />
+            <PointDataList Index="1" Position="254.00,1163.00,0.00" Time="0.600000" Size="232.00,108.00" Color="1.00,1.00,0.00,1.00" PIName="UI" ImageName="GameError" />
+            <PointDataList Index="2" Position="254.00,1163.00,0.00" Time="1.000000" Size="232.00,108.00" Color="1.00,1.00,0.00,1.00" PIName="UI" ImageName="GameError" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+</MPDIList>

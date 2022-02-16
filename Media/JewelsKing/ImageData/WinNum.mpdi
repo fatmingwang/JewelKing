@@ -1,0 +1,72 @@
+<MPDIList Name="WinNum_mpdi" Count="10" MPDIVersion="1.1" PICount="1" ImageName="Num.pi">
+    <MultiPathDynamicImage Name="WinNum0" PathCount="1" PlayCount="1" TotalPlayTime="0.300000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="WinNum" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="3" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="38.00,51.00" PIName="Num" ImageName="WinNum_0" />
+            <PointDataList Index="1" Position="0.00,-15.00,0.00" Time="0.150000" Size="53.20,71.40" PIName="Num" ImageName="WinNum_0" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.300000" Size="38.00,51.00" PIName="Num" ImageName="WinNum_0" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="WinNum1" PathCount="1" PlayCount="1" TotalPlayTime="0.300000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="WinNum" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="3" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="38.00,51.00" PIName="Num" ImageName="WinNum_1" />
+            <PointDataList Index="1" Position="0.00,-15.00,0.00" Time="0.150000" Size="53.20,71.40" PIName="Num" ImageName="WinNum_1" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.300000" Size="38.00,51.00" PIName="Num" ImageName="WinNum_1" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="WinNum2" PathCount="1" PlayCount="1" TotalPlayTime="0.300000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="WinNum" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="3" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="38.00,51.00" PIName="Num" ImageName="WinNum_2" />
+            <PointDataList Index="1" Position="0.00,-15.00,0.00" Time="0.150000" Size="53.20,71.40" PIName="Num" ImageName="WinNum_2" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.300000" Size="38.00,51.00" PIName="Num" ImageName="WinNum_2" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="WinNum3" PathCount="1" PlayCount="1" TotalPlayTime="0.300000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="WinNum" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="3" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="38.00,51.00" PIName="Num" ImageName="WinNum_3" />
+            <PointDataList Index="1" Position="0.00,-15.00,0.00" Time="0.150000" Size="53.20,71.40" PIName="Num" ImageName="WinNum_3" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.300000" Size="38.00,51.00" PIName="Num" ImageName="WinNum_3" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="WinNum4" PathCount="1" PlayCount="1" TotalPlayTime="0.300000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="WinNum" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="3" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="38.00,51.00" PIName="Num" ImageName="WinNum_4" />
+            <PointDataList Index="1" Position="0.00,-15.00,0.00" Time="0.150000" Size="53.20,71.40" PIName="Num" ImageName="WinNum_4" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.300000" Size="38.00,51.00" PIName="Num" ImageName="WinNum_4" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="WinNum5" PathCount="1" PlayCount="1" TotalPlayTime="0.300000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="WinNum" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="3" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="38.00,51.00" PIName="Num" ImageName="WinNum_5" />
+            <PointDataList Index="1" Position="0.00,-15.00,0.00" Time="0.150000" Size="53.20,71.40" PIName="Num" ImageName="WinNum_5" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.300000" Size="38.00,51.00" PIName="Num" ImageName="WinNum_5" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="WinNum6" PathCount="1" PlayCount="1" TotalPlayTime="0.300000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="WinNum" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="3" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="38.00,51.00" PIName="Num" ImageName="WinNum_6" />
+            <PointDataList Index="1" Position="0.00,-15.00,0.00" Time="0.150000" Size="53.20,71.40" PIName="Num" ImageName="WinNum_6" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.300000" Size="38.00,51.00" PIName="Num" ImageName="WinNum_6" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="WinNum7" PathCount="1" PlayCount="1" TotalPlayTime="0.300000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="WinNum" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="3" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="38.00,51.00" PIName="Num" ImageName="WinNum_7" />
+            <PointDataList Index="1" Position="0.00,-15.00,0.00" Time="0.150000" Size="53.20,71.40" PIName="Num" ImageName="WinNum_7" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.300000" Size="38.00,51.00" PIName="Num" ImageName="WinNum_7" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="WinNum8" PathCount="1" PlayCount="1" TotalPlayTime="0.300000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="WinNum" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="3" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="38.00,51.00" PIName="Num" ImageName="WinNum_8" />
+            <PointDataList Index="1" Position="0.00,-15.00,0.00" Time="0.150000" Size="53.20,71.40" PIName="Num" ImageName="WinNum_8" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.300000" Size="38.00,51.00" PIName="Num" ImageName="WinNum_8" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="WinNum9" PathCount="1" PlayCount="1" TotalPlayTime="0.300000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="WinNum" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="3" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="38.00,51.00" PIName="Num" ImageName="WinNum_9" />
+            <PointDataList Index="1" Position="0.00,-15.00,0.00" Time="0.150000" Size="53.20,71.40" PIName="Num" ImageName="WinNum_9" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.300000" Size="38.00,51.00" PIName="Num" ImageName="WinNum_9" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+</MPDIList>

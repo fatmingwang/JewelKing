@@ -1,0 +1,37 @@
+<!-- Author:Fatming,Time:2012/4/27 ¤U¤È 03:58:06 -->
+<PuzzleImage OriginalNameSort="coin_00,coin_01,coin_02,coin_03,coin_04,coin_05,coin_06,coin_07,coin_08,coin_09,coin_10,coin_11,coin_12,coin_13,coin_14,diamain_00,diamain_01,diamain_02,diamain_03,diamain_04,diamain_05,diamain_06,diamain_07,diamain_08,diamain_09,diamain_10,diamain_11,diamain_12,diamain_13,diamain_14" ImageName="ParticleSource.png" Count="30" GeneratePuzzleimageUnit="0">
+    <PuzzleUnit Name="coin_00" UV="0,0,0.1953125,0.1818182" OffsetPos="0,0" Size="200,200" OriginalSize="200,200" ShowPosInPI="0,0" />
+    <PuzzleUnit Name="coin_01" UV="0.1962891,0,0.3916016,0.1818182" OffsetPos="0,0" Size="200,200" OriginalSize="200,200" ShowPosInPI="201,0" />
+    <PuzzleUnit Name="coin_02" UV="0.3925781,0,0.5878906,0.1818182" OffsetPos="0,0" Size="200,200" OriginalSize="200,200" ShowPosInPI="402,0" />
+    <PuzzleUnit Name="coin_03" UV="0.5888672,0,0.7841797,0.1818182" OffsetPos="0,0" Size="200,200" OriginalSize="200,200" ShowPosInPI="603,0" />
+    <PuzzleUnit Name="coin_04" UV="0.7851563,0,0.9804688,0.1818182" OffsetPos="0,0" Size="200,200" OriginalSize="200,200" ShowPosInPI="804,0" />
+    <PuzzleUnit Name="coin_05" UV="0,0.1827273,0.1953125,0.3645455" OffsetPos="0,0" Size="200,200" OriginalSize="200,200" ShowPosInPI="0,201" />
+    <PuzzleUnit Name="coin_06" UV="0.1962891,0.1827273,0.3916016,0.3645455" OffsetPos="0,0" Size="200,200" OriginalSize="200,200" ShowPosInPI="201,201" />
+    <PuzzleUnit Name="coin_07" UV="0.3925781,0.1827273,0.5878906,0.3645455" OffsetPos="0,0" Size="200,200" OriginalSize="200,200" ShowPosInPI="402,201" />
+    <PuzzleUnit Name="coin_08" UV="0.5888672,0.1827273,0.7841797,0.3645455" OffsetPos="0,0" Size="200,200" OriginalSize="200,200" ShowPosInPI="603,201" />
+    <PuzzleUnit Name="coin_09" UV="0.7851563,0.1827273,0.9804688,0.3645455" OffsetPos="0,0" Size="200,200" OriginalSize="200,200" ShowPosInPI="804,201" />
+    <PuzzleUnit Name="coin_10" UV="0,0.3654546,0.1953125,0.5472727" OffsetPos="0,0" Size="200,200" OriginalSize="200,200" ShowPosInPI="0,402" />
+    <PuzzleUnit Name="coin_11" UV="0.1962891,0.3654546,0.3916016,0.5472727" OffsetPos="0,0" Size="200,200" OriginalSize="200,200" ShowPosInPI="201,402" />
+    <PuzzleUnit Name="coin_12" UV="0.3925781,0.3654546,0.5878906,0.5472727" OffsetPos="0,0" Size="200,200" OriginalSize="200,200" ShowPosInPI="402,402" />
+    <PuzzleUnit Name="coin_13" UV="0.5888672,0.3654546,0.7841797,0.5472727" OffsetPos="0,0" Size="200,200" OriginalSize="200,200" ShowPosInPI="603,402" />
+    <PuzzleUnit Name="coin_14" UV="0.7851563,0.3654546,0.9804688,0.5472727" OffsetPos="0,0" Size="200,200" OriginalSize="200,200" ShowPosInPI="804,402" />
+    <PuzzleUnit Name="diamain_00" UV="0,0.5481818,0.1464844,0.6845455" OffsetPos="0,0" Size="150,150" OriginalSize="150,150" ShowPosInPI="0,603" />
+    <PuzzleUnit Name="diamain_01" UV="0.1474609,0.5481818,0.2939453,0.6845455" OffsetPos="0,0" Size="150,150" OriginalSize="150,150" ShowPosInPI="151,603" />
+    <PuzzleUnit Name="diamain_02" UV="0.2949219,0.5481818,0.4414063,0.6845455" OffsetPos="0,0" Size="150,150" OriginalSize="150,150" ShowPosInPI="302,603" />
+    <PuzzleUnit Name="diamain_03" UV="0.4423828,0.5481818,0.5888672,0.6845455" OffsetPos="0,0" Size="150,150" OriginalSize="150,150" ShowPosInPI="453,603" />
+    <PuzzleUnit Name="diamain_04" UV="0.5898438,0.5481818,0.7363281,0.6845455" OffsetPos="0,0" Size="150,150" OriginalSize="150,150" ShowPosInPI="604,603" />
+    <PuzzleUnit Name="diamain_05" UV="0.7373047,0.5481818,0.8837891,0.6845455" OffsetPos="0,0" Size="150,150" OriginalSize="150,150" ShowPosInPI="755,603" />
+    <PuzzleUnit Name="diamain_06" UV="0,0.6854545,0.1464844,0.8218182" OffsetPos="0,0" Size="150,150" OriginalSize="150,150" ShowPosInPI="0,754" />
+    <PuzzleUnit Name="diamain_07" UV="0.1474609,0.6854545,0.2939453,0.8218182" OffsetPos="0,0" Size="150,150" OriginalSize="150,150" ShowPosInPI="151,754" />
+    <PuzzleUnit Name="diamain_08" UV="0.2949219,0.6854545,0.4414063,0.8218182" OffsetPos="0,0" Size="150,150" OriginalSize="150,150" ShowPosInPI="302,754" />
+    <PuzzleUnit Name="diamain_09" UV="0.4423828,0.6854545,0.5888672,0.8218182" OffsetPos="0,0" Size="150,150" OriginalSize="150,150" ShowPosInPI="453,754" />
+    <PuzzleUnit Name="diamain_10" UV="0.5898438,0.6854545,0.7363281,0.8218182" OffsetPos="0,0" Size="150,150" OriginalSize="150,150" ShowPosInPI="604,754" />
+    <PuzzleUnit Name="diamain_11" UV="0.7373047,0.6854545,0.8837891,0.8218182" OffsetPos="0,0" Size="150,150" OriginalSize="150,150" ShowPosInPI="755,754" />
+    <PuzzleUnit Name="diamain_12" UV="0,0.8227273,0.1464844,0.9590909" OffsetPos="0,0" Size="150,150" OriginalSize="150,150" ShowPosInPI="0,905" />
+    <PuzzleUnit Name="diamain_13" UV="0.1474609,0.8227273,0.2939453,0.9590909" OffsetPos="0,0" Size="150,150" OriginalSize="150,150" ShowPosInPI="151,905" />
+    <PuzzleUnit Name="diamain_14" UV="0.2949219,0.8227273,0.4414063,0.9590909" OffsetPos="0,0" Size="150,150" OriginalSize="150,150" ShowPosInPI="302,905" />
+    <AnimationData Count="2">
+        <AnimationDataUnit Name="Coin" Count="15" ImageList="coin_00,coin_01,coin_02,coin_03,coin_04,coin_05,coin_06,coin_07,coin_08,coin_09,coin_10,coin_11,coin_12,coin_13,coin_14," TimeList="0.1000000,0.1000000,0.1000000,0.1000000,0.1000000,0.1000000,0.1000000,0.1000000,0.1000000,0.1000000,0.1000000,0.1000000,0.1000000,0.1000000,0.1000000," />
+        <AnimationDataUnit Name="Dimond" Count="15" ImageList="diamain_00,diamain_01,diamain_02,diamain_03,diamain_04,diamain_05,diamain_06,diamain_07,diamain_08,diamain_09,diamain_10,diamain_11,diamain_12,diamain_13,diamain_14," TimeList="0.1000000,0.1000000,0.1000000,0.1000000,0.1000000,0.1000000,0.1000000,0.1000000,0.1000000,0.1000000,0.1000000,0.1000000,0.1000000,0.1000000,0.1000000," />
+    </AnimationData>
+</PuzzleImage>

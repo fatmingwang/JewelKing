@@ -1,0 +1,69 @@
+<MPDIList Name="line9_mpdi" Count="10" MPDIVersion="1.1" PICount="1" ImageName="Num.pi">
+    <MultiPathDynamicImage Name="line25-01" PathCount="1" PlayCount="-1" TotalPlayTime="2.000000">
+        <CueToStartCurvesWithTime Name="line" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="2.000000" Size="664.00,5.00" PIName="Num" ImageName="line01" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="line25-02" PathCount="1" PlayCount="-1" TotalPlayTime="2.000000">
+        <CueToStartCurvesWithTime Name="line" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="0.00,-1.00,0.00" Time="2.000000" Size="664.00,5.00" PIName="Num" ImageName="line02" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="line25-03" PathCount="1" PlayCount="-1" TotalPlayTime="2.000000">
+        <CueToStartCurvesWithTime Name="line" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="2.000000" Size="664.00,6.00" PIName="Num" ImageName="line03" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="line25-04" PathCount="1" PlayCount="-1" TotalPlayTime="2.000000">
+        <CueToStartCurvesWithTime Name="line" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="2.000000" Size="664.00,126.00" PIName="Num" ImageName="line04" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="line25-05" PathCount="1" PlayCount="-1" TotalPlayTime="2.000000">
+        <CueToStartCurvesWithTime Name="line6" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="2.000000" Size="664.00,126.00" PIName="Num" ImageName="line05" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="line25-06" PathCount="1" PlayCount="-1" TotalPlayTime="2.000000">
+        <CueToStartCurvesWithTime Name="line" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="2.000000" Size="664.00,122.00" PIName="Num" ImageName="line06" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="line25-07" PathCount="1" PlayCount="-1" TotalPlayTime="2.000000">
+        <CueToStartCurvesWithTime Name="line" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="2.000000" Size="664.00,117.00" Color="1.00,1.00,0.10,1.00" PIName="Num" ImageName="line07" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="line25-08" PathCount="1" PlayCount="-1" TotalPlayTime="2.000000">
+        <CueToStartCurvesWithTime Name="line" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="2.000000" Size="664.00,246.00" PIName="Num" ImageName="line08" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="line25-09" PathCount="1" PlayCount="-1" TotalPlayTime="2.000000">
+        <CueToStartCurvesWithTime Name="line6" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="2.000000" Size="664.00,246.00" PIName="Num" ImageName="line09" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="LineNum" PathCount="1" PlayCount="-1" TotalPlayTime="1.100000">
+        <CueToStartCurvesWithTime Name="line_2" StartTime="0.100000" AnchorType="CenterCenter" Count="18" LOD="1">
+            <PointDataList Index="0" Position="11.00,852.00,0.00" Time="0.000000" Size="21.00,24.00" PIName="Num" ImageName="line_1" />
+            <PointDataList Index="1" Position="11.00,891.00,0.00" Time="0.058824" Size="21.00,24.00" PIName="Num" ImageName="line_1" />
+            <PointDataList Index="2" Position="11.00,931.00,0.00" Time="0.117647" Size="21.00,24.00" PIName="Num" ImageName="line_1" />
+            <PointDataList Index="3" Position="11.00,972.00,0.00" Time="0.176471" Size="21.00,24.00" PIName="Num" ImageName="line_1" />
+            <PointDataList Index="4" Position="11.00,1012.00,0.00" Time="0.235294" Size="21.00,24.00" PIName="Num" ImageName="line_1" />
+            <PointDataList Index="5" Position="11.00,1053.00,0.00" Time="0.294118" Size="21.00,24.00" PIName="Num" ImageName="line_1" />
+            <PointDataList Index="6" Position="11.00,1093.00,0.00" Time="0.352941" Size="21.00,24.00" PIName="Num" ImageName="line_1" />
+            <PointDataList Index="7" Position="11.00,1133.00,0.00" Time="0.411765" Size="21.00,24.00" PIName="Num" ImageName="line_1" />
+            <PointDataList Index="8" Position="11.00,1170.00,0.00" Time="0.470588" Size="21.00,24.00" PIName="Num" ImageName="line_1" />
+            <PointDataList Index="9" Position="732.00,852.00,0.00" Time="0.529412" Size="21.00,24.00" PIName="Num" ImageName="line_1" />
+            <PointDataList Index="10" Position="732.00,891.00,0.00" Time="0.588235" Size="21.00,24.00" PIName="Num" ImageName="line_1" />
+            <PointDataList Index="11" Position="732.00,931.00,0.00" Time="0.647059" Size="21.00,24.00" PIName="Num" ImageName="line_1" />
+            <PointDataList Index="12" Position="732.00,972.00,0.00" Time="0.705882" Size="21.00,24.00" PIName="Num" ImageName="line_1" />
+            <PointDataList Index="13" Position="732.00,1012.00,0.00" Time="0.764706" Size="21.00,24.00" PIName="Num" ImageName="line_1" />
+            <PointDataList Index="14" Position="732.00,1053.00,0.00" Time="0.823529" Size="21.00,24.00" PIName="Num" ImageName="line_1" />
+            <PointDataList Index="15" Position="732.00,1093.00,0.00" Time="0.882353" Size="21.00,24.00" PIName="Num" ImageName="line_1" />
+            <PointDataList Index="16" Position="732.00,1133.00,0.00" Time="0.941176" Size="21.00,24.00" PIName="Num" ImageName="line_1" />
+            <PointDataList Index="17" Position="732.00,1170.00,0.00" Time="1.000000" Size="21.00,24.00" PIName="Num" ImageName="line_1" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+</MPDIList>

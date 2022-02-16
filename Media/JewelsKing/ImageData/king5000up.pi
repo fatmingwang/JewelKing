@@ -1,0 +1,30 @@
+<!-- Author:User,Time:2012/5/22 ¤W¤È 10:57:56 -->
+<PuzzleImage OriginalNameSort="king_5000up_00,king_5000up_01,king_5000up_02,king_5000up_03,king_5000up_04,king_5000up_05,king_5000up_06,king_5000up_07,king_5000up_08,king_5000up_09,king_5000up_10,king_5000up_11,king_5000up_12,king_5000up_13,king_5000up_14,BetNum_00,BetNum_01,BetNum_02,BetNum_03,BetNum_04,BetNum_05,BetNum_06,BetNum_07,BetNum_08,BetNum_09,BetNum_10,BONUSE" ImageName="king5000up.png" Count="27" GeneratePuzzleimageUnit="0">
+    <PuzzleUnit Name="BetNum_00" UV="0.1271795,0.4226667,0.1538462,0.4686667" OffsetPos="6,4" Size="104,138" OriginalSize="117,146" ShowPosInPI="496,1268" />
+    <PuzzleUnit Name="BetNum_01" UV="0.154359,0.4226667,0.1738462,0.4686667" OffsetPos="19,4" Size="76,138" OriginalSize="117,146" ShowPosInPI="602,1268" />
+    <PuzzleUnit Name="BetNum_02" UV="0.174359,0.4226667,0.2,0.4686667" OffsetPos="8,4" Size="100,138" OriginalSize="117,146" ShowPosInPI="680,1268" />
+    <PuzzleUnit Name="BetNum_03" UV="0.2005128,0.4226667,0.2261539,0.468" OffsetPos="8,5" Size="100,136" OriginalSize="117,146" ShowPosInPI="782,1268" />
+    <PuzzleUnit Name="BetNum_04" UV="0.2266667,0.4226667,0.2538462,0.468" OffsetPos="5,6" Size="106,136" OriginalSize="117,146" ShowPosInPI="884,1268" />
+    <PuzzleUnit Name="BetNum_05" UV="0.254359,0.4226667,0.28,0.468" OffsetPos="9,5" Size="100,136" OriginalSize="117,146" ShowPosInPI="992,1268" />
+    <PuzzleUnit Name="BetNum_06" UV="0.2805128,0.4226667,0.3071795,0.4686667" OffsetPos="7,4" Size="104,138" OriginalSize="117,146" ShowPosInPI="1094,1268" />
+    <PuzzleUnit Name="BetNum_07" UV="0.3076923,0.4226667,0.3328205,0.468" OffsetPos="9,5" Size="98,136" OriginalSize="117,146" ShowPosInPI="1200,1268" />
+    <PuzzleUnit Name="BetNum_08" UV="0.3333333,0.4226667,0.3605128,0.4686667" OffsetPos="6,4" Size="106,138" OriginalSize="117,146" ShowPosInPI="1300,1268" />
+    <PuzzleUnit Name="BetNum_09" UV="0.3610256,0.4226667,0.3876923,0.4686667" OffsetPos="6,4" Size="104,138" OriginalSize="117,146" ShowPosInPI="1408,1268" />
+    <PuzzleUnit Name="BetNum_10" UV="0.3882051,0.4226667,0.4158974,0.4653333" OffsetPos="4,14" Size="108,128" OriginalSize="117,146" ShowPosInPI="1514,1268" />
+    <PuzzleUnit Name="BONUSE" UV="0.4164103,0.4226667,0.4517949,0.468" OffsetPos="261,6" Size="138,136" OriginalSize="464,146" ShowPosInPI="1624,1268" />
+    <PuzzleUnit Name="king_5000up_00" UV="0,0,0.125641,0.21" OffsetPos="165,125" Size="490,630" OriginalSize="760,755" ShowPosInPI="0,0" />
+    <PuzzleUnit Name="king_5000up_01" UV="0.1261538,0,0.2507692,0.2093333" OffsetPos="161,127" Size="486,628" OriginalSize="760,755" ShowPosInPI="492,0" />
+    <PuzzleUnit Name="king_5000up_02" UV="0.2512821,0,0.3764102,0.2066667" OffsetPos="150,135" Size="488,620" OriginalSize="760,755" ShowPosInPI="980,0" />
+    <PuzzleUnit Name="king_5000up_03" UV="0.3769231,0,0.5123077,0.2013333" OffsetPos="110,151" Size="528,604" OriginalSize="760,755" ShowPosInPI="1470,0" />
+    <PuzzleUnit Name="king_5000up_04" UV="0.5128205,0,0.6579487,0.2006667" OffsetPos="93,153" Size="566,602" OriginalSize="760,755" ShowPosInPI="2000,0" />
+    <PuzzleUnit Name="king_5000up_05" UV="0.6584615,0,0.8184615,0.2013333" OffsetPos="72,151" Size="624,604" OriginalSize="760,755" ShowPosInPI="2568,0" />
+    <PuzzleUnit Name="king_5000up_06" UV="0.8189744,0,0.9748718,0.202" OffsetPos="83,149" Size="608,606" OriginalSize="760,755" ShowPosInPI="3194,0" />
+    <PuzzleUnit Name="king_5000up_07" UV="0,0.2106667,0.1317949,0.4153333" OffsetPos="131,141" Size="514,614" OriginalSize="760,755" ShowPosInPI="0,632" />
+    <PuzzleUnit Name="king_5000up_08" UV="0.1323077,0.2106667,0.2584615,0.4173333" OffsetPos="130,135" Size="492,620" OriginalSize="760,755" ShowPosInPI="516,632" />
+    <PuzzleUnit Name="king_5000up_09" UV="0.2589744,0.2106667,0.385641,0.4186667" OffsetPos="129,131" Size="494,624" OriginalSize="760,755" ShowPosInPI="1010,632" />
+    <PuzzleUnit Name="king_5000up_10" UV="0.3861538,0.2106667,0.5148718,0.4213333" OffsetPos="125,123" Size="502,632" OriginalSize="760,755" ShowPosInPI="1506,632" />
+    <PuzzleUnit Name="king_5000up_11" UV="0.5153846,0.2106667,0.645641,0.422" OffsetPos="122,121" Size="508,634" OriginalSize="760,755" ShowPosInPI="2010,632" />
+    <PuzzleUnit Name="king_5000up_12" UV="0.6461539,0.2106667,0.7774359,0.42" OffsetPos="119,127" Size="512,628" OriginalSize="760,755" ShowPosInPI="2520,632" />
+    <PuzzleUnit Name="king_5000up_13" UV="0.7779487,0.2106667,0.9066667,0.4206667" OffsetPos="121,125" Size="502,630" OriginalSize="760,755" ShowPosInPI="3034,632" />
+    <PuzzleUnit Name="king_5000up_14" UV="0,0.4226667,0.1266667,0.6313334" OffsetPos="129,129" Size="494,626" OriginalSize="760,755" ShowPosInPI="0,1268" />
+</PuzzleImage>

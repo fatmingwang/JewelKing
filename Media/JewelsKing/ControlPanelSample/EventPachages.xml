@@ -1,0 +1,10 @@
+<EventPackages FontFile="EventFont" ChangePackageVariableName="CurrentPackageName" EventObjectStatusFileName="EventObjectStatus.xml" EventVariableFileName="VariableData.xml" EventInstanceFileName="EventInstance.xml">
+
+
+	<EventPackage Name="FirstPage" >
+		<cEventObjectInstance Name="FirstPageNext" cEventInstance="FirstPage_Next" />
+		<cEventObjectInstance Name="FirstPagePrior" cEventInstance="FirstPage_Prior" />
+		<cEventObjectInstance Name="FirstPage_Qoo" cEventObjectStatus="FirstPage_Qoo" EventObjectStatusVariable="FirstPage_Bibo" />
+	</EventPackage>
+
+</EventPackages>

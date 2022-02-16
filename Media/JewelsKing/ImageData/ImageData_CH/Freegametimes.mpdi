@@ -1,0 +1,59 @@
+<MPDIList Name="Freegametimes_mpdi" Count="2" MPDIVersion="1.1" PICount="1" ImageName="FG.pi">
+    <MultiPathDynamicImage Name="FreeTimeDiamond" PathCount="3" PlayCount="-1" TotalPlayTime="1.000000">
+        <CueToStartCurvesWithTime Name="light" StartTime="0.000000" AnchorType="CenterCenter" Count="11" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-70.50,-55.99,0.00" Time="0.000000" Size="128.25,128.79" Angles="0.00,0.00,720.00" Color="1.00,1.00,1.00,0.39" PIName="FG" ImageName="light" />
+            <PointDataList Index="1" Position="-70.50,-55.99,0.00" Time="0.100000" Size="128.25,128.79" Angles="0.00,0.00,648.00" Color="1.00,1.00,1.00,0.39" PIName="FG" ImageName="light" />
+            <PointDataList Index="2" Position="-70.50,-55.99,0.00" Time="0.200000" Size="128.25,128.79" Angles="0.00,0.00,576.00" Color="1.00,1.00,1.00,0.39" PIName="FG" ImageName="light" />
+            <PointDataList Index="3" Position="-70.50,-55.99,0.00" Time="0.300000" Size="128.25,128.79" Angles="0.00,0.00,504.00" Color="1.00,1.00,1.00,0.39" PIName="FG" ImageName="light" />
+            <PointDataList Index="4" Position="-70.50,-55.99,0.00" Time="0.400000" Size="128.25,128.79" Angles="0.00,0.00,432.00" Color="1.00,1.00,1.00,0.39" PIName="FG" ImageName="light" />
+            <PointDataList Index="5" Position="-70.50,-55.99,0.00" Time="0.500000" Size="128.25,128.79" Angles="0.00,0.00,360.00" Color="1.00,1.00,1.00,0.39" PIName="FG" ImageName="light" />
+            <PointDataList Index="6" Position="-70.50,-55.99,0.00" Time="0.600000" Size="128.25,128.79" Angles="0.00,0.00,288.00" Color="1.00,1.00,1.00,0.39" PIName="FG" ImageName="light" />
+            <PointDataList Index="7" Position="-70.50,-55.99,0.00" Time="0.700000" Size="128.25,128.79" Angles="0.00,0.00,216.00" Color="1.00,1.00,1.00,0.39" PIName="FG" ImageName="light" />
+            <PointDataList Index="8" Position="-70.50,-55.99,0.00" Time="0.800000" Size="128.25,128.79" Angles="0.00,0.00,144.00" Color="1.00,1.00,1.00,0.39" PIName="FG" ImageName="light" />
+            <PointDataList Index="9" Position="-70.50,-55.99,0.00" Time="0.900000" Size="128.25,128.79" Angles="0.00,0.00,72.00" Color="1.00,1.00,1.00,0.39" PIName="FG" ImageName="light" />
+            <PointDataList Index="10" Position="-70.50,-55.99,0.00" Time="1.000000" Size="128.25,128.79" Color="1.00,1.00,1.00,0.39" PIName="FG" ImageName="light" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="d" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="92.11,126.50,0.00" Time="1.000000" Size="120.80,100.00" PIName="FG" ImageName="diamain" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="freegametimes" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-138.00,-110.00,0.00" Time="1.000000" Size="144.14,63.00" PIName="FG" ImageName="freegametimes" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="FreeTimeNum" PathCount="11" PlayCount="-1" TotalPlayTime="1.000000">
+        <CueToStartCurvesWithTime Name="fgnum_00" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="118.91,113.90,0.00" Time="1.000000" Size="41.60,59.20" PIName="FG" ImageName="fgnum_00" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="fgnum_01" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="118.91,113.90,0.00" Time="1.000000" Size="26.80,59.20" PIName="FG" ImageName="fgnum_01" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="fgnum_02" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="118.91,113.90,0.00" Time="1.000000" Size="40.00,59.20" PIName="FG" ImageName="fgnum_02" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="fgnum_03" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="118.91,113.90,0.00" Time="1.000000" Size="40.00,58.80" PIName="FG" ImageName="fgnum_03" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="fgnum_04" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="118.91,113.90,0.00" Time="1.000000" Size="42.40,58.40" PIName="FG" ImageName="fgnum_04" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="fgnum_05" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="118.91,113.90,0.00" Time="1.000000" Size="39.60,58.80" PIName="FG" ImageName="fgnum_05" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="fgnum_06" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="118.91,113.90,0.00" Time="1.000000" Size="41.60,59.20" PIName="FG" ImageName="fgnum_06" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="fgnum_07" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="118.91,113.90,0.00" Time="1.000000" Size="38.80,58.80" PIName="FG" ImageName="fgnum_07" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="fgnum_08" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="118.91,113.90,0.00" Time="1.000000" Size="42.00,59.20" PIName="FG" ImageName="fgnum_08" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="fgnum_09" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="118.91,113.90,0.00" Time="1.000000" Size="41.20,59.20" PIName="FG" ImageName="fgnum_09" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="fgnum_10" StartTime="0.000000" AnchorType="CenterCenter" Count="2" LOD="1">
+            <PointDataList Index="0" Position="100.90,113.90,0.00" Time="0.000000" Size="26.80,59.20" PIName="FG" ImageName="fgnum_01" />
+            <PointDataList Index="1" Position="130.90,113.50,0.00" Time="1.000000" Size="41.60,59.20" PIName="FG" ImageName="fgnum_00" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+</MPDIList>

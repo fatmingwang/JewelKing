@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextureEditorWPF", "TextureEditorWPF.csproj", "{9EC556B5-121A-4F71-86F9-0C6A2E35FBDA}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7439A26A-46E1-42A0-9D58-2E38289675F6} = {7439A26A-46E1-42A0-9D58-2E38289675F6}
+		{0C6674CC-6D49-414A-9B41-D4E175028FFB} = {0C6674CC-6D49-414A-9B41-D4E175028FFB}
+		{465DD0FB-BE46-4E00-A957-816464E15056} = {465DD0FB-BE46-4E00-A957-816464E15056}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreWPF", "..\..\CoreWPF\CoreWPF.csproj", "{465DD0FB-BE46-4E00-A957-816464E15056}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GongSolutions.Wpf.DragDrop", "..\..\CoreWPF\TimeLine\gong-wpf-dragdrop\GongSolutions.Wpf.DragDrop\GongSolutions.Wpf.DragDrop.csproj", "{0C6674CC-6D49-414A-9B41-D4E175028FFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeLineTool", "..\..\CoreWPF\TimeLine\TimeLineTool\TimeLineTool.csproj", "{7439A26A-46E1-42A0-9D58-2E38289675F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EC556B5-121A-4F71-86F9-0C6A2E35FBDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EC556B5-121A-4F71-86F9-0C6A2E35FBDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EC556B5-121A-4F71-86F9-0C6A2E35FBDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EC556B5-121A-4F71-86F9-0C6A2E35FBDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{465DD0FB-BE46-4E00-A957-816464E15056}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{465DD0FB-BE46-4E00-A957-816464E15056}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{465DD0FB-BE46-4E00-A957-816464E15056}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{465DD0FB-BE46-4E00-A957-816464E15056}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C6674CC-6D49-414A-9B41-D4E175028FFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C6674CC-6D49-414A-9B41-D4E175028FFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C6674CC-6D49-414A-9B41-D4E175028FFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C6674CC-6D49-414A-9B41-D4E175028FFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7439A26A-46E1-42A0-9D58-2E38289675F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7439A26A-46E1-42A0-9D58-2E38289675F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7439A26A-46E1-42A0-9D58-2E38289675F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7439A26A-46E1-42A0-9D58-2E38289675F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,54 @@
+<!-- Author:User,Time:2012/10/5 ¤W¤È 09:33:07 -->
+<PuzzleImage OriginalNameSort="BigWin_00,BigWin_01,BigWin_02,BigWin_03,BigWin_04,BigWin_05,BigWin_06,BigWin_07,BigWin_08,BigWin_09,BigWin_10,BigWin_11,boom_0,boom_1,boom_2,boom_3,boom_4,BgVfx_01,BgVfx_02,BgVfx_03,BgVfx_04,BgVfx_05,BgVfx_06,black ,star_01,star_02,star_03,star_04,star_05,star_06,star_07,star_08,star_09,star_10,star_11,star_12,star_13,star_14,star_15,star_16,star_17,plate_01,plate_02,plate_03,plate_04,plate_05,plate_06,plate_07,plate_08,plate_09,plate_10" ImageName="BigWin.png" Count="51" GeneratePuzzleimageUnit="0">
+    <PuzzleUnit Name="BgVfx_01" UV="0.9068,0.140499,0.934,0.1692898" OffsetPos="218,210" Size="68,75" OriginalSize="500,500" ShowPosInPI="2267,366" />
+    <PuzzleUnit Name="BgVfx_02" UV="0.9348,0.140499,0.98,0.1911708" OffsetPos="197,183" Size="113,132" OriginalSize="500,500" ShowPosInPI="2337,366" />
+    <PuzzleUnit Name="BgVfx_03" UV="0,0.206142,0.0552,0.2618042" OffsetPos="174,183" Size="138,145" OriginalSize="500,500" ShowPosInPI="0,537" />
+    <PuzzleUnit Name="BgVfx_04" UV="0.056,0.206142,0.1168,0.2641075" OffsetPos="175,186" Size="152,151" OriginalSize="500,500" ShowPosInPI="140,537" />
+    <PuzzleUnit Name="BgVfx_05" UV="0.1176,0.206142,0.1784,0.2698656" OffsetPos="166,167" Size="152,166" OriginalSize="500,500" ShowPosInPI="294,537" />
+    <PuzzleUnit Name="BgVfx_06" UV="0.1792,0.206142,0.2388,0.2449136" OffsetPos="165,213" Size="149,101" OriginalSize="500,500" ShowPosInPI="448,537" />
+    <PuzzleUnit Name="BigWin_00" UV="0,0,0.0936,0.06372361" OffsetPos="122,709" Size="234,166" OriginalSize="768,1366" ShowPosInPI="0,0" />
+    <PuzzleUnit Name="BigWin_01" UV="0.0944,0,0.3072,0.0840691" OffsetPos="121,707" Size="532,219" OriginalSize="768,1366" ShowPosInPI="236,0" />
+    <PuzzleUnit Name="BigWin_02" UV="0.308,0,0.5216,0.07523993" OffsetPos="120,780" Size="534,196" OriginalSize="768,1366" ShowPosInPI="770,0" />
+    <PuzzleUnit Name="BigWin_03" UV="0.5224,0,0.7396,0.07101727" OffsetPos="112,842" Size="543,185" OriginalSize="768,1366" ShowPosInPI="1306,0" />
+    <PuzzleUnit Name="BigWin_04" UV="0.7404,0,0.9592,0.05527831" OffsetPos="109,884" Size="547,144" OriginalSize="768,1366" ShowPosInPI="1851,0" />
+    <PuzzleUnit Name="BigWin_05" UV="0,0.08483686,0.2204,0.1397313" OffsetPos="107,885" Size="551,143" OriginalSize="768,1366" ShowPosInPI="0,221" />
+    <PuzzleUnit Name="BigWin_06" UV="0.2212,0.08483686,0.4416,0.1339731" OffsetPos="107,900" Size="551,128" OriginalSize="768,1366" ShowPosInPI="553,221" />
+    <PuzzleUnit Name="BigWin_07" UV="0.4424,0.08483686,0.6628,0.1358925" OffsetPos="107,895" Size="551,133" OriginalSize="768,1366" ShowPosInPI="1106,221" />
+    <PuzzleUnit Name="BigWin_08" UV="0.6636,0.08483686,0.884,0.1358925" OffsetPos="107,895" Size="551,133" OriginalSize="768,1366" ShowPosInPI="1659,221" />
+    <PuzzleUnit Name="BigWin_09" UV="0,0.140499,0.2204,0.1915547" OffsetPos="107,895" Size="551,133" OriginalSize="768,1366" ShowPosInPI="0,366" />
+    <PuzzleUnit Name="BigWin_10" UV="0.2212,0.140499,0.4416,0.1915547" OffsetPos="107,895" Size="551,133" OriginalSize="768,1366" ShowPosInPI="553,366" />
+    <PuzzleUnit Name="BigWin_11" UV="0.4424,0.140499,0.6628,0.1915547" OffsetPos="107,895" Size="551,133" OriginalSize="768,1366" ShowPosInPI="1106,366" />
+    <PuzzleUnit Name="black " UV="0.2396,0.206142,0.3196,0.2610365" OffsetPos="0,0" Size="200,143" OriginalSize="200,143" ShowPosInPI="599,537" />
+    <PuzzleUnit Name="boom_0" UV="0.6636,0.140499,0.6872,0.1639155" OffsetPos="126,124" Size="59,61" OriginalSize="300,292" ShowPosInPI="1659,366" />
+    <PuzzleUnit Name="boom_1" UV="0.688,0.140499,0.7416,0.1919386" OffsetPos="92,100" Size="134,134" OriginalSize="300,292" ShowPosInPI="1720,366" />
+    <PuzzleUnit Name="boom_2" UV="0.7424,0.140499,0.804,0.2053743" OffsetPos="82,88" Size="154,169" OriginalSize="300,292" ShowPosInPI="1856,366" />
+    <PuzzleUnit Name="boom_3" UV="0.8048,0.140499,0.8576,0.203071" OffsetPos="86,96" Size="132,163" OriginalSize="300,292" ShowPosInPI="2012,366" />
+    <PuzzleUnit Name="boom_4" UV="0.8584,0.140499,0.906,0.1823417" OffsetPos="96,142" Size="119,109" OriginalSize="300,292" ShowPosInPI="2146,366" />
+    <PuzzleUnit Name="plate_01" UV="0.308,0.5942419,0.5024,0.6721689" OffsetPos="150,663" Size="486,203" OriginalSize="768,1366" ShowPosInPI="770,1548" />
+    <PuzzleUnit Name="plate_02" UV="0.5032,0.5942419,0.7296,0.6783109" OffsetPos="111,758" Size="566,219" OriginalSize="768,1366" ShowPosInPI="1258,1548" />
+    <PuzzleUnit Name="plate_03" UV="0.7304,0.5942419,0.9852,0.6913627" OffsetPos="72,835" Size="637,253" OriginalSize="768,1366" ShowPosInPI="1826,1548" />
+    <PuzzleUnit Name="plate_04" UV="0,0.6921305,0.2576,0.7877159" OffsetPos="71,837" Size="644,249" OriginalSize="768,1366" ShowPosInPI="0,1803" />
+    <PuzzleUnit Name="plate_05" UV="0.2584,0.6921305,0.5176,0.7888675" OffsetPos="71,835" Size="648,252" OriginalSize="768,1366" ShowPosInPI="646,1803" />
+    <PuzzleUnit Name="plate_06" UV="0.5184,0.6921305,0.7764,0.7888675" OffsetPos="71,835" Size="645,252" OriginalSize="768,1366" ShowPosInPI="1296,1803" />
+    <PuzzleUnit Name="plate_07" UV="0,0.7896353,0.258,0.8852207" OffsetPos="71,838" Size="645,249" OriginalSize="768,1366" ShowPosInPI="0,2057" />
+    <PuzzleUnit Name="plate_08" UV="0.2588,0.7896353,0.5168,0.8856046" OffsetPos="71,836" Size="645,250" OriginalSize="768,1366" ShowPosInPI="647,2057" />
+    <PuzzleUnit Name="plate_09" UV="0.5176,0.7896353,0.7756,0.8863724" OffsetPos="71,835" Size="645,252" OriginalSize="768,1366" ShowPosInPI="1294,2057" />
+    <PuzzleUnit Name="plate_10" UV="0,0.8871401,0.258,0.984261" OffsetPos="71,835" Size="645,253" OriginalSize="768,1366" ShowPosInPI="0,2311" />
+    <PuzzleUnit Name="star_01" UV="0.3204,0.206142,0.4692,0.2291747" OffsetPos="117,907" Size="372,60" OriginalSize="768,1366" ShowPosInPI="801,537" />
+    <PuzzleUnit Name="star_02" UV="0.47,0.206142,0.6764,0.23762" OffsetPos="117,907" Size="516,82" OriginalSize="768,1366" ShowPosInPI="1175,537" />
+    <PuzzleUnit Name="star_03" UV="0.6772,0.206142,0.8948,0.2491363" OffsetPos="117,907" Size="544,112" OriginalSize="768,1366" ShowPosInPI="1693,537" />
+    <PuzzleUnit Name="star_04" UV="0,0.2706334,0.2176,0.3136276" OffsetPos="117,907" Size="544,112" OriginalSize="768,1366" ShowPosInPI="0,705" />
+    <PuzzleUnit Name="star_05" UV="0.2184,0.2706334,0.4388,0.3136276" OffsetPos="110,907" Size="551,112" OriginalSize="768,1366" ShowPosInPI="546,705" />
+    <PuzzleUnit Name="star_06" UV="0.4396,0.2706334,0.66,0.3136276" OffsetPos="110,907" Size="551,112" OriginalSize="768,1366" ShowPosInPI="1099,705" />
+    <PuzzleUnit Name="star_07" UV="0.6608,0.2706334,0.9036,0.3332054" OffsetPos="76,861" Size="607,163" OriginalSize="768,1366" ShowPosInPI="1652,705" />
+    <PuzzleUnit Name="star_08" UV="0,0.3339731,0.2648,0.4065259" OffsetPos="43,839" Size="662,189" OriginalSize="768,1366" ShowPosInPI="0,870" />
+    <PuzzleUnit Name="star_09" UV="0.2656,0.3339731,0.554,0.4172745" OffsetPos="10,815" Size="721,217" OriginalSize="768,1366" ShowPosInPI="664,870" />
+    <PuzzleUnit Name="star_10" UV="0.5548,0.3339731,0.8612,0.4226488" OffsetPos="0,805" Size="766,231" OriginalSize="768,1366" ShowPosInPI="1387,870" />
+    <PuzzleUnit Name="star_11" UV="0,0.4234165,0.3072,0.5059501" OffsetPos="0,806" Size="768,215" OriginalSize="768,1366" ShowPosInPI="0,1103" />
+    <PuzzleUnit Name="star_12" UV="0.308,0.4234165,0.6152,0.5024952" OffsetPos="0,813" Size="768,206" OriginalSize="768,1366" ShowPosInPI="770,1103" />
+    <PuzzleUnit Name="star_13" UV="0.616,0.4234165,0.9232,0.4921305" OffsetPos="0,817" Size="768,179" OriginalSize="768,1366" ShowPosInPI="1540,1103" />
+    <PuzzleUnit Name="star_14" UV="0,0.5067179,0.3072,0.5815739" OffsetPos="0,819" Size="768,195" OriginalSize="768,1366" ShowPosInPI="0,1320" />
+    <PuzzleUnit Name="star_15" UV="0.308,0.5067179,0.6152,0.5888675" OffsetPos="0,823" Size="768,214" OriginalSize="768,1366" ShowPosInPI="770,1320" />
+    <PuzzleUnit Name="star_16" UV="0.616,0.5067179,0.9232,0.5934741" OffsetPos="0,831" Size="768,226" OriginalSize="768,1366" ShowPosInPI="1540,1320" />
+    <PuzzleUnit Name="star_17" UV="0,0.5942419,0.3072,0.6740883" OffsetPos="0,844" Size="768,208" OriginalSize="768,1366" ShowPosInPI="0,1548" />
+</PuzzleImage>

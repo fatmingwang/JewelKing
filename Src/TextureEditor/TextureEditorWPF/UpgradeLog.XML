@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="TextureEditorWPF">
+</Property><Property Name="Solution File" Value="C:\Users\Fatming\Desktop\FM79979\Src\TextureEditor\TextureEditorWPF\TextureEditorWPF.sln">
+</Property><Property Name="Date" Value="2012年7月22日">
+</Property><Property Name="Time" Value="下午 23:22:27">
+</Property></Properties><Event ErrorLevel="0" Project="TextureEditorWPF" Source="TextureEditorWPF.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="TextureEditorWPF" Source="TextureEditorWPF.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TextureEditorWPF" Source="TextureEditorWPF.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

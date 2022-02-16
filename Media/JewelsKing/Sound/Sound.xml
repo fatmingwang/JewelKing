@@ -1,0 +1,30 @@
+<SoundData Root="JewelsKing/Sound/">
+    <Static Name="Button_Bet.wav" Loop="0" />
+    <Static Name="Eliminate_ Prompt-1.wav" Loop="0" />
+    <Static Name="Eliminate_ Prompt-2.wav" Loop="0" />
+    <Static Name="Eliminate_ Prompt-3.wav" Loop="0" />
+    <Static Name="Eliminate_ Prompt-4.wav" Loop="0" />
+    <Static Name="Eliminate_ Prompt-5.wav" Loop="0" />
+    <Static Name="Eliminate_ Prompt-6.wav" Loop="0" />
+    <Static Name="Eliminate_ Prompt-7.wav" Loop="0" />
+    <Static Name="Eliminate_ Prompt-8.wav" Loop="0" />
+    <Static Name="Eliminate_ Prompt-9.wav" Loop="0" />
+    <Static Name="Eliminate_ Prompt-10.wav" Loop="0" />
+    <Static Name="FG.wav" Loop="1" />
+    <Static Name="FG_Get.wav" Loop="0" />
+    <Static Name="FG_In.wav" Loop="0" />
+
+    <Static Name="FG_ Prompt-1.wav" Loop="0" />
+    <Static Name="FG_ Prompt-2.wav" Loop="0" />
+    <Static Name="FG_ Prompt-3.wav" Loop="0" />
+    <Static Name="FG_ Prompt-4.wav" Loop="0" />
+    <Static Name="FG_ Prompt-5.wav" Loop="0" />
+    <Static Name="JP.wav" Loop="0" />
+    <Static Name="NG.wav" Loop="1" />
+    <Static Name="Prize1_500.wav" Loop="0" />
+    <Static Name="Prize501_1000.wav" Loop="0" />
+    <Static Name="Prize1001_5000.wav" Loop="0" />
+    <Static Name="Prize5000.wav" Loop="0" />
+    <Static Name="Stop.wav" Loop="0" />
+    <Static Name="Gold.wav" Loop="0" />
+</SoundData>

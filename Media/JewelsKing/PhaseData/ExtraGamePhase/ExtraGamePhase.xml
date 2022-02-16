@@ -1,0 +1,15 @@
+<FreeGamePhase>
+	<JPGame    KeyWord="Wild" ToNextFreeGameCount="5" JPMoney="99999" />
+	<!--FreePickaxeGame KeyWord="6" ToNextFreeGameCount="3" /-->
+	<!--FreeMiningGame KeyWord="15" ToNextFreeGameCount="3" FallDownSpeed="800" TrainMovingTime="1"/-->
+	<!--cPickRockBonusGame KeyWord="9" ToNextFreeGameCount="3" RockShowRowIndex="1" RockImageName="11" /-->
+	<ExplosionFreeGame KeyWord="0" ToNextFreeGameCount="0" FallDownSpeed="800" TenComboExtraMoneyMin="80000" TenComboExtraMoneyMax="120000" GameSpeed="1.5" />
+	<!--  so after explosing JP will rise again?...  JPGame    KeyWord="Wild" ToNextFreeGameCount="5" JPMoney="99999" /-->
+	<PickGemsForFreeGameAndBonus KeyWord="Free" ToNextFreeGameCount="3" FlashLightIOData="TenJewelData\PhaseData\ExtraGamePhase\PickGemsForFreeGameAndBonusLightIO.xml" >
+		<GemsData FreeTimes="25" BonusRate="1,2,3,5"/>
+		<GemsData FreeTimes="20" BonusRate="1,3,5,8"/>
+		<GemsData FreeTimes="15" BonusRate="1,5,8,10"/>
+		<GemsData FreeTimes="13" BonusRate="1,8,10,15"/>
+		<GemsData FreeTimes="10" BonusRate="1,10,15,30"/>
+	</PickGemsForFreeGameAndBonus>
+</FreeGamePhase>

@@ -1,0 +1,4 @@
+[10:21:38] GameInit start
+[10:21:38] init shader
+[10:21:38] init shader ok
+[10:21:38] parse font data

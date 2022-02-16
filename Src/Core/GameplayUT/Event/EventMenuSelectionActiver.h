@@ -1,0 +1,10 @@
+#ifndef _EVENT_MENU_SELECTION_ACTIVER_H_
+#define _EVENT_MENU_SELECTION_ACTIVER_H_
+
+namespace FATMING_CORE
+{
+
+//end namespace FATMING_CORE
+}
+
+#endif

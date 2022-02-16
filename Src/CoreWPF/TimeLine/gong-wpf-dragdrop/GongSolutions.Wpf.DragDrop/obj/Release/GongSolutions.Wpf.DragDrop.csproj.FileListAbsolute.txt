@@ -1,0 +1,7 @@
+H:\FM79979\Src\Media\GongSolutions.Wpf.DragDrop.dll
+H:\FM79979\Src\Media\GongSolutions.Wpf.DragDrop.pdb
+H:\FM79979\Src\CoreWPF\TimeLine\gong-wpf-dragdrop\GongSolutions.Wpf.DragDrop\obj\Release\ResolveAssemblyReference.cache
+H:\FM79979\Src\CoreWPF\TimeLine\gong-wpf-dragdrop\GongSolutions.Wpf.DragDrop\obj\Release\GongSolutions.Wpf.DragDrop.dll
+H:\FM79979\Src\CoreWPF\TimeLine\gong-wpf-dragdrop\GongSolutions.Wpf.DragDrop\obj\Release\GongSolutions.Wpf.DragDrop.pdb
+H:\FM79979\Src\CoreWPF\TimeLine\gong-wpf-dragdrop\GongSolutions.Wpf.DragDrop\bin\Release\GongSolutions.Wpf.DragDrop.dll
+H:\FM79979\Src\CoreWPF\TimeLine\gong-wpf-dragdrop\GongSolutions.Wpf.DragDrop\bin\Release\GongSolutions.Wpf.DragDrop.pdb

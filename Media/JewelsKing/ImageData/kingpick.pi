@@ -1,0 +1,16 @@
+<!-- Author:User,Time:2012/5/17 ¤U¤È 05:16:18 -->
+<PuzzleImage OriginalNameSort="kingPick_00,kingPick_01,kingPick_02,kingPick_03,kingPick_04,kingPick_05,kingPick_06,kingPick_07,kingPick_08,kingPick_09,kingPick_10,kingPick_11,kingPick_12" ImageName="kingpick.png" Count="13" GeneratePuzzleimageUnit="0">
+    <PuzzleUnit Name="kingPick_00" UV="0,0,0.2028985,0.3232589" OffsetPos="39,128" Size="532,492" OriginalSize="760,855" ShowPosInPI="0,0" />
+    <PuzzleUnit Name="kingPick_01" UV="0.2032799,0,0.4016018,0.3232589" OffsetPos="56,129" Size="520,492" OriginalSize="760,855" ShowPosInPI="533,0" />
+    <PuzzleUnit Name="kingPick_02" UV="0.4019832,0,0.5964912,0.3232589" OffsetPos="69,129" Size="510,492" OriginalSize="760,855" ShowPosInPI="1054,0" />
+    <PuzzleUnit Name="kingPick_03" UV="0.5968726,0,0.7890923,0.3232589" OffsetPos="79,129" Size="504,492" OriginalSize="760,855" ShowPosInPI="1565,0" />
+    <PuzzleUnit Name="kingPick_04" UV="0.7894737,0,0.9809306,0.3232589" OffsetPos="86,129" Size="502,492" OriginalSize="760,855" ShowPosInPI="2070,0" />
+    <PuzzleUnit Name="kingPick_05" UV="0,0.3239159,0.1914569,0.6471748" OffsetPos="91,129" Size="502,492" OriginalSize="760,855" ShowPosInPI="0,493" />
+    <PuzzleUnit Name="kingPick_06" UV="0.1918383,0.3239159,0.384058,0.6471748" OffsetPos="93,129" Size="504,492" OriginalSize="760,855" ShowPosInPI="503,493" />
+    <PuzzleUnit Name="kingPick_07" UV="0.3844393,0.3239159,0.5774218,0.6471748" OffsetPos="95,129" Size="506,492" OriginalSize="760,855" ShowPosInPI="1008,493" />
+    <PuzzleUnit Name="kingPick_08" UV="0.5778032,0.3239159,0.7715484,0.6458607" OffsetPos="97,130" Size="508,490" OriginalSize="760,855" ShowPosInPI="1515,493" />
+    <PuzzleUnit Name="kingPick_09" UV="0.7719298,0.3239159,0.9664378,0.6458607" OffsetPos="99,130" Size="510,490" OriginalSize="760,855" ShowPosInPI="2024,493" />
+    <PuzzleUnit Name="kingPick_10" UV="0,0.6478318,0.1937452,0.9710907" OffsetPos="102,129" Size="508,492" OriginalSize="760,855" ShowPosInPI="0,986" />
+    <PuzzleUnit Name="kingPick_11" UV="0.1941266,0.6478318,0.3871091,0.9710907" OffsetPos="105,129" Size="506,492" OriginalSize="760,855" ShowPosInPI="509,986" />
+    <PuzzleUnit Name="kingPick_12" UV="0.3874905,0.6478318,0.5797101,0.9710907" OffsetPos="109,128" Size="504,492" OriginalSize="760,855" ShowPosInPI="1016,986" />
+</PuzzleImage>

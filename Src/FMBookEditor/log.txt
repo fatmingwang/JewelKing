@@ -1,0 +1,5 @@
+[22:45:45] init shader
+[22:45:46] init shader ok
+[22:45:46] parse font data
+[22:45:51] parse font data failed
+[22:45:56] destory start

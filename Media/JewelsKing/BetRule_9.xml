@@ -1,0 +1,76 @@
+<BetRule TableCount="5,3" ShowRect="80,825,715,1200" >
+	<SpineObjectPrizeTable SpecialeSpinObject="Wild" qoo="左邊那個是說誰特別的物件任何人跟他都算連線" FreeGameImage="Free" >
+		<SpinObjectData Name="9" Probability="12">
+			<Prize Count="3" Odds="3" />
+			<Prize Count="4" Odds="5" />
+			<Prize Count="5" Odds="8" />
+		</SpinObjectData>
+		<SpinObjectData Name="10" Probability="12">
+			<Prize Count="3" Odds="5" />
+			<Prize Count="4" Odds="7" />
+			<Prize Count="5" Odds="9" />
+		</SpinObjectData>
+		<SpinObjectData Name="J" Probability="12">
+			<Prize Count="3" Odds="5" />
+			<Prize Count="4" Odds="7" />
+			<Prize Count="5" Odds="9" />
+		</SpinObjectData>
+		<SpinObjectData Name="Q" Probability="12">
+			<Prize Count="3" Odds="7" />
+			<Prize Count="4" Odds="9" />
+			<Prize Count="5" Odds="12" />
+		</SpinObjectData>
+		<SpinObjectData Name="K" Probability="8">
+			<Prize Count="3" Odds="8" />
+			<Prize Count="4" Odds="10" />
+			<Prize Count="5" Odds="14" />
+		</SpinObjectData>
+		<SpinObjectData Name="A" Probability="8" >
+			<Prize Count="3" Odds="9" />
+			<Prize Count="4" Odds="15" />
+			<Prize Count="5" Odds="20" />
+		</SpinObjectData>
+		<SpinObjectData Name="Mirror" Probability="10" index="6">
+			<Prize Count="3" Odds="15" />
+			<Prize Count="4" Odds="35" />
+			<Prize Count="5" Odds="40" />
+		</SpinObjectData>
+		<SpinObjectData Name="Scepter" Probability="100" index="7">
+			<Prize Count="3" Odds="20" />
+			<Prize Count="4" Odds="40" />
+			<Prize Count="5" Odds="60" />
+		</SpinObjectData>
+		<SpinObjectData Name="Crown" Probability="10" index="8" >
+			<Prize Count="3" Odds="40" />
+			<Prize Count="4" Odds="60" />
+			<Prize Count="5" Odds="80" />
+		</SpinObjectData>
+		<SpinObjectData Name="Gem" Probability="10" index="9" >
+			<Prize Count="3" Odds="100" />
+			<Prize Count="4" Odds="200" />
+			<Prize Count="5" Odds="500" />
+		</SpinObjectData>
+		<SpinObjectData Name="Wild" Probability="2"/>
+		<SpinObjectData Name="Free" Probability="2"/>
+	</SpineObjectPrizeTable>
+	<SlotLineObjectData Comment="這個是給固定是slot用的">
+		<SlotLineData	Data="1,2,3,4,5,6,7,8,9,10" />
+		<SlotLineData	Data="1,2,3,4,5,6,7,8,9,10" />
+		<SlotLineData	Data="1,2,3,4,5,6,7,8,9,10" />
+		<SlotLineData	Data="1,2,3,4,5,6,7,8,9,10" />
+		<SlotLineData	Data="1,2,3,4,5,6,7,8,9,10" />
+	</SlotLineObjectData>
+	<LineRule>
+		<LineRule IndexForOneLine="5,6,7,8,9" />
+		<LineRule IndexForOneLine="0,1,2,3,4" />
+		<LineRule IndexForOneLine="10,11,12,13,14" />
+		<LineRule IndexForOneLine="0,6,2,8,4" />
+		<LineRule IndexForOneLine="10,6,12,8,14" />
+
+		<LineRule IndexForOneLine="0,1,7,8,9" />
+		<LineRule IndexForOneLine="10,11,7,8,9" />
+		<LineRule IndexForOneLine="0,11,2,13,4" />
+		<LineRule IndexForOneLine="10,1,2,3,4" />
+	</LineRule>
+	<BetMoneyRule BetPerLine="1,2,3,4,5"/>
+</BetRule>

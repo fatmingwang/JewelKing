@@ -1,0 +1,8 @@
+[23:44:59] GameInit start
+[23:44:59] init shader
+[23:45:00] init shader ok
+[23:45:00] parse font data
+[23:45:00] parse font data ok
+[23:45:00] Control Panel data processed...
+[23:45:03] Load Game processed...
+[23:45:03] clean resource

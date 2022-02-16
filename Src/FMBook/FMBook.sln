@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FMBook", "FMBook.vcproj", "{F8354792-3C42-4818-B132-5B23C40C0A6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8354792-3C42-4818-B132-5B23C40C0A6E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F8354792-3C42-4818-B132-5B23C40C0A6E}.Debug|Win32.Build.0 = Debug|Win32
+		{F8354792-3C42-4818-B132-5B23C40C0A6E}.Release|Win32.ActiveCfg = Release|Win32
+		{F8354792-3C42-4818-B132-5B23C40C0A6E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

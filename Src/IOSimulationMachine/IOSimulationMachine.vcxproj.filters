@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Device">
+      <UniqueIdentifier>{6d47849e-0580-4c7a-81bb-26a62c0f78c6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Device\IOSMManager">
+      <UniqueIdentifier>{236b2846-51a8-4770-af68-4633010fcdfe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Device\IOType">
+      <UniqueIdentifier>{56082dbd-d293-4668-a83c-cfc299922c2e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DriverInterface">
+      <UniqueIdentifier>{1731d305-7cd1-4cc4-aae6-05bb4f192dd0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DriverInterface\IOData">
+      <UniqueIdentifier>{6ac01a5f-7ffd-4019-bf16-9d477db7d0b9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DriverInterface\IOData\8051">
+      <UniqueIdentifier>{30395011-d5c4-4505-a9b8-ffb5696c8371}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DriverInterface\IOData\AEWIN">
+      <UniqueIdentifier>{867c30d1-eac6-4b6e-96a3-1fb47ccfdf26}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DriverInterface\IOData\JMGB">
+      <UniqueIdentifier>{f2b8f906-e490-4f72-8860-8287851de1f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Comport">
+      <UniqueIdentifier>{320cc33f-996c-4644-bbae-0cb50caaa5a7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="IOSMManager.cpp">
+      <Filter>Device\IOSMManager</Filter>
+    </ClCompile>
+    <ClCompile Include="IOSMBaseDevice.cpp">
+      <Filter>Device\IOType</Filter>
+    </ClCompile>
+    <ClCompile Include="IOSMDeviceBehavior.cpp">
+      <Filter>Device\IOType</Filter>
+    </ClCompile>
+    <ClCompile Include="IOSMDriverInterfaceEmpty.cpp">
+      <Filter>DriverInterface</Filter>
+    </ClCompile>
+    <ClCompile Include="IOSMIOData_Empty.cpp">
+      <Filter>DriverInterface\IOData</Filter>
+    </ClCompile>
+    <ClCompile Include="8051\IOSMDataGH8051.cpp">
+      <Filter>DriverInterface\IOData\8051</Filter>
+    </ClCompile>
+    <ClCompile Include="8051\IOSMDriverInterfaceGH8051.cpp">
+      <Filter>DriverInterface\IOData\8051</Filter>
+    </ClCompile>
+    <ClCompile Include="Aewin\IOSMData_AEWIN.cpp">
+      <Filter>DriverInterface\IOData\AEWIN</Filter>
+    </ClCompile>
+    <ClCompile Include="Aewin\IOSMDriverInterface_AEWIN.cpp">
+      <Filter>DriverInterface\IOData\AEWIN</Filter>
+    </ClCompile>
+    <ClCompile Include="JMGB\IOSMDriverInterface_JMGB.cpp">
+      <Filter>DriverInterface\IOData\JMGB</Filter>
+    </ClCompile>
+    <ClCompile Include="JMGB\IOSMIODataJMGB.cpp">
+      <Filter>DriverInterface\IOData\JMGB</Filter>
+    </ClCompile>
+    <ClCompile Include="Comport\SerialCtrl.cpp">
+      <Filter>Comport</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="IOSMManager.h">
+      <Filter>Device\IOSMManager</Filter>
+    </ClInclude>
+    <ClInclude Include="IOSMBaseDevice.h">
+      <Filter>Device\IOType</Filter>
+    </ClInclude>
+    <ClInclude Include="IOSMDeviceBehavior.h">
+      <Filter>Device\IOType</Filter>
+    </ClInclude>
+    <ClInclude Include="IOSMDriverInterface.h">
+      <Filter>DriverInterface</Filter>
+    </ClInclude>
+    <ClInclude Include="IOSMIOData.h">
+      <Filter>DriverInterface\IOData</Filter>
+    </ClInclude>
+    <ClInclude Include="8051\GH8051.h">
+      <Filter>DriverInterface\IOData\8051</Filter>
+    </ClInclude>
+    <ClInclude Include="Aewin\AEWINFPGA.h">
+      <Filter>DriverInterface\IOData\AEWIN</Filter>
+    </ClInclude>
+    <ClInclude Include="Aewin\FPGAWinXPLib.h">
+      <Filter>DriverInterface\IOData\AEWIN</Filter>
+    </ClInclude>
+    <ClInclude Include="JMGB\GUIDDefine.h">
+      <Filter>DriverInterface\IOData\JMGB</Filter>
+    </ClInclude>
+    <ClInclude Include="JMGB\JMGBStructureDefine.h">
+      <Filter>DriverInterface\IOData\JMGB</Filter>
+    </ClInclude>
+    <ClInclude Include="JMGB\JMIOCTL.H">
+      <Filter>DriverInterface\IOData\JMGB</Filter>
+    </ClInclude>
+    <ClInclude Include="Comport\SerialCtrl.h">
+      <Filter>Comport</Filter>
+    </ClInclude>
+    <ClInclude Include="AllIOSMInclude.h" />
+    <ClInclude Include="stdafx.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Readme.txt">
+      <Filter>DriverInterface</Filter>
+    </Text>
+  </ItemGroup>
+</Project>

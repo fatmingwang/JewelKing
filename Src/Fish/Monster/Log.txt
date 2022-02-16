@@ -1,0 +1,7 @@
+Jan/12/2013
+
+while FishGo called but Boss(Turtlth) is disappear,it is because its AI behavior is not at Path behavior,so I setup TurtleBossMoving.fat,make it force to run path behavior.
+
+Jan/25/2013
+
+add BodyType(Small,Mediun,Big)

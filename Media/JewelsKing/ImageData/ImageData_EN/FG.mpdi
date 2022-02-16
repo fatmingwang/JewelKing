@@ -1,0 +1,86 @@
+<MPDIList Name="FG_mpdi" Count="5" MPDIVersion="1.1" PICount="1" ImageName="FG.pi">
+    <MultiPathDynamicImage Name="INTO" PathCount="1" PlayCount="1" TotalPlayTime="1.100000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="roomtransition" StartTime="0.000000" AnchorType="CenterCenter" Count="11" LOD="1">
+            <PointDataList Index="0" Position="-5.50,0.00,0.00" Time="0.000000" Size="779.00,732.00" PIName="FG" ImageName="roomtransition_00" />
+            <PointDataList Index="1" Position="-5.50,0.00,0.00" Time="0.111111" Size="779.00,732.00" PIName="FG" ImageName="roomtransition_01" />
+            <PointDataList Index="2" Position="-5.50,0.00,0.00" Time="0.222222" Size="779.00,732.00" PIName="FG" ImageName="roomtransition_02" />
+            <PointDataList Index="3" Position="-5.50,0.00,0.00" Time="0.333333" Size="779.00,732.00" PIName="FG" ImageName="roomtransition_03" />
+            <PointDataList Index="4" Position="-5.50,0.00,0.00" Time="0.444444" Size="779.00,732.00" PIName="FG" ImageName="roomtransition_04" />
+            <PointDataList Index="5" Position="-5.50,0.00,0.00" Time="0.555556" Size="779.00,732.00" PIName="FG" ImageName="roomtransition_05" />
+            <PointDataList Index="6" Position="-5.50,0.00,0.00" Time="0.666667" Size="779.00,732.00" PIName="FG" ImageName="roomtransition_06" />
+            <PointDataList Index="7" Position="-5.50,0.00,0.00" Time="0.777778" Size="779.00,732.00" PIName="FG" ImageName="roomtransition_07" />
+            <PointDataList Index="8" Position="-5.50,0.00,0.00" Time="0.888889" Size="779.00,732.00" PIName="FG" ImageName="roomtransition_08" />
+            <PointDataList Index="9" Position="-5.50,0.00,0.00" Time="1.000000" Size="779.00,732.00" PIName="FG" ImageName="roomtransition_09" />
+            <PointDataList Index="10" Position="-5.50,0.00,0.00" Time="1.100000" Size="779.00,732.00" PIName="FG" ImageName="roomtransition_11" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="diamain" PathCount="5" PlayCount="-1" TotalPlayTime="1.000000">
+        <CueToStartCurvesWithTime Name="diamain_01" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="62.50,370.00,0.00" Time="1.000000" Size="139.00,97.00" PIName="FG" ImageName="diamain_01" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="diamain_02" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="68.40,367.00,0.00" Time="1.000000" Size="111.00,80.00" PIName="FG" ImageName="diamain_02" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="diamain_03" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="73.50,370.00,0.00" Time="1.000000" Size="153.00,98.00" PIName="FG" ImageName="diamain_03" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="diamain_04" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="81.50,367.00,0.00" Time="1.000000" Size="109.00,131.00" PIName="FG" ImageName="diamain_04" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="diamain_05" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="90.50,370.00,0.00" Time="1.000000" Size="139.00,98.00" PIName="FG" ImageName="diamain_05" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="diamain2" PathCount="5" PlayCount="-1" TotalPlayTime="1.000000">
+        <CueToStartCurvesWithTime Name="diamain_01" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="62.50,370.00,0.00" Time="1.000000" Size="160.00,137.00" PIName="FG" ImageName="diamain_01a" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="diamain_02" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="68.40,367.00,0.00" Time="1.000000" Size="145.00,123.00" PIName="FG" ImageName="diamain_02a" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="diamain_03" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="73.50,370.00,0.00" Time="1.000000" Size="162.00,137.00" PIName="FG" ImageName="diamain_03a" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="diamain_04" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="81.50,367.00,0.00" Time="1.000000" Size="146.00,173.00" PIName="FG" ImageName="diamain_04a" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="diamain_05" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="90.50,370.00,0.00" Time="1.000000" Size="165.00,133.00" PIName="FG" ImageName="diamain_05a" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="LEAVE" PathCount="1" PlayCount="1" TotalPlayTime="1.100000">
+        <CueToStartCurvesWithTime Name="roomtransition" StartTime="0.000000" AnchorType="CenterCenter" Count="11" LOD="1">
+            <PointDataList Index="0" Position="-5.50,0.00,0.00" Time="0.000000" Size="779.00,732.00" PIName="FG" ImageName="roomtransition_10" />
+            <PointDataList Index="1" Position="-5.50,0.00,0.00" Time="0.111111" Size="779.00,732.00" PIName="FG" ImageName="roomtransition_09" />
+            <PointDataList Index="2" Position="-5.50,0.00,0.00" Time="0.222222" Size="779.00,732.00" PIName="FG" ImageName="roomtransition_08" />
+            <PointDataList Index="3" Position="-5.50,0.00,0.00" Time="0.333333" Size="779.00,732.00" PIName="FG" ImageName="roomtransition_07" />
+            <PointDataList Index="4" Position="-5.50,0.00,0.00" Time="0.444444" Size="779.00,732.00" PIName="FG" ImageName="roomtransition_06" />
+            <PointDataList Index="5" Position="-5.50,0.00,0.00" Time="0.555556" Size="779.00,732.00" PIName="FG" ImageName="roomtransition_05" />
+            <PointDataList Index="6" Position="-5.50,0.00,0.00" Time="0.666667" Size="779.00,732.00" PIName="FG" ImageName="roomtransition_04" />
+            <PointDataList Index="7" Position="-5.50,0.00,0.00" Time="0.777778" Size="779.00,732.00" PIName="FG" ImageName="roomtransition_03" />
+            <PointDataList Index="8" Position="-5.50,0.00,0.00" Time="0.888889" Size="779.00,732.00" PIName="FG" ImageName="roomtransition_02" />
+            <PointDataList Index="9" Position="-5.50,0.00,0.00" Time="1.000000" Size="779.00,732.00" PIName="FG" ImageName="roomtransition_01" />
+            <PointDataList Index="10" Position="-5.50,0.00,0.00" Time="1.100000" Size="779.00,732.00" PIName="FG" ImageName="roomtransition_00" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="plate" PathCount="6" PlayCount="1" TotalPlayTime="1.000000">
+        <CueToStartCurvesWithTime Name="plate_01" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="114.50,548.00,0.00" Time="1.000000" Size="105.00,134.00" PIName="FG" ImageName="plate_01" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="plate_02" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="223.50,490.00,0.00" Time="1.000000" Size="105.00,134.00" PIName="FG" ImageName="plate_02" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="plate_03" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="331.50,548.00,0.00" Time="1.000000" Size="105.00,134.00" PIName="FG" ImageName="plate_03" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="plate_04" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="444.50,490.00,0.00" Time="1.000000" Size="105.00,134.00" PIName="FG" ImageName="plate_04" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="plate_05" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="555.50,548.00,0.00" Time="1.000000" Size="105.00,134.00" PIName="FG" ImageName="plate_05" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="ChooseJewels" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="101.00,43.00,0.00" Time="1.000000" Size="567.00,130.00" PIName="FG" ImageName="ChooseJewels" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+</MPDIList>

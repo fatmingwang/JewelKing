@@ -1,0 +1,94 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Core", "..\Core\Core.vcproj", "{D5962A80-CFCF-437A-B224-01C03CF9FD1A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "JewelsKing_Win32", "Win32Test\Win32Test.vcproj", "{77E00846-770C-45AA-99A1-EF295FB97B74}"
+	ProjectSection(ProjectDependencies) = postProject
+		{AF0E7859-3773-4E19-923E-38894C43973D} = {AF0E7859-3773-4E19-923E-38894C43973D}
+		{D5962A80-CFCF-437A-B224-01C03CF9FD1A} = {D5962A80-CFCF-437A-B224-01C03CF9FD1A}
+		{CB79DCA3-5F7A-423F-BA3E-01DF441C06B1} = {CB79DCA3-5F7A-423F-BA3E-01DF441C06B1}
+		{E063A3A9-93FD-4F7A-AD22-AA36A144B338} = {E063A3A9-93FD-4F7A-AD22-AA36A144B338}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IOSimulationMachine", "..\IOSimulationMachine\IOSimulationMachine.vcproj", "{E063A3A9-93FD-4F7A-AD22-AA36A144B338}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FMEvent", "..\Core\GameplayUT\Event\Event.vcproj", "{CB79DCA3-5F7A-423F-BA3E-01DF441C06B1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ControlPanel", "ControlPanel\ControlPanel.vcproj", "{AF0E7859-3773-4E19-923E-38894C43973D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		DebugFixedPipeline|Win32 = DebugFixedPipeline|Win32
+		DotNetDebug|Win32 = DotNetDebug|Win32
+		DotNetRelease|Win32 = DotNetRelease|Win32
+		Release|Win32 = Release|Win32
+		ReleaseFixedPipeline|Win32 = ReleaseFixedPipeline|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5962A80-CFCF-437A-B224-01C03CF9FD1A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D5962A80-CFCF-437A-B224-01C03CF9FD1A}.Debug|Win32.Build.0 = Debug|Win32
+		{D5962A80-CFCF-437A-B224-01C03CF9FD1A}.DebugFixedPipeline|Win32.ActiveCfg = DebugFixedPipeline|Win32
+		{D5962A80-CFCF-437A-B224-01C03CF9FD1A}.DebugFixedPipeline|Win32.Build.0 = DebugFixedPipeline|Win32
+		{D5962A80-CFCF-437A-B224-01C03CF9FD1A}.DotNetDebug|Win32.ActiveCfg = Debug|Win32
+		{D5962A80-CFCF-437A-B224-01C03CF9FD1A}.DotNetDebug|Win32.Build.0 = Debug|Win32
+		{D5962A80-CFCF-437A-B224-01C03CF9FD1A}.DotNetRelease|Win32.ActiveCfg = Release|Win32
+		{D5962A80-CFCF-437A-B224-01C03CF9FD1A}.DotNetRelease|Win32.Build.0 = Release|Win32
+		{D5962A80-CFCF-437A-B224-01C03CF9FD1A}.Release|Win32.ActiveCfg = Release|Win32
+		{D5962A80-CFCF-437A-B224-01C03CF9FD1A}.Release|Win32.Build.0 = Release|Win32
+		{D5962A80-CFCF-437A-B224-01C03CF9FD1A}.ReleaseFixedPipeline|Win32.ActiveCfg = ReleaseFixedPipeline|Win32
+		{D5962A80-CFCF-437A-B224-01C03CF9FD1A}.ReleaseFixedPipeline|Win32.Build.0 = ReleaseFixedPipeline|Win32
+		{77E00846-770C-45AA-99A1-EF295FB97B74}.Debug|Win32.ActiveCfg = Debug|Win32
+		{77E00846-770C-45AA-99A1-EF295FB97B74}.Debug|Win32.Build.0 = Debug|Win32
+		{77E00846-770C-45AA-99A1-EF295FB97B74}.DebugFixedPipeline|Win32.ActiveCfg = DebugFixedPipeline|Win32
+		{77E00846-770C-45AA-99A1-EF295FB97B74}.DebugFixedPipeline|Win32.Build.0 = DebugFixedPipeline|Win32
+		{77E00846-770C-45AA-99A1-EF295FB97B74}.DotNetDebug|Win32.ActiveCfg = Debug|Win32
+		{77E00846-770C-45AA-99A1-EF295FB97B74}.DotNetDebug|Win32.Build.0 = Debug|Win32
+		{77E00846-770C-45AA-99A1-EF295FB97B74}.DotNetRelease|Win32.ActiveCfg = Release|Win32
+		{77E00846-770C-45AA-99A1-EF295FB97B74}.DotNetRelease|Win32.Build.0 = Release|Win32
+		{77E00846-770C-45AA-99A1-EF295FB97B74}.Release|Win32.ActiveCfg = Release|Win32
+		{77E00846-770C-45AA-99A1-EF295FB97B74}.Release|Win32.Build.0 = Release|Win32
+		{77E00846-770C-45AA-99A1-EF295FB97B74}.ReleaseFixedPipeline|Win32.ActiveCfg = ReleaseFixedpipeline|Win32
+		{77E00846-770C-45AA-99A1-EF295FB97B74}.ReleaseFixedPipeline|Win32.Build.0 = ReleaseFixedpipeline|Win32
+		{E063A3A9-93FD-4F7A-AD22-AA36A144B338}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E063A3A9-93FD-4F7A-AD22-AA36A144B338}.Debug|Win32.Build.0 = Debug|Win32
+		{E063A3A9-93FD-4F7A-AD22-AA36A144B338}.DebugFixedPipeline|Win32.ActiveCfg = Debug|Win32
+		{E063A3A9-93FD-4F7A-AD22-AA36A144B338}.DebugFixedPipeline|Win32.Build.0 = Debug|Win32
+		{E063A3A9-93FD-4F7A-AD22-AA36A144B338}.DotNetDebug|Win32.ActiveCfg = DotNetDebug|Win32
+		{E063A3A9-93FD-4F7A-AD22-AA36A144B338}.DotNetDebug|Win32.Build.0 = DotNetDebug|Win32
+		{E063A3A9-93FD-4F7A-AD22-AA36A144B338}.DotNetRelease|Win32.ActiveCfg = DotNetRelease|Win32
+		{E063A3A9-93FD-4F7A-AD22-AA36A144B338}.DotNetRelease|Win32.Build.0 = DotNetRelease|Win32
+		{E063A3A9-93FD-4F7A-AD22-AA36A144B338}.Release|Win32.ActiveCfg = Release|Win32
+		{E063A3A9-93FD-4F7A-AD22-AA36A144B338}.Release|Win32.Build.0 = Release|Win32
+		{E063A3A9-93FD-4F7A-AD22-AA36A144B338}.ReleaseFixedPipeline|Win32.ActiveCfg = Release|Win32
+		{E063A3A9-93FD-4F7A-AD22-AA36A144B338}.ReleaseFixedPipeline|Win32.Build.0 = Release|Win32
+		{CB79DCA3-5F7A-423F-BA3E-01DF441C06B1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CB79DCA3-5F7A-423F-BA3E-01DF441C06B1}.Debug|Win32.Build.0 = Debug|Win32
+		{CB79DCA3-5F7A-423F-BA3E-01DF441C06B1}.DebugFixedPipeline|Win32.ActiveCfg = Debug|Win32
+		{CB79DCA3-5F7A-423F-BA3E-01DF441C06B1}.DebugFixedPipeline|Win32.Build.0 = Debug|Win32
+		{CB79DCA3-5F7A-423F-BA3E-01DF441C06B1}.DotNetDebug|Win32.ActiveCfg = Debug|Win32
+		{CB79DCA3-5F7A-423F-BA3E-01DF441C06B1}.DotNetDebug|Win32.Build.0 = Debug|Win32
+		{CB79DCA3-5F7A-423F-BA3E-01DF441C06B1}.DotNetRelease|Win32.ActiveCfg = Release|Win32
+		{CB79DCA3-5F7A-423F-BA3E-01DF441C06B1}.DotNetRelease|Win32.Build.0 = Release|Win32
+		{CB79DCA3-5F7A-423F-BA3E-01DF441C06B1}.Release|Win32.ActiveCfg = Release|Win32
+		{CB79DCA3-5F7A-423F-BA3E-01DF441C06B1}.Release|Win32.Build.0 = Release|Win32
+		{CB79DCA3-5F7A-423F-BA3E-01DF441C06B1}.ReleaseFixedPipeline|Win32.ActiveCfg = Release|Win32
+		{CB79DCA3-5F7A-423F-BA3E-01DF441C06B1}.ReleaseFixedPipeline|Win32.Build.0 = Release|Win32
+		{AF0E7859-3773-4E19-923E-38894C43973D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AF0E7859-3773-4E19-923E-38894C43973D}.Debug|Win32.Build.0 = Debug|Win32
+		{AF0E7859-3773-4E19-923E-38894C43973D}.DebugFixedPipeline|Win32.ActiveCfg = Debug|Win32
+		{AF0E7859-3773-4E19-923E-38894C43973D}.DebugFixedPipeline|Win32.Build.0 = Debug|Win32
+		{AF0E7859-3773-4E19-923E-38894C43973D}.DotNetDebug|Win32.ActiveCfg = Debug|Win32
+		{AF0E7859-3773-4E19-923E-38894C43973D}.DotNetDebug|Win32.Build.0 = Debug|Win32
+		{AF0E7859-3773-4E19-923E-38894C43973D}.DotNetRelease|Win32.ActiveCfg = Release|Win32
+		{AF0E7859-3773-4E19-923E-38894C43973D}.DotNetRelease|Win32.Build.0 = Release|Win32
+		{AF0E7859-3773-4E19-923E-38894C43973D}.Release|Win32.ActiveCfg = Release|Win32
+		{AF0E7859-3773-4E19-923E-38894C43973D}.Release|Win32.Build.0 = Release|Win32
+		{AF0E7859-3773-4E19-923E-38894C43973D}.ReleaseFixedPipeline|Win32.ActiveCfg = Release|Win32
+		{AF0E7859-3773-4E19-923E-38894C43973D}.ReleaseFixedPipeline|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

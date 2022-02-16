@@ -1,0 +1,95 @@
+<MPDIList Name="jewelrain_mpdi" Count="6" MPDIVersion="1.1" PICount="1" ImageName="jewel.pi">
+    <MultiPathDynamicImage Name="jewel_1-500" PathCount="1" PlayCount="1" TotalPlayTime="1.000000">
+        <CueToStartCurvesWithTime Name="jewel" StartTime="0.000000" AnchorType="CenterCenter" Count="10" LOD="1">
+            <PointDataList Index="0" Position="202.15,187.11,0.00" Time="0.000000" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_18" />
+            <PointDataList Index="1" Position="202.15,187.11,0.00" Time="0.111111" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_19" />
+            <PointDataList Index="2" Position="202.15,187.11,0.00" Time="0.222222" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_20" />
+            <PointDataList Index="3" Position="202.15,187.11,0.00" Time="0.333333" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_21" />
+            <PointDataList Index="4" Position="202.15,187.11,0.00" Time="0.444444" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_22" />
+            <PointDataList Index="5" Position="202.15,187.11,0.00" Time="0.555556" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_23" />
+            <PointDataList Index="6" Position="202.15,187.11,0.00" Time="0.666667" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_24" />
+            <PointDataList Index="7" Position="202.15,187.11,0.00" Time="0.777778" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_25" />
+            <PointDataList Index="8" Position="202.15,187.11,0.00" Time="0.888889" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_26" />
+            <PointDataList Index="9" Position="202.15,187.11,0.00" Time="1.000000" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_27" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="jewel_501-1000" PathCount="2" PlayCount="1" TotalPlayTime="3.000000">
+        <CueToStartCurvesWithTime Name="jewel1" StartTime="0.000000" AnchorType="CenterCenter" Count="2" LOD="1">
+            <PointDataList Index="0" Position="62.62,690.00,0.00" Time="0.000000" Size="643.00,112.00" PIName="jewel" ImageName="diamain_up" />
+            <PointDataList Index="1" Position="62.50,657.00,0.00" Time="3.000000" Size="643.00,112.00" PIName="jewel" ImageName="diamain_up" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="jewel" StartTime="0.000000" AnchorType="CenterCenter" Count="10" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="202.15,187.11,0.00" Time="0.000000" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_18" />
+            <PointDataList Index="1" Position="202.15,187.11,0.00" Time="0.111111" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_19" />
+            <PointDataList Index="2" Position="202.15,187.11,0.00" Time="0.222222" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_20" />
+            <PointDataList Index="3" Position="202.15,187.11,0.00" Time="0.333333" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_21" />
+            <PointDataList Index="4" Position="202.15,187.11,0.00" Time="0.444444" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_22" />
+            <PointDataList Index="5" Position="202.15,187.11,0.00" Time="0.555556" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_23" />
+            <PointDataList Index="6" Position="202.15,187.11,0.00" Time="0.666667" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_24" />
+            <PointDataList Index="7" Position="202.15,187.11,0.00" Time="0.777778" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_25" />
+            <PointDataList Index="8" Position="202.15,187.11,0.00" Time="0.888889" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_26" />
+            <PointDataList Index="9" Position="202.15,187.11,0.00" Time="1.000000" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_27" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="jewel_1001-5000" PathCount="2" PlayCount="1" TotalPlayTime="5.000000">
+        <CueToStartCurvesWithTime Name="jewel1" StartTime="0.000000" AnchorType="CenterCenter" Count="2" LOD="1">
+            <PointDataList Index="0" Position="62.62,690.00,0.00" Time="0.000000" Size="643.00,112.00" PIName="jewel" ImageName="diamain_up" />
+            <PointDataList Index="1" Position="62.50,633.00,0.00" Time="5.000000" Size="643.00,112.00" PIName="jewel" ImageName="diamain_up" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="jewel" StartTime="0.000000" AnchorType="CenterCenter" Count="10" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="202.15,187.11,0.00" Time="0.000000" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_18" />
+            <PointDataList Index="1" Position="202.15,187.11,0.00" Time="0.111111" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_19" />
+            <PointDataList Index="2" Position="202.15,187.11,0.00" Time="0.222222" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_20" />
+            <PointDataList Index="3" Position="202.15,187.11,0.00" Time="0.333333" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_21" />
+            <PointDataList Index="4" Position="202.15,187.11,0.00" Time="0.444444" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_22" />
+            <PointDataList Index="5" Position="202.15,187.11,0.00" Time="0.555556" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_23" />
+            <PointDataList Index="6" Position="202.15,187.11,0.00" Time="0.666667" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_24" />
+            <PointDataList Index="7" Position="202.15,187.11,0.00" Time="0.777778" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_25" />
+            <PointDataList Index="8" Position="202.15,187.11,0.00" Time="0.888889" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_26" />
+            <PointDataList Index="9" Position="202.15,187.11,0.00" Time="1.000000" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_27" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="jewel_5000up" PathCount="2" PlayCount="1" TotalPlayTime="10.000000">
+        <CueToStartCurvesWithTime Name="jewel1" StartTime="0.000000" AnchorType="CenterCenter" Count="2" LOD="1">
+            <PointDataList Index="0" Position="62.62,690.00,0.00" Time="0.000000" Size="643.00,112.00" PIName="jewel" ImageName="diamain_up" />
+            <PointDataList Index="1" Position="62.50,598.00,0.00" Time="10.000000" Size="643.00,112.00" PIName="jewel" ImageName="diamain_up" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="jewel" StartTime="0.000000" AnchorType="CenterCenter" Count="10" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="202.15,187.11,0.00" Time="0.000000" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_18" />
+            <PointDataList Index="1" Position="202.15,187.11,0.00" Time="0.111111" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_19" />
+            <PointDataList Index="2" Position="202.15,187.11,0.00" Time="0.222222" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_20" />
+            <PointDataList Index="3" Position="202.15,187.11,0.00" Time="0.333333" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_21" />
+            <PointDataList Index="4" Position="202.15,187.11,0.00" Time="0.444444" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_22" />
+            <PointDataList Index="5" Position="202.15,187.11,0.00" Time="0.555556" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_23" />
+            <PointDataList Index="6" Position="202.15,187.11,0.00" Time="0.666667" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_24" />
+            <PointDataList Index="7" Position="202.15,187.11,0.00" Time="0.777778" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_25" />
+            <PointDataList Index="8" Position="202.15,187.11,0.00" Time="0.888889" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_26" />
+            <PointDataList Index="9" Position="202.15,187.11,0.00" Time="1.000000" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_27" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="jewel_3" PathCount="1" PlayCount="1" TotalPlayTime="0.800000">
+        <CueToStartCurvesWithTime Name="jewel" StartTime="0.000000" AnchorType="CenterCenter" Count="8" LOD="1">
+            <PointDataList Index="0" Position="202.00,187.00,0.00" Time="0.000000" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_29" />
+            <PointDataList Index="1" Position="202.00,187.00,0.00" Time="0.114286" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_30" />
+            <PointDataList Index="2" Position="202.00,187.00,0.00" Time="0.228571" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_31" />
+            <PointDataList Index="3" Position="202.00,187.00,0.00" Time="0.342857" Size="779.00,638.00" PIName="jewel" ImageName="diamainrain_32" />
+            <PointDataList Index="4" Position="202.00,187.00,0.00" Time="0.457143" Size="779.00,533.00" PIName="jewel" ImageName="diamainrain_33" />
+            <PointDataList Index="5" Position="202.00,187.00,0.00" Time="0.571429" Size="671.00,392.00" PIName="jewel" ImageName="diamainrain_34" />
+            <PointDataList Index="6" Position="202.00,187.00,0.00" Time="0.685714" Size="663.00,249.00" PIName="jewel" ImageName="diamainrain_35" />
+            <PointDataList Index="7" Position="202.00,187.00,0.00" Time="0.800000" Size="575.00,92.00" PIName="jewel" ImageName="diamainrain_36" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="jewel_1" PathCount="1" PlayCount="1" TotalPlayTime="0.800000">
+        <CueToStartCurvesWithTime Name="jewel" StartTime="0.000000" AnchorType="LeftUp" Count="9" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="601.00,167.00" PIName="jewel" ImageName="diamainrain_9" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.100000" Size="751.00,228.00" PIName="jewel" ImageName="diamainrain_10" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.200000" Size="762.00,276.00" PIName="jewel" ImageName="diamainrain_11" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.300000" Size="779.00,339.00" PIName="jewel" ImageName="diamainrain_12" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.400000" Size="779.00,422.00" PIName="jewel" ImageName="diamainrain_13" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.500000" Size="779.00,502.00" PIName="jewel" ImageName="diamainrain_14" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.600000" Size="779.00,578.00" PIName="jewel" ImageName="diamainrain_15" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="0.700000" Size="779.00,653.00" PIName="jewel" ImageName="diamainrain_16" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="0.800000" Size="779.00,732.00" PIName="jewel" ImageName="diamainrain_17" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+</MPDIList>

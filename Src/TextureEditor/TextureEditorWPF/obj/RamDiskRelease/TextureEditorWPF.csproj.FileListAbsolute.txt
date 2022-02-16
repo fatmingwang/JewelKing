@@ -1,0 +1,17 @@
+e:\TextureEditorWPF.dll
+e:\TextureEditorWPF.pdb
+C:\Users\Fatming\Desktop\FM79979\Src\TextureEditor\TextureEditorWPF\obj\RamDiskRelease\TextureEditorWPF.csprojResolveAssemblyReference.cache
+C:\Users\Fatming\Desktop\FM79979\Src\TextureEditor\TextureEditorWPF\obj\RamDiskRelease\MPDI\MPDIVideo.baml
+C:\Users\Fatming\Desktop\FM79979\Src\TextureEditor\TextureEditorWPF\obj\RamDiskRelease\MPDI\MPDI_PathPointData.baml
+C:\Users\Fatming\Desktop\FM79979\Src\TextureEditor\TextureEditorWPF\obj\RamDiskRelease\MPDI\MPDI_UI.baml
+C:\Users\Fatming\Desktop\FM79979\Src\TextureEditor\TextureEditorWPF\obj\RamDiskRelease\ProjectUI.baml
+C:\Users\Fatming\Desktop\FM79979\Src\TextureEditor\TextureEditorWPF\obj\RamDiskRelease\MPDI\MPDIVideo.g.cs
+C:\Users\Fatming\Desktop\FM79979\Src\TextureEditor\TextureEditorWPF\obj\RamDiskRelease\MPDI\MPDI_PathPointData.g.cs
+C:\Users\Fatming\Desktop\FM79979\Src\TextureEditor\TextureEditorWPF\obj\RamDiskRelease\MPDI\MPDI_UI.g.cs
+C:\Users\Fatming\Desktop\FM79979\Src\TextureEditor\TextureEditorWPF\obj\RamDiskRelease\ProjectUI.g.cs
+C:\Users\Fatming\Desktop\FM79979\Src\TextureEditor\TextureEditorWPF\obj\RamDiskRelease\TextureEditorWPF_MarkupCompile.cache
+C:\Users\Fatming\Desktop\FM79979\Src\TextureEditor\TextureEditorWPF\obj\RamDiskRelease\TextureEditorWPF.g.resources
+C:\Users\Fatming\Desktop\FM79979\Src\TextureEditor\TextureEditorWPF\obj\RamDiskRelease\TextureEditorWPF.Properties.Resources.resources
+C:\Users\Fatming\Desktop\FM79979\Src\TextureEditor\TextureEditorWPF\obj\RamDiskRelease\TextureEditorWPF.csproj.GenerateResource.Cache
+C:\Users\Fatming\Desktop\FM79979\Src\TextureEditor\TextureEditorWPF\obj\RamDiskRelease\TextureEditorWPF.dll
+C:\Users\Fatming\Desktop\FM79979\Src\TextureEditor\TextureEditorWPF\obj\RamDiskRelease\TextureEditorWPF.pdb
